@@ -1,0 +1,52 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Compile
+        run: |
+          BUILD=$(($(git rev-list --count --first-parent HEAD)+100))
+          VERSION=$(($(git rev-list --count --first-parent HEAD)))
+          TODAY=$(date +"%d.%m.%y")
+          echo "BUILD=${BUILD}" >> "$GITHUB_ENV"
+          echo "TODAY=${TODAY}" >> "$GITHUB_ENV"
+          echo "Build number ${BUILD}"
+          mkdir -p out
+          zip -qry ./out/hollow-knight-turkish-v${BUILD}.zip TR || exit 1
+          echo "Kurulum detayları için [buraya](https://github.com/SFGrenade/LanguageSupport#adding-additional-translations) bakın." >> release_notes.md
+
+      - name: Release
+        if: github.repository_owner == 'Witch-Love'
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ env.BUILD }}
+          release_name: Hollow Knight Turkish Files v${{ env.BUILD }}
+          body_path: release_notes.md
+          draft: false
+          prerelease: false
+
+      - name: Upload TR Files
+        if: github.repository_owner == 'Witch-Love'
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./out/hollow-knight-turkish-v${{ env.BUILD }}.zip
+          asset_name: hollow-knight-turkish-v${{ env.BUILD }}.zip
+          asset_content_type: application/zip

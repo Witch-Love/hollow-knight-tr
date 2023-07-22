@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_BALANCE_ZERO">B-ben de bir sey kalmadı... Ben de eee, sanırım sende simdi kendi yoluna gideceksin, degil mi?&lt;page&gt;E-e-evet, sanırım bu ikimiz içinde e-en iyisi bu olur...</entry>
+<entry name="BANKER_GREET">Merhaba tatlım! Geo yatırmaya mı geldin yoksa?</entry>
+<entry name="BANKER_FAREWELL">Hosçakal.</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">Dur bakalım. Ne yazık ki, hesap açtırmaya yetecek Geo&#39;n bile yok. 100 Geo biriktirir biriktirmez bana gel de hesabını açalım.</entry>
+<entry name="BANKER_DEPOSIT">Dogru karar, tatlım! Geocukların yanımda güvende olacak. </entry>
+<entry name="BANKER_ACCT_OPEN">Zeki sey. Artık canavarcıklar seni yediginde, Geocuklarının kabug- ehemm... kasamda güvende oldugunu bileceksin.&lt;page&gt;Iste bankacılık.</entry>
+<entry name="BANKER_SPA_GREET">Ne? Ah... iyi de s-sen dönmüssün. Ben de buradan ayrıldıgında, seni son kez... sey... son kez gördügümü sanmıstım.&lt;page&gt;Eee... tabi su Geo... Geo meselesi vardı. Bilmelisin ki bu is benim için de yorucuydu. Bayagı da stresliydi. Bu yüzden bankacılık olayına bir son verdim.</entry>
+<entry name="BANKER_SPA_MEET">Ah...e-ee, merhaba t-tatlım. Buraya gelmen ne kadar da garip oldu.&lt;page&gt;Geo&#39;nun mu pesindesin yoksa? Görüyorsun ya, iste sey. Üzücü bir durum ama, hepsi gitti. Hepsini harcadım.&lt;page&gt;Banka isletmenin de yüksek bir bedeli var sonuçta. Bende hesabındaki parayı büyük hizmetimin karsılıgı olarak aldım.&lt;page&gt;Tabiki yasalara uygun bir islem bu. Tüm bu bankacılık anlasmasının bir parçası... ah... ha... ha... ha...&lt;page&gt;Yine de beni ziyaret ettigin için tesekkür ederim. Ben seni tutmayayım. Simdi beni yalnız bırakabilirsen sevinirim. Yakında çıkacagım zaten. Ondan sonra rahat rahat buranın tadını çıkarırsın.</entry>
+<entry name="BANKER_DREAM">...Güzelim kaplıcalara ne zaman dönsem?...Su o kadar güzelki kabugumdaki gerginligi bile gideriyor...</entry>
+<entry name="BANKER_SPA_REPEAT">...Haksızlıga ugradıgını falan düsünmüyorsundur umarım...</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">Hala mı ilgilenmiyorsun? Çok kuskulusun. Cesur kararlar vermeli ve kararlılıgını saglamalısın. Insanlar böyle böyle Geo milyarderi oluyor. </entry>
+<entry name="BANKER_MEET">Merhaba tatlım. Tam dükkanı kapatıyordum ki sen geldin. Ilgini çeker mi bilmiyorum, sahıslara banka hizmeti sunuyorum.&lt;page&gt;Bilirsin, Geocuklarını kaybetmek çok kötüdür ve yanında tasıdıgın zaman kaybetme ihtimalinde az degil.&lt;page&gt;Kasam çok güvenlidir. Bankacılık kariyerim boyunca tek bir Geo&#39;yu bile kaybetmedim.&lt;page&gt;Belki sende hesap açmak istersin?</entry>
+<entry name="BANKER_DREAM_SPA">...Olamaz... bırak beni, seni küçük ucube...</entry>
+<entry name="BANKER_CANCEL">Fikrini mi degistirdin? Pekala... ne zaman istersen ugrayabilirsin.</entry>
+<entry name="BANKER_REMEET">Hesap açma konusundaki düsünceni mi degistirdin yoksa? Geo kaybetmek çok kötüdür.&lt;page&gt;Geolarının benim yanımda, güvende oldugunu bilirsen, bu büyük, tehlikeli dünyada daha rahat hareket edebilirsin.</entry>
+<entry name="BANKER_WITHDRAW">Geo çektigin için tesekkürler. Hepsini tek seferde harcayayım deme sakın!</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">...Sanırım bir süre burada dinlenecegim. Evet, bu en iyisi.</entry>
+<entry name="BANKER_ACCT_DECLINE">Anlıyorum. Onca alın teri dökerek kazandıgın Geolardan ayrılmak kolay degil tabi. Fikrini degistirirsen, burada olacagım.</entry>
+</entries>

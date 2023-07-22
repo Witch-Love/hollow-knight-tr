@@ -1,0 +1,30 @@
+<entries>
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">Yeterince Geo&#39;n mu yok? Parayı denklestirdiginde gel o zaman.</entry>
+<entry name="MODELLING">Kraliyet sövalyeleri için zırh tasarlıyoruz. Eskiden onları umursamazdım. Sheo ise kendince hepsini hatırlıyor.&lt;page&gt;Insanı rahatlatıyor. Igne isçiligi gibisi yok. Tüm bu ayrıntılı, karmasık düzeneklere bayılıyorum.</entry>
+<entry name="PAINTED">Korkarım konusacak zamanım yok. Kıpırdarsam Sheo&#39;nun çalısması mahvolur. Onu üzgün görmek istemem.&lt;page&gt;Heybetliymis gibi duruyor ama aslında o çok narin.</entry>
+<entry name="NAILSMITH_DREAM_CLIFF">Hayatımın isini yaptım... Baska ne kaldı ki...?</entry>
+<entry name="NAILSMITH_ACCEPT">Nasıl istersen. Ben ise koyulayım.</entry>
+<entry name="NAILSMITH_GREET">He, döndün demek.</entry>
+<entry name="ART_MEET">Ha? Ah, merhaba gezgin dostum. Bu kadar büyük bir dünyada yeniden karsılasabilmemiz ne kadar da garip.&lt;page&gt;Senden beni öldürmemi istediginde hayır dedigin için sana tesekkür etmeliyim. Baslarda tedirgindim ancak zamanla düsünmeye fırsatım oldu ve sonunda kararının ne kadar bilgece oldugunu anladım.&lt;page&gt;Dünya yalnızca metal ve silahlardan ibaret degilmis. Dolasmaya çıkmıstım. O sırada burayı buldum.&lt;page&gt;Sheo pek çok sanatta ustalasmıstı. Bana elinden geldigince ögretecegine söz verdi. Burada mutlu olacagımı düsünüyorum.</entry>
+<entry name="ART_DREAM">....O kadar zamanı yalnız basıma didinerek geçirdim... Bu çok daha iyi...</entry>
+<entry name="NAILSMITH_MEET_1">Bilenecek baska bir igne daha mı getirdin? Suraya bırak. Bir ara almaya gelirsin. Tabi ölmezsen.</entry>
+<entry name="NAILSMITH_MEET_2">Ha?&lt;page&gt;Ah, seni baskası sandım.</entry>
+<entry name="NAILSMITH_MEET_3">Igneci mi arıyorsun yoksa? Öyleyse buldun. Konuskan degilimdir. Ancak ignenin onarıma ihtiyacı varsa dogru böcege geldin.&lt;page&gt;Ignen kötüymüs. Benimkilerden degil. Yine de emek ve beceri bir araya gelince kırık bir igne onarılabilir.</entry>
+<entry name="NAILSMITH_KILL_REPEAT">Tereddüt etme. Sana yalvarıyorum. Öldür beni! Ignenin bedenimi kesisini hissetmek istiyorum.</entry>
+<entry name="NAILSMITH_OFFER_ORE">Gördügüm kadarıyla elinde Solukcevher var. Nadir bulunan kaliteli bir metaldir. Cevheri uzat. Birde isçiligim için birazcık Geo dökülürsen ignenin eksisinden saglam hale getirebilirim.</entry>
+<entry name="NAILSMITH_REGREET">Ha? Gitmemissin. Baska bir sey mi istiyorsun?</entry>
+<entry name="NAILSMITH_OFFER">Igneni onarabilir. Hatta çok daha ölümcül kılabilirim.</entry>
+<entry name="NAILSMITH_KILL">Kusursuz Igne dövüldügüne göre ömrümün sonuna geldim. Tek istegim bu ignenin dokunusunu hissetmek ve görmek!&lt;page&gt;Yalvarırım. Öldür beni. Bu hayattaki son istegim ignenin bedenimi kesisini hissetmek.&lt;page&gt;Bu kadar zamandan, emekten sonra... bunu hak etmedim mi sence?</entry>
+<entry name="NAILSMITH_SIGN">Yeni</entry>
+<entry name="MODELLING_REPEAT">Bu harika. Pençelerimin böyle bir yapım becerisine sahip olacagına asla inanmazdım.</entry>
+<entry name="NAILSMITH_DECLINE">Ilgini çekmedi mi? Sen bilirsin.</entry>
+<entry name="NAILSMITH_COMPLETE_1">Bu kadar. Dövme islemi tamamdır.&lt;page&gt;Ignenin kenarlarını biledim. Eskisinden daha güçlü oldugunu göreceksin.&lt;page&gt;Dısarı atıl ve düsmanlarına karsı bir dene bakalım.</entry>
+<entry name="NAILSMITH_COMPLETE_2">Bu kadar. Dövme islemi tamamdır.&lt;page&gt;Ignende oluk açtım. Artık düsmanlarını keserken daha etkili olacak. Eskisinden daha güçlü oldugunu göreceksin.&lt;page&gt;Dısarı çıktıgında düsmanlarına karsı denersin.</entry>
+<entry name="NAILSMITH_COMPLETE_3">Bu kadar. Dövme islemi tamamdır.&lt;page&gt;Igneni sarmal hale getirdim. Epey ugrastırdı. Eskisinden daha güçlü oldugunu göreceksin.&lt;page&gt;Gidebilirsin. Dene bakalım olmus mu.</entry>
+<entry name="NAILSMITH_COMPLETE_4">Bitirdim. Dövme islemi tamamdır.&lt;page&gt;Ignen eskisinde kat be kat güçlü. Daha güçlü olamazdı da diyebiliriz.&lt;page&gt;Bir tek senin ignende bu potansiyeli gördüm. Iste, Kusursuz Igne tüm ihtisamıyla karsımda duruyor.&lt;page&gt;Bu anın bu kadar çabuk geldigini düsünüyorum da...&lt;page&gt;...Ben... ben biraz dısarıya çıkacagım...</entry>
+<entry name="NAILSMITH_DREAM_INTERIOR">...en kusursuz igneyi dövecegim...</entry>
+<entry name="PAINTED_REPEAT">Kutsalyuva&#39;nın karanlıgında böyle büyüleyici bir varlıkla tanısacagımı kim bilebilirdi...</entry>
+<entry name="NAILSMITH_NEED_ORE1">Eger bana bir adet Solukcevher getirebilirsen ignenin dövüp daha da güçlendirebilirim.</entry>
+<entry name="NAILSMITH_NEED_ORE2">Eger bana iki adet Solukcevher getirebilirsen ignenin dövüp daha da güçlendirebilirim.</entry>
+<entry name="NAILSMITH_NEED_ORE3">Eger bana üç adet Solukcevher getirebilirsen ignenin dövüp daha da güçlendirebilirim.</entry>
+</entries>
