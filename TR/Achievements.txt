@@ -1,6 +1,6 @@
 <entries>
 <entry name="COMPLETIONGG_TITLE">Katıksız Bitis</entry>
-<entry name="GRIMM_TEXT">Toplulugun önderi Kararık&#39;ı yen</entry>
+<entry name="GRIMM_TEXT">Toplulugun önderi Grimm&#39;i yen</entry>
 <entry name="HIDDEN_ACHIEVEMENT">Bu basarım gizlidir</entry>
 <entry name="GREY_PRINCE_TEXT">Boz Prens Zote&#39;u yen</entry>
 <entry name="FK_DEFEAT_TITLE">Sahte</entry>
@@ -16,7 +16,7 @@
 <entry name="COLLECTOR_TITLE">Takıntı</entry>
 <entry name="ENDINGD_TEXT">Kutsalyuva Anıtı&#39;na çık ve zirvedeki yerini al</entry>
 <entry name="ATTUNEMENT_TITLE">Uyum</entry>
-<entry name="NIGHTMARE_GRIMM_TEXT">Karabasan Kralı&#39;nı yen ve Ayin&#39;i tamamla</entry>
+<entry name="NIGHTMARE_GRIMM_TEXT">Kabus Kral&#39;ı yen ve Ayin&#39;i tamamla</entry>
 <entry name="PROTECTED_TITLE">Korunan</entry>
 <entry name="DREAM_SOUL_MASTER_DEFEAT_TEXT">Ruh Tiranı&#39;nı yen</entry>
 <entry name="QUIRREL_EPILOGUE_TITLE">Sahit</entry>
@@ -24,7 +24,7 @@
 <entry name="NAILSMITH_KILL_TITLE">Saflık</entry>
 <entry name="METAMORPHOSIS_TEXT">Kısılı kalmıs larvaların tamamını kurtar</entry>
 <entry name="SPEEDRUN_1_TEXT">Oyunu 10 saatten kısa sürede tamamla</entry>
-<entry name="BANISHMENT_TEXT">Kararık Toplulugu Kutsalyuva&#39;dan sür</entry>
+<entry name="BANISHMENT_TEXT">Grimm Toplulugunu Kutsalyuva&#39;dan sür</entry>
 <entry name="STEELSOUL_TEXT">Oyunu Çelik Ruh modunda tamamla</entry>
 <entry name="COMPLETIONGG_TEXT">Oyunu %112 tamamla ve oyunu bitir</entry>
 <entry name="WORLDSOUL_TITLE">Dünyanın Ruhları</entry>

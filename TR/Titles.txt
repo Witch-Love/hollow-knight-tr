@@ -429,7 +429,7 @@
 <entry name="FLUKEMARM_MAIN">Dişana</entry>
 <entry name="GH_100NAIL_C_SUB"> John Nugent</entry>
 <entry name="GH_KARINA_C_SUPER"></entry>
-<entry name="NIGHTMARE_GRIMM_MAIN">Kararık</entry>
+<entry name="NIGHTMARE_GRIMM_MAIN">Grimm</entry>
 <entry name="TISO_C_SUPER"></entry>
 <entry name="HIDDEN_STATION_SUPER">Gizli</entry>
 <entry name="GH_MILLY_NC_SUPER"></entry>
@@ -492,10 +492,10 @@
 <entry name="CORNIFER_MAIN">Cornifer</entry>
 <entry name="NAILSMITH_MAIN">İğneci</entry>
 <entry name="GH_XERO_NC_SUPER"></entry>
-<entry name="GRIMM_MAIN">Kararık</entry>
+<entry name="GRIMM_MAIN">Grimm</entry>
 <entry name="STAGNEST_SUB"> </entry>
 <entry name="MIMIC_SPIDER_MAIN">Nosk</entry>
-<entry name="NIGHTMARE_GRIMM_SUPER">Karabasan Kralı</entry>
+<entry name="NIGHTMARE_GRIMM_SUPER">Kabus Kralı</entry>
 <entry name="MAWLEK_SUPER">Yetişkin</entry>
 <entry name="STAG2_SUB"></entry>
 <entry name="ABYSS_SUB"></entry>

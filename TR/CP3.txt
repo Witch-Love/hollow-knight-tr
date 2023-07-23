@@ -7,7 +7,7 @@
 <entry name="DUNG_UNDERGROUND_DREAM">Kutsalyuva&#39; yüce sövalyelerinin sonu nasıl gelecek? Sonuncu ben mi olacagım? Yeni bir sövalye seçmek mümkün mü?</entry>
 <entry name="GODSEEKER_WASTE_MAIN">Eskilik Çukuru</entry>
 <entry name="GODSEEKER_WATERWAYS_AWAKE_2">Seni buraya getiren nedir, sürüngen? Inanç mı, korku mu? Yoksa Tanrıları mı arıyorsun?&lt;page&gt;Burası Krallıgın Yüregi oluyor. Burada onları dinliyoruz. Kimi Tanrılar yine de uzakta kalıyor. Uyandırılmaları gerekiyor.&lt;page&gt;Tanrıalır&#39;ı al ve bul onları! Bul! Böylece yollarına çıkabilirler. Zihinlerine hitap edebilirler. Evlerine dönebilirler.&lt;page&gt;Ödüle gelirsek, bu hizmetin karsılıgıyla burada var olmana izin verilecek. Yüce kabugumuza bakıp hayran kalabileceksin. Güzelligimizden etkilenebileceksin!</entry>
-<entry name="UI_MENU_STYLE_GRIMM">Kararık Topluluk</entry>
+<entry name="UI_MENU_STYLE_GRIMM">Grimm Toplulugu</entry>
 <entry name="MATO_1">Kardesler hep yan yana savasır!</entry>
 <entry name="GODSEEKER_ENGINE_ROOT_REPEAT">Ey, görkemli olan, yalvarırız göster kendini! Zihnimiz sizsiz çok güçsüz...</entry>
 <entry name="GG_S_WATCHERKNIGHTS">Kule&#39;nin Gözcü Tanrıları</entry>
@@ -107,7 +107,7 @@
 <entry name="GG_UNLOCK_FINAL_TALK">Vahsi! Isgalci! Bu kutsal zihne girmeye hakkın yok. Defol, çık git!</entry>
 <entry name="GAME_CONTROLLER_RUMBLE_PS4">Titresim</entry>
 <entry name="NAME_NAILMASTERS">Oro &amp; Mato</entry>
-<entry name="GG_S_NIGHTMARE_KING">Karabasan Tanrısı</entry>
+<entry name="GG_S_NIGHTMARE_KING">Kabus Tanrısı</entry>
 <entry name="NAILSMITH_CORPSE">...Kusursuz...</entry>
 <entry name="NOTE_FAT_FLUKE">Avcılar fazlasıyla basarılı oldugunda, yedikleri besinlerin çogunlugu vücutlarını kaplayan yumusak yıgına katılır. Yine de bu yaratıklar fazlalıklarını iyi kullanıyor.</entry>
 <entry name="GRIMM_GG_3">Arayıcı, çagrına yanıt vermek benim için onurdur!</entry>
@@ -207,7 +207,7 @@
 <entry name="MEGA_MOSS_SUB"></entry>
 <entry name="GODSEEKER_ENGINE_WYRM_REPEAT">Çok güçlü bir Tanrı... Tamamen ortadan kayboluyor. Bu nasıl mümkün olabilir?</entry>
 <entry name="PROFILE_CORRUPTED">Kayıt dosyası bozulmuş.</entry>
-<entry name="PS4_ACHIEVE_GRIMM_END_TITLE">Karabasan&#39;ın Sonu</entry>
+<entry name="PS4_ACHIEVE_GRIMM_END_TITLE">Kabus&#39;un Sonu</entry>
 <entry name="GG_S_MEGAMOSS">Tedirgin Birliktelik Tanrısı</entry>
 <entry name="DIVINE_DUNG_CHARM">Ah, bu koku! Çok güçlü, çok etkili, ancak aradıgım bu degil.&lt;page&gt;Farklı bir kokuya özlem duyuyorum. Degerli, hassas... Narin. Ah! Getir bana! Getir onu!</entry>
 <entry name="HIVE_KNIGHT_1">Izliyor musunuz?</entry>
@@ -285,7 +285,7 @@
 <entry name="DESC_NATIVE_ACHIEVEMENTS_SWITCH">Bir görev tamamlanırken oyun içi ileti göster.</entry>
 <entry name="MODAL_ENGAGE_CONTROLLER">Başlamak için bir tusa bas.</entry>
 <entry name="NAME_FAILED_CHAMPION">Yenilmis Sampiyon</entry>
-<entry name="NIGHTMARE_GRIMM_GG_3">Dagınık bir yurt... Karabasan&#39;ın hükmünde...</entry>
+<entry name="NIGHTMARE_GRIMM_GG_3">Dagınık bir yurt... Kabus&#39;un hükmünde...</entry>
 <entry name="ENRAGED_GUARDIAN_MAIN">Muhafız</entry>
 <entry name="GG_LOCKED_DESC_FLUKEMUM">Borularda dolu bir labirentte dinleniyorum.</entry>
 <entry name="PLATINUM_TITLE">Kutsalyuva&#39;nın Yüregi</entry>

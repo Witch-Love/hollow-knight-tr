@@ -98,7 +98,7 @@
 <entry name="CHARM_DESC_25_G">Takınan kisiyi güçlendirerek ignesiyle düsmanlarına verdigi hasarı artırır.&lt;br&gt;&lt;br&gt;Bu tılsım kırılamaz.</entry>
 <entry name="CHARM_NAME_25">Kırılgan Güç</entry>
 <entry name="INV_NAME_TRINKET3">Kral Putu</entry>
-<entry name="CHARM_DESC_40">Kararık Toplulugun ayinine katılanlar tarafından takılır.&lt;br&gt;&lt;br&gt;Tasıyıcı Kararıksoyu bulmalı ve yalazlarını toplamalı. Toplanmayan yalazlar haritada belirir.</entry>
+<entry name="CHARM_DESC_40">Grimm Toplulugunun ayinine katılanlar tarafından takılır.&lt;br&gt;&lt;br&gt;Tasıyıcı Kararıksoyu bulmalı ve yalazlarını toplamalı. Toplanmayan yalazlar haritada belirir.</entry>
 <entry name="INV_DESC_MAPQUILL">Kutsalyuva&#39;nın haritası. Bank ve benzeri yerlerde dinlenilirken tüy kullanılarak harita güncellenir ve kesfedilen bölgeler eklenilir.</entry>
 <entry name="INV_NAME_SOULORBS_1">Damar Parçacıgı</entry>
 <entry name="INV_NAME_SOULORBS_2">Damar Parçacıkları</entry>

@@ -1,10 +1,10 @@
 <entries>
-<entry name="DESC_FLAMEBEARER_SMALL">Kararık Toplulugun genç ve oyuncu üyesi. Ayinin parçası olarak mesalesi ile kızıl yalaz toplar. Yenildikten sonra yalazı bırakır.</entry>
+<entry name="DESC_FLAMEBEARER_SMALL">Grimm Toplulugunun genç ve oyuncu üyesi. Ayinin parçası olarak mesalesi ile kızıl yalaz toplar. Yenildikten sonra yalazı bırakır.</entry>
 <entry name="NOTE_MAGE_BALLOON">Bu ahmakların ölümsüzlügü aradıgına dair fısıltılar isitmistim. Hayatımda bu kadar tiksindirici bir sey duymamıstım!</entry>
 <entry name="NAME_GIANT_HOPPER">Büyük Zıpzıp</entry>
 <entry name="NOTE_PALACE_FLY">Kutsalyuva böcekleri Kral&#39;ın tüm dünyayı ve içindekileri yarattıgına inanıyordu. Acaba neden yarattı? Yurttaslar arkadasları, oyuncakları ya da çocukları falan mı olacaktı? Böyle bir zihin bilinemez.</entry>
 <entry name="NOTE_MENDERBUG">Kutsalyuva&#39;da yasayan böcekler bir seyler yapmaya kafayı takmıstı. O küçücük zihinleri çok tuhaftı.</entry>
-<entry name="DESC_FLAMEBEARER_LARGE">Kararık toplulugun ürkütücü üyesi. Ayinin parçası olarak mesalesi ile kızıl yalaz toplar. Yenildikten sonra yalazı bırakır.</entry>
+<entry name="DESC_FLAMEBEARER_LARGE">Grimm toplulugunun ürkütücü üyesi. Ayinin parçası olarak mesalesi ile kızıl yalaz toplar. Yenildikten sonra yalazı bırakır.</entry>
 <entry name="DESC_COL_SHIELD">Ahmakların Arenası&#39;nda ün ugruna çarpısan bir savasçı. Düsmanlarına kalkanı kalkık sekilde dikkatle yaklasır.</entry>
 <entry name="NOTE_LAZY_FLYER">Bizi asan bu yasam döngüsü ne kadar da özensiz. Ancak birisi karaya yaklasırsa baska tabi...</entry>
 <entry name="DESC_HEALTH_SCUTTLER">Cansuyu dolu tanecikler. Saglıklı oldukları için tadılabilir ve tüketilebilirler.</entry>
@@ -75,12 +75,12 @@
 <entry name="NOTE_FUNG_CRAWLER">Geriye yaslan, agzını aç ve lezzetli lokmanın midene dogru inmesine yardım et.</entry>
 <entry name="DESC_JELLYFISH">Dıs çeperi eylemsizken çekirdegi sinirli, patlayıcı olan varlıklar.</entry>
 <entry name="DESC_ZOTE_FLYER">Saplantı bir zihin figürü. Miskin miskin düsmanların üzerine uçarak isteksizce de olsa efendisine yardım eder.</entry>
-<entry name="NAME_NIGHTMARE_GRIMM">Karabasan Kralı</entry>
+<entry name="NAME_NIGHTMARE_GRIMM">Kabus Kralı</entry>
 <entry name="DESC_ACID_FLYER">Dikenli kabugunun koruması altında uçan varlıklar.</entry>
 <entry name="NAME_ZOM_LEAPER">Atılgan Kabukçul</entry>
 <entry name="NOTE_PARASITE_BLOB">Garip hava yıllardır asagıya inmekte. Bu havanın bir kısmı sıvıya dönüstü. Bu sıvının bir kısmı bir sekilde ete dönüstü. Bu etin bir kısmı da canlandı. Bundan ne anlam çıkartmalıyım bilemiyorum.</entry>
 <entry name="NOTE_ZOM_HORNHEAD">Bu böcekler öldükten sonra bile kibirli. Hele su uzun boynuza bir bak... O boynuzları koparmaya bayılıyorum.</entry>
-<entry name="NOTE_FLAMEBEARER_SMALL">&quot;Gögeler sonsuz atesin düsünü&lt;br&gt;Yalazlar tüketirken küller saldırır&lt;br&gt;Biri gelir, yakar Karabasan Feneri&#39;ni&lt;br&gt;Hükmeder, Kararıgın ürkünç toplulugunu çagırır&quot;&lt;br&gt;- &#39;Kararık Topluluk&#39;</entry>
+<entry name="NOTE_FLAMEBEARER_SMALL">&quot;Gögeler sonsuz atesin düsünü&lt;br&gt;Yalazlar tüketirken küller saldırır&lt;br&gt;Biri gelir, yakar Kabus Feneri&#39;ni&lt;br&gt;Hükmeder, Grimm&#39;in ürkünç toplulugunu çagırır&quot;&lt;br&gt;- &#39;Grimm Toplulugu&#39;</entry>
 <entry name="NOTE_MOSQUITO">Sana saldırdıkları zaman panikleme. Oldugun yerde bekle ve yaklastıgında agzının ortasına yapıstır bir tane.</entry>
 <entry name="NAME_MIMIC_SPIDER">Nosk</entry>
 <entry name="NOTE_MOSS_WALKER">Bu seylerin hareket eden bitkiler oldugunu sanıyordum. Yaratık olduklarını ögrendigim andan itibaren bu seyleri yasatmadım. Avın dogası bu!</entry>
@@ -94,7 +94,7 @@
 <entry name="DESC_DUNG_DEFENDER">Kanalların merkezinde yasayan becerikli bir savasçı. Düsmanlarına sıkıstırılmıs dıskı toplarıyla saldırır.</entry>
 <entry name="NOTE_SPIDER_FLYER">Her an karanlık bir noktadan çıkabilirler! Avlarını sessizce takip ederken sanki aglar üzerinde dans ediyormus, havada uçuyormus gibi görünürler.</entry>
 <entry name="DESC_MOSS_WALKER">Zavallıcıklar daha büyük görünmek için kendilerini yapraklarla kaplar ve çalıların arasında saklanırlar.</entry>
-<entry name="DESC_FLAMEBEARER_MED">Kararık Toplulugun güçlü ve sadık üyesi. Ayinin parçası olarak mesalesi ile kızıl yalaz toplar. Yenildikten sonra yalazı bırakır.</entry>
+<entry name="DESC_FLAMEBEARER_MED">Grimm Toplulugunun güçlü ve sadık üyesi. Ayinin parçası olarak mesalesi ile kızıl yalaz toplar. Yenildikten sonra yalazı bırakır.</entry>
 <entry name="NAME_HATCHER">Anne Tükürek</entry>
 <entry name="DESC_ROYAL_GUARD">Egimli pençebıçak savuran Kutsalyuva Sarayının koruyucuları. Agır beyaz zırhları kırılgan bedenlerini korur.</entry>
 <entry name="DESC_MUSH_BRAWLER">Devasa mantarlar. Bedeniyle düsmanlarını sarsar ve çürütücü zehir tükürürler.</entry>
@@ -104,7 +104,7 @@
 <entry name="NAME_GHOST_ALADAR">Gorb</entry>
 <entry name="NOTE_MINES_CRAWLER">Bu canlıyı, özellikle bu canlıyı dikkate deger ya da ilginç bulmuyorum. Uçmayı ögrenmeli, ates solumalı ya da sarkı söyleyebilmeli. Varlıgını haklı çıkarmak için bir sey yapmalı.</entry>
 <entry name="DESC_LESSER_MAWLEK">Saldırırken asit tükürür ve ön pençelerini kullanır. </entry>
-<entry name="NOTE_NIGHTMARE_GRIMM">&quot;Geçmis düsün genislemesi bölünür,&lt;br&gt;Yurt bölünmüs, bir degil,&lt;br&gt;Karanlık varır, kızıl ölür,&lt;br&gt;Uykunun kargasası, karabasan yürek, hiç degil.&quot;&lt;br&gt;- Kahin</entry>
+<entry name="NOTE_NIGHTMARE_GRIMM">&quot;Geçmis düsün genislemesi bölünür,&lt;br&gt;Yurt bölünmüs, bir degil,&lt;br&gt;Karanlık varır, kızıl ölür,&lt;br&gt;Uykunun kargasası, Kabus yürek, hiç degil.&quot;&lt;br&gt;- Kahin</entry>
 <entry name="NAME_GRASS_HOPPER">Zıplarkaçar</entry>
 <entry name="NAME_MINI_SPIDER">Derincene</entry>
 <entry name="NAME_COL_MOSQUITO">Zırhlı Emersinek</entry>
@@ -224,7 +224,7 @@
 <entry name="DESC_ZOM_ROYAL_1">Kutsalyuva yüksek sosyetesinin eski üyeleri. Saldırı becerileri kısıtlı.</entry>
 <entry name="NOTE_PRAYER_SLUG">Çogunlukla yagdan olusan bu çaresiz canlılar uzun yolculuklarda çok güzel karın doyurur. En güzel de açıklıkta yakılmıs atesin üzerinde piserler. Eger hayatları için pazarlık yapmak isterlerse aldırma. Sana verebilecekleri hiçbir seyleri yok.</entry>
 <entry name="NOTE_BLOCKER">Yaslandıkça yuvarlanmak için asırı agır ve yumrulu bir hal alırlar. Bu yüzden kıvrılıp saklanmaya baslarlar. Kendilerini sarmaladıklarında ne düsünüyorlar acaba? Belki de gençliklerini özlüyorlardır.</entry>
-<entry name="NOTE_FLAMEBEARER_LARGE">&quot;Dans eden, ölen, sonsuzu gören&lt;br&gt;Çıkamayan sesler bagırır ve söyler&lt;br&gt;Toplulugun kara yüregi önünde dikilen&lt;br&gt;Karabasan Kralı&#39;nı yakar eder&quot;&lt;br&gt;- &#39;Kararık Topluluk&#39;</entry>
+<entry name="NOTE_FLAMEBEARER_LARGE">&quot;Dans eden, ölen, sonsuzu gören&lt;br&gt;Çıkamayan sesler bagırır ve söyler&lt;br&gt;Toplulugun kara yüregi önünde dikilen&lt;br&gt;Kabus Kralı&#39;nı yakar eder&quot;&lt;br&gt;- &#39;Grimm Toplulugu&#39;</entry>
 <entry name="DESC_PIGEON">Huzurlu yerlerde dolanan zararsız, uçan bir varlık. Genelde sürü halinde dolasırlar.</entry>
 <entry name="DESC_PLANT_SHOOTER">Tehdit edildiginde korumacı davranan bitkisel bir varlık. Düsmanlarını gördügünde sert topçuklar tükürür.</entry>
 <entry name="NOTE_MANTIS_FLYER_CHILD">Büyüdükçe uçma yetisini kaybeder. Genelde yetiskinlige eristiklerinde sevinçlidirler. Zamanla neler kaybettiklerini anlarlar.</entry>
@@ -238,7 +238,7 @@
 <entry name="NOTE_VOID_IDOL_2">&quot;Esinlenmis ya da delirmis, o kadim böcekler yok mu! Kendilerini ne bir ilaha, ne güce, ne kuvvete adadılar! Onların Tanrı gördükleri bir tek karanlık idi.&quot;&lt;br&gt;- Lemm</entry>
 <entry name="NOTE_VOID_IDOL_3">&quot;Esinlenmis ya da delirmis, o kadim böcekler yok mu! Kendilerini ne bir ilaha, ne güce, ne kuvvete adadılar! Onların Tanrı gördükleri bir tek karanlık idi.&quot;&lt;br&gt;- Lemm</entry>
 <entry name="DESC_CRYS_CRAWLER">Yavas, saglam bir yaratık. Sırtında yetisen kristaller yukarıdan saldıran düsmanlarına karsı fazladan koruma saglar.</entry>
-<entry name="DESC_GRIMM">Kararık Toplulugun efendisi.</entry>
+<entry name="DESC_GRIMM">Grimm Toplulugunun efendisi.</entry>
 <entry name="NOTE_BIGFLY">Çok tuhaf. Bu yaratık yumurta bırakmak yerine yavrularını karnında tasıyor. Bu garip uygulama yaratıgı yoruyor, uykusuz ve savunmaz kılıyor gibi. Bundan yararlan!</entry>
 <entry name="DESC_BIG_BEE">Devasa bedenini istilacılara fırlatarak Kovan&#39;ı korur. </entry>
 <entry name="DESC_MOSS_KNIGHT_FAT">Tembel, iri yapraktenlerdir. Kolayca sallanırlar. </entry>
@@ -428,7 +428,7 @@
 <entry name="NAME_ZOM_GUARD">Muhafız Kabukçul</entry>
 <entry name="NOTE_CRYS_CRAWLER">Büyük ve iyi korunuyor. Ancak yavas ve uysal. Kutsalyuva böcekleri bu yaratıkları maden arabası ve çesitli makineleri çekmeye zorlardı.</entry>
 <entry name="DESC_ZOM_SHIELD">Böceklerden geriye kalan bu seyler gizemli bir güç tarafından yönetilir. Igne ve kalkanları vardır.</entry>
-<entry name="NAME_GRIMM">Kararık</entry>
+<entry name="NAME_GRIMM">Grimm</entry>
 <entry name="NAME_PRAYER_SLUG">Kurtçuk</entry>
 <entry name="DESC_ZOM_RUNNER">Böceklerden geriye kalan bu seyler gizemli bir güç tarafından yönetilir. Eskiden yasadıkları yerlerde gezinip dururlar.</entry>
 <entry name="NOTE_ABYSS_TENDRIL">Kutsalyuva böcekleri bazen, altlarında baska krallıklar var mı diye merak ederdi. Ne kadar garip düsünceleri varmıs. Sanırım bu yüzden sürekli dikkatleri dagınık ve kolayca öldürülüyorlar.</entry>
@@ -455,7 +455,7 @@
 <entry name="DESC_BIGFLY">Karnında yavruları tasıyan olgun çökertek. Koca bedenini etrafa savurarak saldırılarını gerçeklestirir.</entry>
 <entry name="DESC_FLIP_HOPPER">Degismekte olan kosullara dönerek ve vücudunun diger tarafındaki kasları kullanarak uyum saglayabilen degisik bir yaratık.</entry>
 <entry name="NAME_SENTRY_1">Kabuklu Nöbetçi</entry>
-<entry name="NOTE_GRIMM">&quot;Düste, fenerde gezerim&#39;s call&lt;br&gt;Yıkık krallıgın yalazını tüketirim&quot;&lt;br&gt;- Kararık</entry>
+<entry name="NOTE_GRIMM">&quot;Düste, fenerde gezerim&#39;s call&lt;br&gt;Yıkık krallıgın yalazını tüketirim&quot;&lt;br&gt;- Grimm</entry>
 <entry name="NAME_MAWLEK_TURRET">Mavlurk</entry>
 <entry name="NOTE_ZOM_SPIDER">Bu diyarın yaratıkları pek çok pratik gizlenme yeri buldu. Ancak hiçbiri baska bir canlının bedenini kullanmayı düsünecek kadar zeki degildi! Bu yaratıklara denk geldiginde yüzün gülsün! Zira tek tasla iki kus vurmus olacaksın!</entry>
 <entry name="DESC_HOLLOW_KNIGHT">Olgunlasmıs Damar. Salgının yüregini bedeninde tasır.</entry>
@@ -484,7 +484,7 @@
 <entry name="NOTE_ZOM_BARGER">Bu ölüleri yogun turuncu bir sis ayaklandırıyor. Tatlı, hastalıklı bir tadı var. Kötü yani. Islerini bitirince bu zavallıları yemeni önermem.</entry>
 <entry name="DESC_BEE_HATCHLING">Kovan&#39;ın en küçük sakini. Kolay islerin adamı.</entry>
 <entry name="DESC_CRYS_LAZER_BUG">Sürünürken, farkında olmaksızın sırtındaki kristallerden yakıcı ısık salar.</entry>
-<entry name="NOTE_FLAMEBEARER_MED">&quot;Kızıl aydınlık, karanlık düsün yalazı&lt;br&gt;Kızıl karabasan, vahseti aydınlatır akar&lt;br&gt;Kımıldar görüsü, konusur yalazı&lt;br&gt;Baba yanar, yavru doyar&quot;&lt;br&gt;- &#39;Kararık Topluluk&#39;</entry>
+<entry name="NOTE_FLAMEBEARER_MED">&quot;Kızıl aydınlık, karanlık düsün yalazı&lt;br&gt;Kızıl karabasan, vahseti aydınlatır akar&lt;br&gt;Kımıldar görüsü, konusur yalazı&lt;br&gt;Baba yanar, yavru doyar&quot;&lt;br&gt;- &#39;Grimm Toplulugu&#39;</entry>
 <entry name="DESC_PRAYER_SLUG">Kutsalyuva krallıgının en zayıf canlıları. Asagılanırlar ve çalısmaya zorlanırlar.</entry>
 <entry name="NOTE_MOSS_FLYER">Tüm hayatları kaçmakla ya da saklanmakla geçiyor. Ne kadar da üzücü. Belki bu hayatı kendileri seçmislerdir ve bundan zevk alıyorlardır... Ilginç olurdu. Mümkün olabilir.</entry>
 <entry name="NAME_FUNGOON">Mantarbalon</entry>

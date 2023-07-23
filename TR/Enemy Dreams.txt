@@ -191,7 +191,7 @@
 <entry name="INFECTED_5">...PARLAK...</entry>
 <entry name="NIGHTMARE_GRIMM_GG_1">Tanrılar... törenlere baglanmıslar...</entry>
 <entry name="NIGHTMARE_GRIMM_GG_2">En derinlerde yatan güç... Yürek...</entry>
-<entry name="NIGHTMARE_GRIMM_GG_3">Dagınık bir yurt... Karabasan&#39;ın hükmünde...</entry>
+<entry name="NIGHTMARE_GRIMM_GG_3">Dagınık bir yurt... Kabus&#39;un hükmünde...</entry>
 <entry name="FLUKEMOTHER_1">...Üre...</entry>
 <entry name="FLUKEMOTHER_2">...Öldür...</entry>
 <entry name="FLUKEMOTHER_3">...Uzaklastır...</entry>
