@@ -7,7 +7,7 @@
 <entry name="COLOSSEUM_2_TEXT">Fatihler Dövüsü&#39;nü tamamla</entry>
 <entry name="COMPLETION_TITLE">Bitis</entry>
 <entry name="ATTUNEMENT_TEXT">600 öz topla</entry>
-<entry name="ENDING_B_TEXT">Esekarısı ile birlikte Oyuk Sövalye&#39;yi yen</entry>
+<entry name="ENDING_B_TEXT">Hornet ile birlikte Oyuk Sövalye&#39;yi yen</entry>
 <entry name="PANTHEON4_TITLE">Ruh &amp; Gölge</entry>
 <entry name="STEELSOUL_TITLE">Çelik Ruh</entry>
 <entry name="HIDDEN_ACHIEVEMENT_TITLE">Gizli</entry>
@@ -42,7 +42,7 @@
 <entry name="MR_MUSHROOM_TEXT">Haberci&#39;nin yenilenmesini sagla</entry>
 <entry name="TEACHER_TITLE">Ögretmen</entry>
 <entry name="PANTHEON2_TITLE">Esinlenme</entry>
-<entry name="HORNET_1_TEXT">Esekarısı&#39;nı Yesil Yol&#39;da yen</entry>
+<entry name="HORNET_1_TEXT">Hornet&#39;i Yesil Yol&#39;da yen</entry>
 <entry name="BROKEN_VESSEL_TITLE">Kurtulus</entry>
 <entry name="HUNTER_2_TITLE">Gerçek Avcı</entry>
 <entry name="ACH_TITLE_TEST">Deneme basarımının baslıgı</entry>
@@ -90,7 +90,7 @@
 <entry name="PANTHEON2_TEXT">Çizer Anıtı&#39; tamamla</entry>
 <entry name="COLOSSEUM_1_TEXT">Savasçılar Dövüsü&#39;nü tamamla</entry>
 <entry name="PANTHEON3_TEXT">Bilgin Anıtı&#39;nı tamamla</entry>
-<entry name="HORNET_2_TEXT">Esekarısı&#39;nı Krallıgın Ucu&#39;nda yen</entry>
+<entry name="HORNET_2_TEXT">Hornet&#39;i Krallıgın Ucu&#39;nda yen</entry>
 <entry name="DREAM_FK_TITLE">Güç</entry>
 <entry name="ENDING_C_TITLE">Düs Olmayan</entry>
 <entry name="SOULFUL_TEXT">3 damar parçacıgı elde et</entry>

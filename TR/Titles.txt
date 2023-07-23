@@ -416,7 +416,7 @@
 <entry name="DIRTMOUTH_SUPER"></entry>
 <entry name="ABYSS_DEEP_MAIN">Boşluk</entry>
 <entry name="PATH_OF_SACRIFICE_SUB"></entry>
-<entry name="HORNET_MAIN">Eşekarısı</entry>
+<entry name="HORNET_MAIN">Hornet</entry>
 <entry name="MINES_SUPER"></entry>
 <entry name="BIG_CATERPILLAR_SUB"></entry>
 <entry name="GH_MARISSA_C_SUB"> Marissa &quot;Blondie&quot; Brice</entry>

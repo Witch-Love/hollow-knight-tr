@@ -60,7 +60,7 @@
 <entry name="NAME_CRAWLER">Emekleç</entry>
 <entry name="NOTE_BURSTING_BOUNCER">Üst tarafından korkunç yapıskan ve zehirli gaz çıkıyor. Harbi bu salgının bir kaynagı var mı? Çünkü eger varsa, ben henüz görmedim.</entry>
 <entry name="NAME_PIGEON">Örtülsinek</entry>
-<entry name="NAME_HORNET">Esekarısı</entry>
+<entry name="NAME_HORNET">Hornet</entry>
 <entry name="NAME_BOUNCER">Çökertek</entry>
 <entry name="NAME_SENTRY_FLYING_JAVELIN">Mızraklı Nöbetçi</entry>
 <entry name="NAME_ZOM_BARGER">Belalı Kabukçul</entry>

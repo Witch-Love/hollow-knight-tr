@@ -246,8 +246,8 @@
 <entry name="GG_UNLOCK_TITLE">Tanrıcı Modu</entry>
 <entry name="GG_UNLOCK_TALK_REPEAT">Tapındıklarımız, bu rüzgarlar bizi yanınıza tasıyor...</entry>
 <entry name="GODSEEKER_ENGINE_WYRM_DREAM">Tanrı Kral, cılız kabuklarımızla esdeger olmak için varlıgınızı küçülttünüz... Neden ihtisamınızı bıraktınız?&lt;page&gt;Süpheniz, uçsuz bucaksız varlıgınız herkesin size iyice baglanmasını saglayabilirdi!</entry>
-<entry name="NAME_HORNET_1">Koruyucu Esekarısı</entry>
-<entry name="NAME_HORNET_2">Gözcü Esekarısı</entry>
+<entry name="NAME_HORNET_1">Koruyucu Hornet</entry>
+<entry name="NAME_HORNET_2">Gözcü Hornet</entry>
 <entry name="NAME_PURE_VESSEL">Kusursuz Damar</entry>
 <entry name="GODSEEKER_RADIANCE_STATUE">Ah, küçük varlık! Parıldayan en yüce varlıga karsı olsan bile, zafere erismek için verdigin savaslar bizi etkileyecek kadar güçlü oldugunu gösterdi.&lt;br&gt;&lt;page&gt;Ancak, düsün ve zihnin merkezinde yer alan yüce Tanrı ile tepede karsılastıgında onu alt etmeyi aklına bile getirme. Asla basaramayacaksın!</entry>
 <entry name="ENDING_D_TITLE">Hiçlikle Bütünleşme</entry>

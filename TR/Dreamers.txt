@@ -27,7 +27,7 @@
 <entry name="Sol ve git, küçük gölge.&lt;br&gt;&lt;br&gt;Sol ve git. Huzurla uyumamıza izin ver."></entry>
 <entry name="DREAMERS_EC1_1A">Mühürleri kırmayı mı açamlıyor?&lt;br&gt; Kırılamazlar.&lt;br&gt; Kırılmamalılar.&lt;page&gt;Izin ver uyuyalım, küçük gölge. Huzurumuzu bize bagısla.</entry>
 <entry name="Önemi yok. Mühürlerimiz duruyor. Bu gölge bizi küçümsemeye çalısıyor... Solup gitmesi gerek."></entry>
-<entry name="Geçmisinden bahsedelim, Ittifakının ve düsçü rolünün bir parçası olarak, Kral ona bir çocuk bahsetti (Esekarısı). Çocuk onda mı kalmıstı yoksa alınmıs mıydı?"></entry>
+<entry name="Geçmisinden bahsedelim, Ittifakının ve düsçü rolünün bir parçası olarak, Kral ona bir çocuk bahsetti (Hornet). Çocuk onda mı kalmıstı yoksa alınmıs mıydı?"></entry>
 <entry name="FAKE_GREET_1">Merhaba. Çok yorgun görünüyorsun. Otur ve dinlen.</entry>
 <entry name="LURIEN_CONVO_1">...saygıdeger kral için...</entry>
 <entry name="LURIEN_CONVO_2">...uyku için, hizmet için...</entry>
