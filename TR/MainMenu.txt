@@ -129,4 +129,5 @@
 <entry name="LANG_TR">Türkçe</entry>
 <entry name="BRIGHT_INSTRUCT">Parlaklık istediğin düzeye ulaşana kadar kaydır.</entry>
 <entry name="CTRL_PRESSBUTTON">Yeni Tuşa Bas</entry>
+<entry name="VID_OPT_BORDERLESS">Penceresiz</entry>
 </entries>
