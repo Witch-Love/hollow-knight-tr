@@ -23,7 +23,7 @@
 <entry name="PS4_ACHIEVE_ENDING_TEXT">Oyuk Sövalye&#39;yi yen ve oyunu tamamla.</entry>
 <entry name="MODAL_NO_SAVE">Kullanıcı girisi yapmadan oynamak ister misin?&lt;br&gt;Ilerlemen kaydedilmeyecek.</entry>
 <entry name="INV_NAME_GODFINDER">Tanrıalır</entry>
-<entry name="UI_MENU_STYLE_ETERNAL">Bitmeyen Sınav</entry>
+<entry name="UI_MENU_STYLE_ETERNAL">Ebedi İmtihan</entry>
 <entry name="CTRL_MARKERS">Belirteçler</entry>
 <entry name="GODSEEKER_WASTE_SUPER"></entry>
 <entry name="GG_S_LOBSTERLANCER">Yürekli Arena Tanrısı</entry>
@@ -55,11 +55,11 @@
 <entry name="CTRL_MARKER_CHANGE">Belirteci Degistir</entry>
 <entry name="GG_LOCKED_DESC_DUNGDEF">Krallıktaki boru yollarını koruyorum.</entry>
 <entry name="STORMLAND_SUPER"></entry>
-<entry name="ETERNAL_ORDEAL">Bitmeyen Sınav</entry>
+<entry name="ETERNAL_ORDEAL">Ebedi İmtihan</entry>
 <entry name="MARKER_B_DESC">Bu belirteçler daha yeni geldi. Önemli noktaları haritaya isaretlemek için kullanılabilirler!&lt;br&gt;&lt;br&gt;Bu renk sence de insanı rahatlatmıyor mu?</entry>
 <entry name="GODSEEKER_MAIN">Tanrıcı</entry>
 <entry name="SISTERS_SUB"></entry>
-<entry name="NAME_MANTIS_LORD_V">Savas Kardesleri</entry>
+<entry name="NAME_MANTIS_LORD_V">Savasın Kız Kardesleri</entry>
 <entry name="UI_MENU_EXTRA_HD_DESC">1. ÜCRETSİZ İÇERİK PAKETİ&lt;br&gt;&lt;br&gt;ÇIKIŞ TARİHİ: Ağustos 2017&lt;br&gt;&lt;br&gt;TANIM: Kutsalyuva&#39;nın düşleri gerçeğe bürünür.&lt;br&gt;&lt;br&gt;2 Yeni Ana Düşman - Yeni düşmanlarla savaşa tutuş.&lt;br&gt;&lt;br&gt;2 Yeni Müzik Parçası - İki karşılaşmaya da uygun iki görkemli tema müziği.&lt;br&gt;&lt;br&gt;Yeni Geliştirme - Düş Kapısı. KutsalyuvaKutsalyuva&#39;nın görkeminin kutlandığı şövalyenin son macerasına tanıklık et.&lt;br&gt;&lt;br&gt;Yeni Karakter ve Görev - Tanrıcı geliyor. Zincirlerini kır ve kadim görevinde yanında yer al.&lt;br&gt;&lt;br&gt;Yeni Ana Düşmanlar - Kutsalyuva&#39;nın en büyük savaşçıları iğnelerini ortaya çıkarıyor.&lt;br&gt;&lt;br&gt;Yeni Oyun Modu - Fazlasıyla istenen türün klasiklerinden. Tanrıcı&#39;nın görevini tamamlayarak bu modu aç.&lt;br&gt;&lt;br&gt;Yeni Müzik Parçaları - Savaş ortamını yücelten yeni parçalar ve klasiklerin yeniden düzenlenmiş sürümleri.da dolaşmanın yeni yöntemini keşfedin.&lt;br&gt;&lt;br&gt;Yeni Geyik Durağı - Geyikböceklerinin terk ettiği, diğer böceklerin ise uzak durduğu tek durak. </entry>
 <entry name="FLUKE_HERMIT_PEERING_DREAM">Beni görebiliyor mu? Kokumu alabiliyor mu? Ah, anne!</entry>
 <entry name="GG_S_GHOST_MARMU">Düssoylu Yesillik Tanrısı</entry>
@@ -85,8 +85,8 @@
 <entry name="GODSEEKER_ENGINE">Cılız varlık, bu anıta neden geldin? Hareketlerinin çıkardıgı sesler buradaki uyumu, kendimizi alıstırdıgımız yüce yankılanmayı bozuyor!&lt;page&gt;Kutsal amacımıza ulasmamıza engel olmak mı istiyorsun? Bu çılgınlıga kıskançlıgın mı neden oluyor?&lt;page&gt;Krallığın Tanrılarından istegimdir ki seni cezalandırsınlar, yok etsinler, ortadan kaldırsınlar!</entry>
 <entry name="NAME_NOSK_HORNET">Kanatlı Nosk</entry>
 <entry name="OBLOBBLES_SUB"></entry>
-<entry name="CHALLENGE_UI_LEVEL1">ALISTIRMA</entry>
-<entry name="CHALLENGE_UI_LEVEL2">YÜKSELME</entry>
+<entry name="CHALLENGE_UI_LEVEL1">ALISILMIS</entry>
+<entry name="CHALLENGE_UI_LEVEL2">YÜKSELIS</entry>
 <entry name="CHALLENGE_UI_LEVEL3">AYDINLANMA</entry>
 <entry name="GG_LOCKED_DESC_SOULMASTER">Ey ölümsüz olan, ben Odacığa hükmediyorum.</entry>
 <entry name="DUNG_UNDERGROUND_1">Heh, uyanmıssın. Dinlenmis görünüyorsun!&lt;page&gt;Surada kıvrıldıgını görünce bir an ürktüm. Ne zaman istersen buraya gelip dinlenebilirsin.&lt;page&gt;Kralımız nasıl ihtiyacı olanları evinde agırladıysa ben de sana evimin kapısını açıyorum. Ne kadar istiyorsan o kadar kal. Burası sıcak ve rahat.</entry>
@@ -130,7 +130,7 @@
 <entry name="NIGHTMARE_GRIMM_GG_2">En derinlerde yatan güç... Yürek...</entry>
 <entry name="GODSEEKER_WATERWAYS_AWAKE_3">Ey, Tanrılar! Doganız oldukça gizemli. Sizi arayan bizler için bile esrarengizsiniz.&lt;page&gt;Kendimizi alıstırarak büyüklügünüzü, ölümsüzlügünüzü ve bilinmez ihtisamınızı kavrıyoruz.&lt;page&gt;Kutsalyuva, bu krallık gerçek Tanrıların varlıgı ile kutsanmıs. Her yerde yalancıların cesetleri yatıyor. Ancak, burası Kutsalyuva degil...</entry>
 <entry name="TEMP_NM_MAIN">Oro &amp; Mato</entry>
-<entry name="UI_BINDINGS_TITLE">BAGLANTILAR</entry>
+<entry name="UI_BINDINGS_TITLE">MÜHÜRLER</entry>
 <entry name="UI_MENU_STYLE_INFECTED">Hastalık Kapılı</entry>
 <entry name="PAINTMASTER_SUPER">Çizim Ustası</entry>
 <entry name="GG_S_GHOST_GORB">Düssoylu Öte Yurt Tanrısı</entry>
@@ -262,7 +262,7 @@
 <entry name="ENDING_D_TEXT">Kutsalyuva Anıtı&#39;na çık ve zirvedeki yerini al.</entry>
 <entry name="GG_S_LOST_KIN">Kayıp Bosluk Tanrısı</entry>
 <entry name="UI_BINDING_HEART">KABUK</entry>
-<entry name="SISTERS_MAIN">Kardeşleri</entry>
+<entry name="SISTERS_MAIN">Kız Kardeşleri</entry>
 <entry name="PANTHEON_ENTER_3">Kutsalyuva&#39;nın Tanrıları, anıta giden bu yüce yolu açın! Yaklasıyorsunuz. Sesinizdeki yankı bizi yüceltiyor!&lt;br&gt;&lt;page&gt;En derinlerdeki karanlıgın içinden saçılacak olan o kıvılcım ile kutsal ısıgınız gelene dek yakaracak ve alısacagız!</entry>
 <entry name="GAME_NATIVE_INPUT_PS4">Yerel Kumanda Girdileri (Beta)</entry>
 <entry name="HORNET_GG_1">Sen mi benim düslerimi dadanıyorsun... yoksa ben mi seninkilere dadanıyorum?</entry>
@@ -278,7 +278,7 @@
 <entry name="GG_S_HK">Muhtesem Yokluk Tanrısı</entry>
 <entry name="GODSEEKER_ENGINE_PRIME_DREAM">Ey, baglı olan, suskunlugun bizi sagır edecek. Ahmaklar gibi senden korktuk ama yalnız öngörülerin bizi aradıgımıza götürebilir. Tanrı içinde yatıyor...</entry>
 <entry name="TROPHIES_BASE_SET_TEXT">Hollow Knight Kupaları</entry>
-<entry name="SISTERS_SUPER">Savaş</entry>
+<entry name="SISTERS_SUPER">Savaşın</entry>
 <entry name="GG_LOCKED_DESC_BIGBUZZ">Yesil bir yurdun üstünde nöbet tutuyorum.</entry>
 <entry name="NOTE_NAILMASTERS">&quot;Igne ve emek ile baglılar Tanrı&#39;ya,&lt;br&gt;Güçsüzü korumaya yeminli kardesler,&lt;br&gt;Kutsal yurdun ustaları,&lt;br&gt;Aradıgımız Tanrı&#39;yı bulmamıza yardım edin!&quot;&lt;br&gt;- Usta Yakarısı</entry>
 <entry name="GODSEEKER_COFFIN_NOKEY">Ucuz bir kilitle zincirlenmis bir koza.</entry>
@@ -385,7 +385,7 @@
 <entry name="UI_MENU_STYLE">Menü Görünümü:</entry>
 <entry name="GG_UNLOCK_TALK">....Gelecegimizin Tanrıları... Sizi bulacak ve... Kendimizi size adayacagız...</entry>
 <entry name="DESC_PAINTMASTER">Yetenekli ve hatrı sayılır igne ustası. Hep yeni seyler ögrenmeye heves etmistir.</entry>
-<entry name="GG_SUMMARY_TITLE">Tanrıların Salonu</entry>
+<entry name="GG_SUMMARY_TITLE">Tanrılar Geçidi</entry>
 <entry name="PAINTMASTER_MAIN">Sheo</entry>
 <entry name="GG_S_GHOST_GALIEN">Düssoylu Yiğitlik Tanrısı</entry>
 <entry name="GG_UNLOCK_BODY">Kutsalyuva&#39;nın Tanrıları&#39;na meydan oku. Zirvedeki yerini al.</entry>
@@ -403,7 +403,7 @@
 <entry name="MAGE_KNIGHT_SUB"></entry>
 <entry name="GG_LOCKED_DESC_LOBSTERLANCER">Silahım elimde, arenada bekliyorum.</entry>
 <entry name="GAME_NATIVE_ACHIEVEMENTS_SWITCH">Görevleri Göster:</entry>
-<entry name="GG_S_MANTISLORDS">Savasın Soylu Kardes Tanrıları</entry>
+<entry name="GG_S_MANTISLORDS">Savasın Soylu Kız Kardes Tanrıları</entry>
 <entry name="SCREEN_GAMEPAD_PS4">Kumanda</entry>
 <entry name="MODE_GODSGLORY_DESC">Kutsalyuva&#39;nın Tanrıları&#39;na meydan oku.</entry>
 <entry name="SHEO_2">Hepimiz farklı bir seyin mi pesindeyiz?</entry>
