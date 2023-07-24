@@ -26,7 +26,7 @@ jobs:
           mkdir -p out
           mkdir -p hollow_knight_Data/Managed/Mods/LanguageSupport/LanguageSupport
           cp resources.assets hollow_knight_Data
-          cp TR hollow_knight_Data/Managed/Mods/LanguageSupport/LanguageSupport
+          cp -r TR hollow_knight_Data/Managed/Mods/LanguageSupport/LanguageSupport
           zip -qry ./out/hollow-knight-turkish-v${BUILD}.zip hollow_knight_Data || exit 1
           echo "Kurulum detayları için [buraya](https://github.com/SFGrenade/LanguageSupport#adding-additional-translations) bakın." >> release_notes.md
 
