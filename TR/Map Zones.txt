@@ -25,7 +25,7 @@
 <entry name="GODSEEKER_WASTE">Eskilik Çukuru</entry>
 <entry name="MINES">Kristal Tepe</entry>
 <entry name="TRAM_LOWER">Asagı Tramvay</entry>
-<entry name="PEAK">Kutsalyuva&#39;nın Bası</entry>
+<entry name="PEAK">Hallownest&#39;in Bası</entry>
 <entry name="WASTES">Mantarlık Issız</entry>
 <entry name="BONE_FOREST">Kutsal Topraklar</entry>
 <entry name="CLIFFS">Uluyan Kayalık</entry>
@@ -36,7 +36,7 @@
 <entry name="NONE"></entry>
 <entry name="ACID_LAKE">Unn&#39;un Gölü</entry>
 <entry name="MAGE_TOWER">Ruh Odacıgı</entry>
-<entry name="DEEPNEST">Derinyuva</entry>
+<entry name="DEEPNEST">Deepnest</entry>
 <entry name="NOEYES_TEMPLE">Tas Sıgınak</entry>
 <entry name="CROSSROADS">Unutulmus Kavsak</entry>
 <entry name="KINGS_STATION">Kral Duragı</entry>

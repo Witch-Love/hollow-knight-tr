@@ -4,7 +4,7 @@
 <entry name="GG_S_SOULMASTER">Hırslı Ruh Tanrısı</entry>
 <entry name="GG_LOCKED_DESC_BROKENVESSEL">Dünyanın altındaki derin magaralarda dinleniyorum.</entry>
 <entry name="SLY_3">Unutmayın... Siz kardessiniz...</entry>
-<entry name="DUNG_UNDERGROUND_DREAM">Kutsalyuva&#39; yüce sövalyelerinin sonu nasıl gelecek? Sonuncu ben mi olacagım? Yeni bir sövalye seçmek mümkün mü?</entry>
+<entry name="DUNG_UNDERGROUND_DREAM">Hallownest&#39;in yüce sövalyelerinin sonu nasıl gelecek? Sonuncu ben mi olacagım? Yeni bir sövalye seçmek mümkün mü?</entry>
 <entry name="GODSEEKER_WASTE_MAIN">Eskilik Çukuru</entry>
 <entry name="GODSEEKER_WATERWAYS_AWAKE_2">Seni buraya getiren nedir, sürüngen? Inanç mı, korku mu? Yoksa Tanrıları mı arıyorsun?&lt;page&gt;Burası Krallıgın Yüregi oluyor. Burada onları dinliyoruz. Kimi Tanrılar yine de uzakta kalıyor. Uyandırılmaları gerekiyor.&lt;page&gt;Tanrıalır&#39;ı al ve bul onları! Bul! Böylece yollarına çıkabilirler. Zihinlerine hitap edebilirler. Evlerine dönebilirler.&lt;page&gt;Ödüle gelirsek, bu hizmetin karsılıgıyla burada var olmana izin verilecek. Yüce kabugumuza bakıp hayran kalabileceksin. Güzelligimizden etkilenebileceksin!</entry>
 <entry name="UI_MENU_STYLE_GRIMM">Grimm Toplulugu</entry>
@@ -60,7 +60,7 @@
 <entry name="GODSEEKER_MAIN">Tanrıcı</entry>
 <entry name="SISTERS_SUB"></entry>
 <entry name="NAME_MANTIS_LORD_V">Savasın Kız Kardesleri</entry>
-<entry name="UI_MENU_EXTRA_HD_DESC">1. ÜCRETSİZ İÇERİK PAKETİ&lt;br&gt;&lt;br&gt;ÇIKIŞ TARİHİ: Ağustos 2017&lt;br&gt;&lt;br&gt;TANIM: Kutsalyuva&#39;nın düşleri gerçeğe bürünür.&lt;br&gt;&lt;br&gt;2 Yeni Ana Düşman - Yeni düşmanlarla savaşa tutuş.&lt;br&gt;&lt;br&gt;2 Yeni Müzik Parçası - İki karşılaşmaya da uygun iki görkemli tema müziği.&lt;br&gt;&lt;br&gt;Yeni Geliştirme - Düş Kapısı. KutsalyuvaKutsalyuva&#39;nın görkeminin kutlandığı şövalyenin son macerasına tanıklık et.&lt;br&gt;&lt;br&gt;Yeni Karakter ve Görev - Tanrıcı geliyor. Zincirlerini kır ve kadim görevinde yanında yer al.&lt;br&gt;&lt;br&gt;Yeni Ana Düşmanlar - Kutsalyuva&#39;nın en büyük savaşçıları iğnelerini ortaya çıkarıyor.&lt;br&gt;&lt;br&gt;Yeni Oyun Modu - Fazlasıyla istenen türün klasiklerinden. Tanrıcı&#39;nın görevini tamamlayarak bu modu aç.&lt;br&gt;&lt;br&gt;Yeni Müzik Parçaları - Savaş ortamını yücelten yeni parçalar ve klasiklerin yeniden düzenlenmiş sürümleri.da dolaşmanın yeni yöntemini keşfedin.&lt;br&gt;&lt;br&gt;Yeni Geyik Durağı - Geyikböceklerinin terk ettiği, diğer böceklerin ise uzak durduğu tek durak. </entry>
+<entry name="UI_MENU_EXTRA_HD_DESC">1. ÜCRETSİZ İÇERİK PAKETİ&lt;br&gt;&lt;br&gt;ÇIKIŞ TARİHİ: Ağustos 2017&lt;br&gt;&lt;br&gt;TANIM: Hallownest&#39;in düşleri gerçeğe bürünür.&lt;br&gt;&lt;br&gt;2 Yeni Ana Düşman - Yeni düşmanlarla savaşa tutuş.&lt;br&gt;&lt;br&gt;2 Yeni Müzik Parçası - İki karşılaşmaya da uygun iki görkemli tema müziği.&lt;br&gt;&lt;br&gt;Yeni Geliştirme - Düş Kapısı. Hallownest&#39;in görkeminin kutlandığı şövalyenin son macerasına tanıklık et.&lt;br&gt;&lt;br&gt;Yeni Karakter ve Görev - Tanrıcı geliyor. Zincirlerini kır ve kadim görevinde yanında yer al.&lt;br&gt;&lt;br&gt;Yeni Ana Düşmanlar - Hallownest&#39;in en büyük savaşçıları iğnelerini ortaya çıkarıyor.&lt;br&gt;&lt;br&gt;Yeni Oyun Modu - Fazlasıyla istenen türün klasiklerinden. Tanrıcı&#39;nın görevini tamamlayarak bu modu aç.&lt;br&gt;&lt;br&gt;Yeni Müzik Parçaları - Savaş ortamını yücelten yeni parçalar ve klasiklerin yeniden düzenlenmiş sürümleri.da dolaşmanın yeni yöntemini keşfedin.&lt;br&gt;&lt;br&gt;Yeni Geyik Durağı - Geyikböceklerinin terk ettiği, diğer böceklerin ise uzak durduğu tek durak. </entry>
 <entry name="FLUKE_HERMIT_PEERING_DREAM">Beni görebiliyor mu? Kokumu alabiliyor mu? Ah, anne!</entry>
 <entry name="GG_S_GHOST_MARMU">Düssoylu Yesillik Tanrısı</entry>
 <entry name="NAME_PAINTMASTER">Çizim Ustası Sheo</entry>
@@ -78,8 +78,8 @@
 <entry name="DUNG_UNDERGROUND_2">Magaram sarayımızın yanında gözüne igrenç gelebilir. Eski yoldaslarımın, yüce kralımızın hatıraları zihnimde canlanıyor.&lt;page&gt;Soluk saray ortamında zamanın en büyük kahramanları bulunurdu. Ah! Sana söyle bir bakıyorum da, onların arasında kolayca yerini alabilirmistin. </entry>
 <entry name="UI_CHALLENGE_TITLE_MAIN_2">ÇIZER ANITI</entry>
 <entry name="GG_LOCKED_DESC_COLLECTOR">Terk edilmis bir kulenin tepesinde bekliyorum.</entry>
-<entry name="GET_GODFINDER_2">Kutsalyuva&#39;nın Tanrıları&#39;nı bul. Güçlerini al. Aldıgın güçler aracılıgıyla yüksel. Through their strength, ascend.</entry>
-<entry name="UI_MENU_EXTRA_LB_DESC">ANA GÜNCELLEME&lt;br&gt;&lt;br&gt;ÇIKIŞ TARİHİ: Mart 2018&lt;br&gt;&lt;br&gt;TANIM: Hollow Knight konsol çıkışıyla birlikte yenilenir ve güzelleşir.&lt;br&gt;&lt;br&gt;Dengelenen Krallık - Kutsalyuva&#39;nın pek çok sakinindeki hatalar giderlir ve değişiklikler yapılır.&lt;br&gt;&lt;br&gt;Yeni Ana Düşman Savaşı - Eski kraliçenin vahşi muhafızı ile yüzleş.&lt;br&gt;&lt;br&gt;Güncellenmiş Ana Düşmanlar - Daha zeki, daha zorlayıcı ve yeni hareketler kazanan düşmanlar.&lt;br&gt;&lt;br&gt;Harita Belirteçleri - Haritacılık macerasında kullanilebilecek yeni araçlar. Önemli noktaları, düşmanları ya da nesneleri hatırlamak için haritaya eklenebilirler.</entry>
+<entry name="GET_GODFINDER_2">Hallownest&#39;in Tanrıları&#39;nı bul. Güçlerini al. Aldıgın güçler aracılıgıyla yüksel. Through their strength, ascend.</entry>
+<entry name="UI_MENU_EXTRA_LB_DESC">BÜYÜK GÜNCELLEME&lt;br&gt;&lt;br&gt;ÇIKIŞ TARİHİ: Mart 2018&lt;br&gt;&lt;br&gt;TANIM: Hollow Knight konsol çıkışıyla birlikte yenilenir ve güzelleşir.&lt;br&gt;&lt;br&gt;Dengelenen Krallık - Hallownest&#39;in pek çok sakinindeki hatalar giderildi ve değişiklikler yapıldı.&lt;br&gt;&lt;br&gt;Yeni Ana Düşman Savaşı - Eski kraliçenin vahşi muhafızı ile yüzleş.&lt;br&gt;&lt;br&gt;Güncellenmiş Ana Düşmanlar - Daha zeki, daha zorlayıcı ve yeni hareketler kazanan düşmanlar.&lt;br&gt;&lt;br&gt;Harita Belirteçleri - Haritacılık macerasında kullanilebilecek yeni araçlar. Önemli noktaları, düşmanları ya da nesneleri hatırlamak için haritaya eklenebilirler.</entry>
 <entry name="DESC_PURE_VESSEL">Mükemmel olarak sekilde yetistirilen ve egitilen seçilmis damar.</entry>
 <entry name="SCREEN_GAMEPAD_REMAP_PS4">Tus Islevlerini Degistir</entry>
 <entry name="GODSEEKER_ENGINE">Cılız varlık, bu anıta neden geldin? Hareketlerinin çıkardıgı sesler buradaki uyumu, kendimizi alıstırdıgımız yüce yankılanmayı bozuyor!&lt;page&gt;Kutsal amacımıza ulasmamıza engel olmak mı istiyorsun? Bu çılgınlıga kıskançlıgın mı neden oluyor?&lt;page&gt;Krallığın Tanrılarından istegimdir ki seni cezalandırsınlar, yok etsinler, ortadan kaldırsınlar!</entry>
@@ -90,7 +90,7 @@
 <entry name="CHALLENGE_UI_LEVEL3">AYDINLANMA</entry>
 <entry name="GG_LOCKED_DESC_SOULMASTER">Ey ölümsüz olan, ben Odacığa hükmediyorum.</entry>
 <entry name="DUNG_UNDERGROUND_1">Heh, uyanmıssın. Dinlenmis görünüyorsun!&lt;page&gt;Surada kıvrıldıgını görünce bir an ürktüm. Ne zaman istersen buraya gelip dinlenebilirsin.&lt;page&gt;Kralımız nasıl ihtiyacı olanları evinde agırladıysa ben de sana evimin kapısını açıyorum. Ne kadar istiyorsan o kadar kal. Burası sıcak ve rahat.</entry>
-<entry name="GODSEEKER_WATERWAYS_AWAKE_3_REPEAT">Kutsalyuva. Bu krallık gerçek Tanrılar tarafından kutsanmıstı. Gerçektiler! Her yerde yalancıların cesetleri yatıyordu. Ancak, bu Kutsalyuva degil...</entry>
+<entry name="GODSEEKER_WATERWAYS_AWAKE_3_REPEAT">Hallownest. Bu krallık gerçek Tanrılar tarafından kutsanmıstı. Gerçektiler! Her yerde yalancıların cesetleri yatıyordu. Ancak, bu Hallownest degil...</entry>
 <entry name="GG_S_HIVEKNIGHT">Uyanık Görev Tanrısı</entry>
 <entry name="ATRIUM_ENTER_TEXT">Sövgü! Kutsallıga sövgü!&lt;br&gt;&lt;page&gt;Seni gidi sürüngen! Pis böcek! Ufakların en ufagı!&lt;br&gt;&lt;page&gt;Hangi hakla buraya, Tanrıların evine girersin? Defol git! Defol!</entry>
 <entry name="ORO_FLOWER">Bu nedir? Bir ögrencinin, çöplerini ustasının evine bırakması ne kadar dogru sence? Yoksa bu güzel çiçegi bana hediye mi etmek istiyorsun?&lt;page&gt;I&#39;Ilgilenmiyorum dogrusu. Ya yanında götür ya da hasaratların yemesi için dısarı bırak.</entry>
@@ -128,13 +128,13 @@
 <entry name="SLY_BOSS_MAIN">Sly</entry>
 <entry name="NIGHTMARE_GRIMM_GG_1">Tanrılar... törenlere baglanmıslar...</entry>
 <entry name="NIGHTMARE_GRIMM_GG_2">En derinlerde yatan güç... Yürek...</entry>
-<entry name="GODSEEKER_WATERWAYS_AWAKE_3">Ey, Tanrılar! Doganız oldukça gizemli. Sizi arayan bizler için bile esrarengizsiniz.&lt;page&gt;Kendimizi alıstırarak büyüklügünüzü, ölümsüzlügünüzü ve bilinmez ihtisamınızı kavrıyoruz.&lt;page&gt;Kutsalyuva, bu krallık gerçek Tanrıların varlıgı ile kutsanmıs. Her yerde yalancıların cesetleri yatıyor. Ancak, burası Kutsalyuva degil...</entry>
+<entry name="GODSEEKER_WATERWAYS_AWAKE_3">Ey, Tanrılar! Doganız oldukça gizemli. Sizi arayan bizler için bile esrarengizsiniz.&lt;page&gt;Kendimizi alıstırarak büyüklügünüzü, ölümsüzlügünüzü ve bilinmez ihtisamınızı kavrıyoruz.&lt;page&gt;Hallownest, bu krallık gerçek Tanrıların varlıgı ile kutsanmıs. Her yerde yalancıların cesetleri yatıyor. Ancak, burası Hallownest degil...</entry>
 <entry name="TEMP_NM_MAIN">Oro &amp; Mato</entry>
 <entry name="UI_BINDINGS_TITLE">MÜHÜRLER</entry>
 <entry name="UI_MENU_STYLE_INFECTED">Hastalık Kapılı</entry>
 <entry name="PAINTMASTER_SUPER">Çizim Ustası</entry>
 <entry name="GG_S_GHOST_GORB">Düssoylu Öte Yurt Tanrısı</entry>
-<entry name="GODSEEKER_ENGINE_WYRM">Uzun zaman önce göçmüs olsa bile, bu tahtta oturan Tanrı&#39;yı hatırlıyorum... Görüntüsü krallıga agır basmakta.&lt;page&gt;Bu kalıcı güç, bizi Kutsalyuva&#39;ya çekmeye yetti. Ölümlü böceklerin önünde diz çökmesini sagladıgına göre oldukça parlak bir varlık olmalı.</entry>
+<entry name="GODSEEKER_ENGINE_WYRM">Uzun zaman önce göçmüs olsa bile, bu tahtta oturan Tanrı&#39;yı hatırlıyorum... Görüntüsü krallıga agır basmakta.&lt;page&gt;Bu kalıcı güç, bizi Hallownest&#39;&#39;e çekmeye yetti. Ölümlü böceklerin önünde diz çökmesini sagladıgına göre oldukça parlak bir varlık olmalı.</entry>
 <entry name="NAME_MEGA_BEAM_MINER_2">Öfkeli Muhafız</entry>
 <entry name="UI_MENU_RUMBLE_XB1">Titresim</entry>
 <entry name="GG_S_GHOST_XERO">Düssoylu Inanç ve Ihanet Tanrısı</entry>
@@ -166,12 +166,12 @@
 <entry name="GG_S_BROKENVESSEL">Kopuk bir Tanrı&#39;nın kırılmıs kabugu.</entry>
 <entry name="UI_CHALLENGE_TITLE_MAIN_3">BILGIN ANITI</entry>
 <entry name="UI_CHALLENGE_TITLE_MAIN_4">SÖVALYE ANITI</entry>
-<entry name="UI_CHALLENGE_TITLE_MAIN_5">KUTSALYUVA ANITI</entry>
+<entry name="UI_CHALLENGE_TITLE_MAIN_5">HALLOWNEST ANITI</entry>
 <entry name="FLUKE_HERMIT_SUPER">Dişil</entry>
 <entry name="MOH_HIGH">Yüksek</entry>
 <entry name="VENGEFLY_MAIN">Kral</entry>
 <entry name="GODSEEKER_ENGINE_PRIME_REPEAT">Sen Tanrı degilsin! Defol, sahtekar! Sus ve git!</entry>
-<entry name="GG_S_ZOTE">Kutsalyuva Tanrıları arasına giren yabancı.</entry>
+<entry name="GG_S_ZOTE">Hallownest Tanrıları arasına giren yabancı.</entry>
 <entry name="ATRIUM_NPC_DREAM_4">...Köprü...</entry>
 <entry name="ATRIUM_NPC_DREAM_5">Gücü... Ele geçir...</entry>
 <entry name="GG_S_COLLECTOR">Neseli Barınak Tanrısı</entry>
@@ -259,11 +259,11 @@
 <entry name="GODSEEKER_ENGINE_PRIME">Cılız varlık, saygı göster. Korkunu göster! Yüce ve korkunç bir tanrının huzuruna çıkıyorsun.&lt;page&gt;Bu anıtın efendisinin dünyevi bedeni kirli ve baglı dursa da, kusursuz varlıgının ihtisamı hala üzerinde. Sınırsız gücü ile bizi yücelerin yücesine, Tanrıların Tanrısı&#39;na ulastıracak.&lt;page&gt;Cılız varlık, sen kendini Tanrı ile bir mi sanıyorsun? Kendini onunla aynı kefeye mi koyuyorsun? Benzediginizi, içindeki derin yankının aynı oldugunu düsünüyorsun...&lt;page&gt;Ah! Bunlar nasıl düsüncelerdir böyle? Aklına fitne tohumları ekmissin, böcek! Defol! Yalvarıyorum ki Tanrı seni sonsuza dek sustursun!</entry>
 <entry name="GG_S_FKNIGHT">Öfkeli Ezilmislik Tanrısı</entry>
 <entry name="UI_MENU_EXTRA_GT_DESC">2. ÜCRETSİZ İÇERİK PAKETİ&lt;br&gt;&lt;br&gt;ÇIKIŞ TARİHİ: Ekim 2017&lt;br&gt;&lt;br&gt;TANIM: Krallığı genişleten ve şövalyeye yeni bir müttefik kazandıran sapkın ayinde yer al.&lt;br&gt;&lt;br&gt;Yeni Ana Düşmanlar - Karanlık bir efendi ve buruk kızıl tayf ile karşılaş.&lt;br&gt;&lt;br&gt;Yeni Tılsımlar - Benzersiz özellikler ekleyen 4 yeni tılsım.&lt;br&gt;&lt;br&gt;Yeni Düşmanlar - İğne ve yeteneklerini sınayacak şeytani düşmanlar.&lt;br&gt;&lt;br&gt;Yeni Dostlar - Özel hizmet sunabilen bir arkadaşın da aralarında bulunduğu yeni değişik tiplerle dost ol.&lt;br&gt;&lt;br&gt;Yeni Müzik Parçaları - Christopher Larkin&#39;in elinden çıkma ürkütücü ve dokunucu parçalar.&lt;br&gt;&lt;br&gt;</entry>
-<entry name="ENDING_D_TEXT">Kutsalyuva Anıtı&#39;na çık ve zirvedeki yerini al.</entry>
+<entry name="ENDING_D_TEXT">Hallownest Anıtı&#39;na çık ve zirvedeki yerini al.</entry>
 <entry name="GG_S_LOST_KIN">Kayıp Bosluk Tanrısı</entry>
 <entry name="UI_BINDING_HEART">KABUK</entry>
 <entry name="SISTERS_MAIN">Kız Kardeşleri</entry>
-<entry name="PANTHEON_ENTER_3">Kutsalyuva&#39;nın Tanrıları, anıta giden bu yüce yolu açın! Yaklasıyorsunuz. Sesinizdeki yankı bizi yüceltiyor!&lt;br&gt;&lt;page&gt;En derinlerdeki karanlıgın içinden saçılacak olan o kıvılcım ile kutsal ısıgınız gelene dek yakaracak ve alısacagız!</entry>
+<entry name="PANTHEON_ENTER_3">Hallownest&#39;in Tanrıları, anıta giden bu yüce yolu açın! Yaklasıyorsunuz. Sesinizdeki yankı bizi yüceltiyor!&lt;br&gt;&lt;page&gt;En derinlerdeki karanlıgın içinden saçılacak olan o kıvılcım ile kutsal ısıgınız gelene dek yakaracak ve alısacagız!</entry>
 <entry name="GAME_NATIVE_INPUT_PS4">Yerel Kumanda Girdileri (Beta)</entry>
 <entry name="HORNET_GG_1">Sen mi benim düslerimi dadanıyorsun... yoksa ben mi seninkilere dadanıyorum?</entry>
 <entry name="NAME_HIVE_KNIGHT">Kovan Sövalyesi</entry>
@@ -288,7 +288,7 @@
 <entry name="NIGHTMARE_GRIMM_GG_3">Dagınık bir yurt... Kabus&#39;un hükmünde...</entry>
 <entry name="ENRAGED_GUARDIAN_MAIN">Muhafız</entry>
 <entry name="GG_LOCKED_DESC_FLUKEMUM">Borularda dolu bir labirentte dinleniyorum.</entry>
-<entry name="PLATINUM_TITLE">Kutsalyuva&#39;nın Yüregi</entry>
+<entry name="PLATINUM_TITLE">Hallownest&#39;in Yüregi</entry>
 <entry name="GODSEEKER_ENGINE_UNN_REPEAT">Orantısı düsüsteyken bile muhtesem. Keske bize nasıl büyüyecegimizi ögretebilseydiniz...</entry>
 <entry name="GODSEEKER_ENGINE_ROOT_DREAM">Soluk ana... Düsünmeye cesaret edemiyoruz. Görüsme olasılıgı çok düsük... Ancak, bu sesteki yankılanma! Onlardan biri olabilir mi?</entry>
 <entry name="GG_LOCKED_DESC_GHOST_MARMU">Bahçede huzurla düs kuruyorum.</entry>
@@ -306,10 +306,10 @@
 <entry name="FLUKE_HERMIT_IDLE_2">Gürültülü... Gla gla... Korkunç... Burada kal, gla...</entry>
 <entry name="FLUKE_HERMIT_IDLE_3">Gla gla... Anne hazineyi gönderdi... Al onu...</entry>
 <entry name="FLUKE_HERMIT_IDLE_4">Güvende, gla... Küçük kardeşlerim... Gla gla...</entry>
-<entry name="GODSEEKER_ENGINE_DREAM">Kutsalyuva&#39;nın Tanrıları, bize gücünüzü gösterin! Kendimizi size adayacak ve daha da yücelecegiz!</entry>
+<entry name="GODSEEKER_ENGINE_DREAM">Hallownest&#39;in Tanrıları, bize gücünüzü gösterin! Kendimizi size adayacak ve daha da yücelecegiz!</entry>
 <entry name="LURKER_1">Kral! Benim!</entry>
-<entry name="DESC_VOID_IDOL_1">Kutsalyuva&#39;nın öncesinden kalma essiz bir eser. Içinde Bosluk&#39;tan alınma bir damla sıvı bulunuyor.</entry>
-<entry name="DESC_VOID_IDOL_2">Kutsalyuva&#39;nın öncesinden kalma essiz bir eser. Içinde, Bosluk&#39;tan alınma uçucu bir sıvı bulunuyor.</entry>
+<entry name="DESC_VOID_IDOL_1">Hallownest&#39;in öncesinden kalma essiz bir eser. Içinde Bosluk&#39;tan alınma bir damla sıvı bulunuyor.</entry>
+<entry name="DESC_VOID_IDOL_2">Hallownest&#39;in öncesinden kalma essiz bir eser. Içinde, Bosluk&#39;tan alınma uçucu bir sıvı bulunuyor.</entry>
 <entry name="MARKER_B_NAME">Bokböcegi Belirteci</entry>
 <entry name="PURE_VESSEL_4">Yapma...</entry>
 <entry name="NAME_HK_PRIME">Kusursuz Damar</entry>
@@ -323,7 +323,7 @@
 <entry name="MAGE_KNIGHT_SUPER">Ruh</entry>
 <entry name="HK_PRIME_MAIN">Kusursuz Damar</entry>
 <entry name="NOTE_PURE_VESSEL">&quot;Kutsal kabuktaki derin sessizlik,&lt;br&gt;Ignesini alıp Sövalye ilan edilen,&lt;br&gt;Zincire, yumurtaya ve büyüye baglı,&lt;br&gt;Ricalarımızı duy! Isıgını serbest kıl!&quot;&lt;br&gt;- Damar Yakarısı</entry>
-<entry name="UI_MENU_EXTRA_GG_DESC">3. ÜCRETSİZ İÇERİK PAKETİ&lt;br&gt;&lt;br&gt;ÇIKIŞ TARİHİ: Ağustos 2018&lt;br&gt;&lt;br&gt;TANIM: Kutsalyuva&#39;nın görkeminin kutlanacağı ve Şövalye&#39;nin son yolculuğuna çıkacağı destansı olaylar dizisinde Tanrılar&#39;ın yanındaki yerini al.&lt;br&gt;&lt;br&gt;Yeni Karakterler ve Görevler - Tanrıcı geliyor. Zincirlerini kırarak kadim görevinde kendisine yardımcı ol.&lt;br&gt;&lt;br&gt;Yeni Ana Düşmanlar - Kutsalyuva&#39;nın büyük savaşçıları silahlarını çekiyor.&lt;br&gt;&lt;br&gt;Yeni Oyun Modu - Uzun zamandır istenen, türün klasiği. Yeni modu açmak için Tanrıcı&#39;nın görevini tamamla.&lt;br&gt;&lt;br&gt;Yeni Müzikler - Dövüşlerde ortamı yükseltecek yeni parçalar ve sevilen klasiklerin remiks sürümleri.</entry>
+<entry name="UI_MENU_EXTRA_GG_DESC">3. ÜCRETSİZ İÇERİK PAKETİ&lt;br&gt;&lt;br&gt;ÇIKIŞ TARİHİ: Ağustos 2018&lt;br&gt;&lt;br&gt;TANIM: Hallownest&#39;in görkeminin kutlanacağı ve Şövalye&#39;nin son yolculuğuna çıkacağı destansı olaylar dizisinde Tanrılar&#39;ın yanındaki yerini al.&lt;br&gt;&lt;br&gt;Yeni Karakterler ve Görevler - Tanrıcı geliyor. Zincirlerini kırarak kadim görevinde kendisine yardımcı ol.&lt;br&gt;&lt;br&gt;Yeni Ana Düşmanlar - Hallownest&#39;in büyük savaşçıları silahlarını çekiyor.&lt;br&gt;&lt;br&gt;Yeni Oyun Modu - Uzun zamandır istenen, türün klasiği. Yeni modu açmak için Tanrıcı&#39;nın görevini tamamla.&lt;br&gt;&lt;br&gt;Yeni Müzikler - Dövüşlerde ortamı yükseltecek yeni parçalar ve sevilen klasiklerin remiks sürümleri.</entry>
 <entry name="GG_S_GRIM">Gezgin Topluluk Tanrısı</entry>
 <entry name="GG_LOCKED_DESC_TRAITORLORD">Sahte hükümdarın bahçesini yıkıyorum.</entry>
 <entry name="MARKER_W_NAME">Parıltı Belirteci</entry>
@@ -331,7 +331,7 @@
 <entry name="INV_DESC_GODFINDER">Kuvvetli varlıkların güçlerini alabilen bir aygıt.&lt;br&gt;&lt;br&gt;Kuvvetli düsmanlar yenildiginde parlar.</entry>
 <entry name="GG_LOCKED_DESC_WATCHERKNIGHTS">Kule&#39;nin tepesinde uyku halinde bekliyoruz.</entry>
 <entry name="NAME_NAILMASTERS_JOURNAL">Igne Ustaları Oro &amp; Mato</entry>
-<entry name="GODSEEKER_WATERWAYS_AWAKE_REPEAT">Kutsalyuva... Solmaktayken bile Tanrıların görkemli yurdu olmayı sürdürüyor.&lt;page&gt;Asla. Asla! Buranın Tanrıları asla yok olmayacak!</entry>
+<entry name="GODSEEKER_WATERWAYS_AWAKE_REPEAT">Hallownest... Solmaktayken bile Tanrıların görkemli yurdu olmayı sürdürüyor.&lt;page&gt;Asla. Asla! Buranın Tanrıları asla yok olmayacak!</entry>
 <entry name="UI_MENU_STYLE_CLASSIC">Klasik</entry>
 <entry name="GG_S_FLUKEMUM">Alımlı Analık Tanrısı</entry>
 <entry name="GODSEEKER_COFFIN_KEY">Ucuz bir kilitle zincirlenmis bir koza.&lt;br&gt;Ucuz anahtarı kullan?</entry>
@@ -367,7 +367,7 @@
 <entry name="HIVE_KNIGHT_SUB">Sövalye</entry>
 <entry name="GG_LOCKED_DESC_NAILMASTERS">Birlikte Anıt&#39;ın tepesinde dikiliyoruz.</entry>
 <entry name="AMELITIA_FLOWER">Ne kadar da ilginç bir örnek. Hah! Ancak, o kusursuz avrası sevgili Kralımızın ısıgı ile yarısamaz.&lt;page&gt;Soluk çiçegini koru, böcek. Kendimi mesgul tutacak kadar varlıgım var ki sen de benimkilerin daha güzel oldugunu biliyorsun.</entry>
-<entry name="DESC_VOID_IDOL_3">Kutsalyuva&#39;nın öncesinden kalma essiz bir eser. Üst kısmı sarılarak birleşiyor. Içinde, Bosluk&#39;tan alınma büyük miktarda sıvı bulunuyor.</entry>
+<entry name="DESC_VOID_IDOL_3">Hallownest&#39;in öncesinden kalma essiz bir eser. Üst kısmı sarılarak birleşiyor. Içinde, Bosluk&#39;tan alınma büyük miktarda sıvı bulunuyor.</entry>
 <entry name="SLY_1">Görkem dolu düsler...</entry>
 <entry name="UI_MENU_STYLE_HD">Gizli Düşler</entry>
 <entry name="ORO_1">Ne olursa olsun...&#39;Kendimi kanıtlayacagım!</entry>
@@ -388,7 +388,7 @@
 <entry name="GG_SUMMARY_TITLE">Tanrılar Geçidi</entry>
 <entry name="PAINTMASTER_MAIN">Sheo</entry>
 <entry name="GG_S_GHOST_GALIEN">Düssoylu Yiğitlik Tanrısı</entry>
-<entry name="GG_UNLOCK_BODY">Kutsalyuva&#39;nın Tanrıları&#39;na meydan oku. Zirvedeki yerini al.</entry>
+<entry name="GG_UNLOCK_BODY">Hallownest&#39;in Tanrıları&#39;na meydan oku. Zirvedeki yerini al.</entry>
 <entry name="SHEO_3">Ya sanatçı degil de Tanrı ise?</entry>
 <entry name="GG_LOCKED_DESC_MANTISLORDS">Savascılarla dolu bir köyü bekliyoruz.</entry>
 <entry name="LOADING">Yükleniyor...</entry>
@@ -405,6 +405,6 @@
 <entry name="GAME_NATIVE_ACHIEVEMENTS_SWITCH">Görevleri Göster:</entry>
 <entry name="GG_S_MANTISLORDS">Savasın Soylu Kız Kardes Tanrıları</entry>
 <entry name="SCREEN_GAMEPAD_PS4">Kumanda</entry>
-<entry name="MODE_GODSGLORY_DESC">Kutsalyuva&#39;nın Tanrıları&#39;na meydan oku.</entry>
+<entry name="MODE_GODSGLORY_DESC">Hallownest&#39;in Tanrıları&#39;na meydan oku.</entry>
 <entry name="SHEO_2">Hepimiz farklı bir seyin mi pesindeyiz?</entry>
 </entries>

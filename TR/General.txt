@@ -4,7 +4,7 @@
 <entry name="SAVE_WARNING">Bu oyunda belirli noktalarda otomatik kayıt gerçeklesmektedir.&lt;br&gt;Bu simge göründügünde oyunu kapatmayın.</entry>
 <entry name="CONTROL_PROMPT">oyun kumandası kullanılması siddetle önerilir</entry>
 <entry name="GAME_DISPLAY_TITLE"></entry>
-<entry name="PROLOGUE_EXCERPT_AUTHOR">- Ögretmen Monomon&#39;un eseri &#39;Kutsalyuva Agıtı&#39;ndan </entry>
+<entry name="PROLOGUE_EXCERPT_AUTHOR">- Ögretmen Monomon&#39;un eseri &#39;Hallownest Agıtı&#39;ndan </entry>
 <entry name="VERSION_NUMBER">- - -</entry>
 <entry name="PROLOGUE_EXCERPT_01">Ötedeki ıssızda hürmet ve özlem ile söz ederler adından,</entry>
 <entry name="PROLOGUE_EXCERPT_02">Çünkü kimse uslandıramadı azılı ruhlarımızı ve bir tek sensin karsı koyan,</entry>

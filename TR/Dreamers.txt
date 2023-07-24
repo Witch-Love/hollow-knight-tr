@@ -60,7 +60,7 @@
 <entry name="DREAMERS_INSPECT_RG2">Ögretmen Monomon&lt;br&gt;Arsivinde çevrelenmis, sis ve pusla.</entry>
 <entry name="DREAMERS_INSPECT_RG3">Gözcü Lurien&lt;br&gt;Kulesinden bakıyor, sehrin her bir yanına.</entry>
 <entry name="DREAMERS_INSPECT_RG4">Yaratık Herrah&lt;br&gt;Deliginde bekliyor, krallıgın ötesindeki karanlıgın ortasında.</entry>
-<entry name="DREAMERS_INSPECT_RG5">Sayesinde baglılıkları, sonsuzluga ulastı Kutsalyuva.</entry>
+<entry name="DREAMERS_INSPECT_RG5">Sayesinde baglılıkları, sonsuzluga ulastı Hallownest.</entry>
 <entry name="DREAMERS_INSPECT_RG6">Düsçülerin konumları haritaya eklendi</entry>
 <entry name="MONOMON_CONVO_2">...hiç degismeyen bir dünya...</entry>
 <entry name="MONOMON_CONVO_3">....kırılmalı, mühürler ise....</entry>

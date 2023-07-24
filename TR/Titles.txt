@@ -126,7 +126,7 @@
 <entry name="HIVE_MAIN">Kovan</entry>
 <entry name="EGGTEMPLE_SUB"></entry>
 <entry name="GH_KCIN_NC_MAIN">Kcin</entry>
-<entry name="EGGTEMPLE_SUPER">Tapınağı</entry>
+<entry name="EGGTEMPLE_SUPER">Kara Yumurta</entry>
 <entry name="SLY_MAIN">Cingöz</entry>
 <entry name="BLUE_LAKE_SUB"></entry>
 <entry name="RUINS_SUPER"></entry>
@@ -136,7 +136,7 @@
 <entry name="NM_MATO_MAIN">Mato</entry>
 <entry name="TUK_C_SUB"> Emily Doolan</entry>
 <entry name="MANTIS_VILLAGE_MAIN">Köyü</entry>
-<entry name="PEAK_SUPER">Kutsalyuva&#39;nın</entry>
+<entry name="PEAK_SUPER">Hallownest&#39;in</entry>
 <entry name="RUINS_SUB"></entry>
 <entry name="JONI_GRAVE_SUB"></entry>
 <entry name="GH_WYATT_NC_SUB"></entry>
@@ -152,7 +152,7 @@
 <entry name="MAWLEK_MAIN">Mavlek</entry>
 <entry name="GH_GALIEN_NC_SUPER"></entry>
 <entry name="WHITE_PALACE_MAIN">Saray</entry>
-<entry name="DEEPNEST_MAIN">Derinyuva</entry>
+<entry name="DEEPNEST_MAIN">Deepnest</entry>
 <entry name="GH_REVEK_NC_SUPER"></entry>
 <entry name="GH_REVEK_C_SUPER"></entry>
 <entry name="GH_POGGY_C_SUPER">Poggy</entry>
@@ -446,9 +446,9 @@
 <entry name="NAILSMITH_SUPER"></entry>
 <entry name="TUK_NC_MAIN">Tuk</entry>
 <entry name="GH_XERO_C_MAIN">Xero</entry>
-<entry name="EGGTEMPLE_MAIN">Kara Yumurta</entry>
+<entry name="EGGTEMPLE_MAIN">Tapınağı</entry>
 <entry name="CROSSROADS_INF_SUB"></entry>
-<entry name="XUN_C_SUB"> Felyndiira</entry>
+<entry name="XUN_C_SUB">Felyndiira</entry>
 <entry name="DIVINE_SUB"></entry>
 <entry name="GH_KCIN_C_SUPER"></entry>
 <entry name="XUN_C_MAIN">Ağıtçı</entry>

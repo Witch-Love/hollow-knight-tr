@@ -23,7 +23,7 @@
 <entry name="NAILSMITH_COMPLETE_3">Bu kadar. Dövme islemi tamamdır.&lt;page&gt;Igneni sarmal hale getirdim. Epey ugrastırdı. Eskisinden daha güçlü oldugunu göreceksin.&lt;page&gt;Gidebilirsin. Dene bakalım olmus mu.</entry>
 <entry name="NAILSMITH_COMPLETE_4">Bitirdim. Dövme islemi tamamdır.&lt;page&gt;Ignen eskisinde kat be kat güçlü. Daha güçlü olamazdı da diyebiliriz.&lt;page&gt;Bir tek senin ignende bu potansiyeli gördüm. Iste, Kusursuz Igne tüm ihtisamıyla karsımda duruyor.&lt;page&gt;Bu anın bu kadar çabuk geldigini düsünüyorum da...&lt;page&gt;...Ben... ben biraz dısarıya çıkacagım...</entry>
 <entry name="NAILSMITH_DREAM_INTERIOR">...en kusursuz igneyi dövecegim...</entry>
-<entry name="PAINTED_REPEAT">Kutsalyuva&#39;nın karanlıgında böyle büyüleyici bir varlıkla tanısacagımı kim bilebilirdi...</entry>
+<entry name="PAINTED_REPEAT">Hallownest&#39;in karanlıgında böyle büyüleyici bir varlıkla tanısacagımı kim bilebilirdi...</entry>
 <entry name="NAILSMITH_NEED_ORE1">Eger bana bir adet Solukcevher getirebilirsen ignenin dövüp daha da güçlendirebilirim.</entry>
 <entry name="NAILSMITH_NEED_ORE2">Eger bana iki adet Solukcevher getirebilirsen ignenin dövüp daha da güçlendirebilirim.</entry>
 <entry name="NAILSMITH_NEED_ORE3">Eger bana üç adet Solukcevher getirebilirsen ignenin dövüp daha da güçlendirebilirim.</entry>

@@ -86,7 +86,7 @@
 <entry name="FLUKE_BIT_2">...Anne...</entry>
 <entry name="DUNG_DEF_1">...Kralın serefine!..</entry>
 <entry name="DUNG_DEF_2">...Beslinin serefine!..</entry>
-<entry name="DUNG_DEF_3">...Kutsalyuva&#39;nın serefine!</entry>
+<entry name="DUNG_DEF_3">...Hallownest&#39;in serefine!</entry>
 <entry name="MEGAFATBEE_1">...Açım...Yorgunum...Açım...</entry>
 <entry name="MEGAFATBEE_2">...Abilerim...Ablalarım...Annem...</entry>
 <entry name="MEGAFATBEE_3">...Acıt...Öldür...Acıt...Öldür...</entry>

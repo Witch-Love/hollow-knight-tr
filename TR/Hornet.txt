@@ -12,9 +12,9 @@
 <entry name="HORNET_SPIDER_TOWN_REPEAT">Simdi beni yalnız bırak, hayalet. Bu oda türbeye dönmeden önce bana biraz izin ver.</entry>
 <entry name="HORNET_ABYSS_REPEAT">Senden ricam zor yolu seçmen. Yine de, ne olursa olsun, karar senindir.</entry>
 <entry name="HORNET_INSPECT_IK">Uzun süre önce ölmüs bir gezginin kalıntıları.</entry>
-<entry name="HORNET_PRE_FINAL_BATTLE_REPEAT">Kutsalyuva hayaleti, seçtigin sonu gerçek kılma gücüne sahipsin. Dogumuyla birlikte lanetlenen kardesimizi yerinden mi edeceksin, yoksa ondan üstün mü geleceksin?</entry>
+<entry name="HORNET_PRE_FINAL_BATTLE_REPEAT">Hallownest hayaleti, seçtigin sonu gerçek kılma gücüne sahipsin. Dogumuyla birlikte lanetlenen kardesimizi yerinden mi edeceksin, yoksa ondan üstün mü geleceksin?</entry>
 <entry name="HORNET_PRE_FINAL_BATTLE_DREAM">...Imkansızı basarabilir mi? Basarmalı mı?</entry>
-<entry name="HORNET_OUTSKIRTS_DEFEAT">...Çok güçlüsün...&lt;page&gt;Bir de iradeli olsan, bunu basarabilirsin.&lt;page&gt;Fakat asıl soru, feci düsünceden haberdar olduktan sonra igneni batırabilecek misin? Kendini tanıdıktan sonra bunu yapabilecek misin?&lt;page&gt;O zaman devam et, Kutsalyuva hayaleti! Devam et. Isareti kabuguna isle ve kendini kral ilan et.</entry>
+<entry name="HORNET_OUTSKIRTS_DEFEAT">...Çok güçlüsün...&lt;page&gt;Bir de iradeli olsan, bunu basarabilirsin.&lt;page&gt;Fakat asıl soru, feci düsünceden haberdar olduktan sonra igneni batırabilecek misin? Kendini tanıdıktan sonra bunu yapabilecek misin?&lt;page&gt;O zaman devam et, Hallownest hayaleti! Devam et. Isareti kabuguna isle ve kendini kral ilan et.</entry>
 <entry name="HORNET_FOUNTAIN_1">Yine karsılastık, küçük hayalet.&lt;page&gt;Normalde anlayıslı biriyimdir. Gerçegi kesfetsem de seni küçümsemistim.&lt;page&gt;Krallık sınırlarının ötesinden geliyorsun. Mukavemetin iki bosluktan dogma.&lt;page&gt;Dolayısıyla, bu dünyanın merkezine ulasabilmene sasmamak gerek. Madem ulastın, burayı ayakta tutan fedakarlıktan da haberdar olacaksın.</entry>
-<entry name="HORNET_FOUNTAIN_2">Gerçekleri ögrendikten sonra da Kutsalyuva&#39;nın ebedilesmesinde rol almaya çalısırsan, Kül Mezar&#39;ı bul ve senin gibi birine verilmesi için üzerini isaretle.</entry>
+<entry name="HORNET_FOUNTAIN_2">Gerçekleri ögrendikten sonra da Hallownest&#39;in ebedilesmesinde rol almaya çalısırsan, Kül Mezar&#39;ı bul ve senin gibi birine verilmesi için üzerini isaretle.</entry>
 </entries>

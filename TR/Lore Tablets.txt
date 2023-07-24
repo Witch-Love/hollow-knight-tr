@@ -2,8 +2,8 @@
 <entry name="MOSS_FAT_MOUND_02">...Parlak...</entry>
 <entry name="FUNG_GUARD_01">...Yorgun...</entry>
 <entry name="FUNG_GUARD_02">...Çekilmis...</entry>
-<entry name="PILGRIM_TAB_02">Hacı Yolu burada bitiyor.&lt;br&gt;Kutsalyuva&#39;nın kalbi önünüzde yatmakta.&lt;br&gt;Muazzamlıgına vakıf olmak için ilerleyin.</entry>
-<entry name="PILGRIM_TAB_01">Hacı Yolu&lt;br&gt;Kutsalyuva yolcuları, el degmemis yesillik ve mantarlık korulardan geçerek krallıgın kalbine, kente ilerleyin.&lt;br&gt;Orada tüm dilekleriniz kabul olacak ve gerçekler ortaya çıkacaktır. </entry>
+<entry name="PILGRIM_TAB_02">Hacı Yolu burada bitiyor.&lt;br&gt;Hallownest&#39;in kalbi önünüzde yatmakta.&lt;br&gt;Muazzamlıgına vakıf olmak için ilerleyin.</entry>
+<entry name="PILGRIM_TAB_01">Hacı Yolu&lt;br&gt;Hallownest yolcuları, el degmemis yesillik ve mantarlık korulardan geçerek krallıgın kalbine, kente ilerleyin.&lt;br&gt;Orada tüm dilekleriniz kabul olacak ve gerçekler ortaya çıkacaktır. </entry>
 <entry name="FAT_GRUB_KING">Mutlu... mutlu... mutlu!!!</entry>
 <entry name="SHADE_BEAST_02">...Gölgelerin Efendisi...</entry>
 <entry name="BELIEVE_MOTH_02">Ne yıkım ama... Inananları böyle mi onurlandırıyorsun?&lt;page&gt;Bilmeceleri ve dolambaçları anlamsız, çözülemez ya da gülünç gelebilir...&lt;page&gt;Ancak inanmasaydılar... sana ya da bana neler olacaktı?</entry>
@@ -24,7 +24,7 @@
 <entry name="DREAM_PLANT_HIVE">...Güçlenmis kavim...&lt;page&gt;...pek dost canlısı degil...</entry>
 <entry name="WHITE_CORPSE_01">...Kayıp hükümdar, sana ihtiyacımız var...</entry>
 <entry name="DREAM_PLANT_CITY">...Sözü verilen bolluk...&lt;page&gt;...Hizmet edecek ruhlar...&lt;page&gt;...Bükülen ruhlar...</entry>
-<entry name="RANDOM_POEM_STUFF">Ötedeki ıssızda hürmet ve özlem ile söz ederler adından,Çünkü kimse uslandıramadı azılı ruhlarımızı ve bir tek sensin karsı koyan,En soluk nöbetinde ögrettin, bizdik degisen, temel içgüdülerimizi kazanan,Böceklere ve yaratıklara verdin o dünyayı ki asla hayali dahi kurulamayan,                                                          - Ögretmen Monomon&#39;un eseri &#39;Kutsalyuva Agıtı&#39;ndanBize üzerine titreyecegimiz düsleri sundun ve sundun,Ancak dehsete kapıldıgın görünce sonsuz isteklerimizi,Neydi yabaniligimizi ehlillestirmenin bedeli? Her seyini sundun ve sundun,Düsler kaldı, sen zayıfladın… yine de basıtramadın isteklerimizi.Düsten türedi korkunç bir musibet,Bizi hiddetlenmeye zorladı bu cenabet,Özümüzü çevirdi yaratıklara ve kabuklara,Tükettirdi ruhlarımızı gökteki ısıga.Cesedin üzerinden duyulur davacının aglayısı,Acımızı, kaybımızı ve düslerimizi alanın yakarısı…Acısında bulduk bir gerçek ki ortaya çıkacak,Öyle ki yalnızca kudretli bir bosluktur bunu barındıracak. </entry>
+<entry name="RANDOM_POEM_STUFF">Ötedeki ıssızda hürmet ve özlem ile söz ederler adından,Çünkü kimse uslandıramadı azılı ruhlarımızı ve bir tek sensin karsı koyan,En soluk nöbetinde ögrettin, bizdik degisen, temel içgüdülerimizi kazanan,Böceklere ve yaratıklara verdin o dünyayı ki asla hayali dahi kurulamayan,                                                          - Ögretmen Monomon&#39;un eseri &#39;Hallownest Agıtı&#39;ndanBize üzerine titreyecegimiz düsleri sundun ve sundun,Ancak dehsete kapıldıgın görünce sonsuz isteklerimizi,Neydi yabaniligimizi ehlillestirmenin bedeli? Her seyini sundun ve sundun,Düsler kaldı, sen zayıfladın… yine de basıtramadın isteklerimizi.Düsten türedi korkunç bir musibet,Bizi hiddetlenmeye zorladı bu cenabet,Özümüzü çevirdi yaratıklara ve kabuklara,Tükettirdi ruhlarımızı gökteki ısıga.Cesedin üzerinden duyulur davacının aglayısı,Acımızı, kaybımızı ve düslerimizi alanın yakarısı…Acısında bulduk bir gerçek ki ortaya çıkacak,Öyle ki yalnızca kudretli bir bosluktur bunu barındıracak. </entry>
 <entry name="RUINS_MARISSA_POSTER">Santöz Marissa&lt;br&gt;Omzunuzdaki yükleri hafifletecek ve zihninizi yatıstıracak ses.</entry>
 <entry name="APARTMENT_ROYAL_01">...Açım...</entry>
 <entry name="APARTMENT_ROYAL_02">...Tadı... Igrenç...</entry>
@@ -38,7 +38,7 @@
 <entry name="CLIFFS_NAIL_CORPSE">...Güçlü...</entry>
 <entry name="SPIDER_COCOON_01">...Dost degiller...</entry>
 <entry name="SPIDER_COCOON_02">...Yalan söylediler...</entry>
-<entry name="SENSE_TAB_01">Damar. Baglısın. Dünyanın halini bilirsin.&lt;br&gt;&lt;br&gt;Kutsalyuva yeniden bir olacak.</entry>
+<entry name="SENSE_TAB_01">Damar. Baglısın. Dünyanın halini bilirsin.&lt;br&gt;&lt;br&gt;Hallownest yeniden bir olacak.</entry>
 <entry name="COL_CORPSE_ACID_02">...Sampiyon?...</entry>
 <entry name="MISSING_PALACE_CORPSES">...Nereye gittiniz?... saygıdeger kralım...</entry>
 <entry name="TISO_CORPSE">...Neden?..</entry>
@@ -49,7 +49,7 @@
 <entry name="BATHHOUSE_CORPSE">...Marissa...</entry>
 <entry name="JOURNAL_FAT_MOSS_CULTIST">Salgına yenik düsmüs Derbeder Yaprakten cesedi.</entry>
 <entry name="ABYSS_BLUE_STONE">Mavi bir tas.</entry>
-<entry name="RUINS_FOUNTAIN">Soluk Sövalye Anıtı&lt;br&gt; Gökteki kara yumurtasında.&lt;br&gt; Fedakarlıgı sayesinde Kutsalyuva sonsuza dek var olacak.</entry>
+<entry name="RUINS_FOUNTAIN">Soluk Sövalye Anıtı&lt;br&gt; Gökteki kara yumurtasında.&lt;br&gt; Fedakarlıgı sayesinde Hallownest sonsuza dek var olacak.</entry>
 <entry name="RUIN_TAB_01">Yüce kapılar mühürlendi. Kimse giremez. Kimse çıkamaz.</entry>
 <entry name="RUIN_TAB_02">Kayıp hükümdarımız, size ihtiyacımız var. Delilik yayılıyor. Damar kopuyor. Geri dönmelisiniz.</entry>
 <entry name="SCREAM_ALTAR">...Yeniden... çıglıklar... atacagız...</entry>
@@ -70,7 +70,7 @@
 <entry name="LOVE_KEY_CORPSE">Birlikte... uzun zaman geçirdik. Bir olduk...</entry>
 <entry name="MIMIC_CORPSE_04">...Yüzüm...</entry>
 <entry name="HATCHLING_QUEEN_CORPSE">...Üre...</entry>
-<entry name="WISHING_WELL_INSPECT">Gerçek bir hizmetkar krallık için her seyi yapar.&lt;br&gt;Bırak Kutsalyuva&#39;nın Soluk Kralı yükünü hafifletsin.</entry>
+<entry name="WISHING_WELL_INSPECT">Gerçek bir hizmetkar krallık için her seyi yapar.&lt;br&gt;Bırak Hallownest&#39;in Soluk Kralı yükünü hafifletsin.</entry>
 <entry name="DREAM_PLANT_REST_MAIN">...Ölüler hatırlanacak...&lt;page&gt;...Tövbekar Güve...&lt;page&gt;...Düslere saygı duyulacak...</entry>
 <entry name="LEG_EATER_CORPSE_01">...Geo...</entry>
 <entry name="JOURNAL_GOAM">Kayaya sıkısmıs, taslasmıs bir Goam.</entry>
@@ -102,7 +102,7 @@
 <entry name="DUNG_DEF_SIGN">Ötedeki koruya yalnızca dövüserek serefliligini kanıtlayanlar girebilir.&lt;br&gt;                                                             -Koruyucu</entry>
 <entry name="LOOM_SPIDER_01">...Herrah...</entry>
 <entry name="TUT_TAB_01">Yüce varlıklar, burada yazanlar yalnızca sizin içindir.&lt;br&gt;&lt;br&gt;Asil gücünüz sizi öne çıkarır. Ruhunuza odaklanın ve digerlerinin ancak hayalini kurabilecegi basarıları elde edin.</entry>
-<entry name="TUT_TAB_02">Yüce varlıklar, burada yazanlar yalnızca sizin içindir.&lt;br&gt;&lt;br&gt;Bu noktanın ötesinde kral ve yaratıcının yurdu yer alır.&lt;br&gt;Sınırı geçin ve yasalarımıza uyun.&lt;br&gt;&lt;page&gt;Tek ve son medeniyetin, Sonsuz Krallıgın varlıgına tanık olun.&lt;br&gt;&lt;br&gt;Kutsalyuva</entry>
+<entry name="TUT_TAB_02">Yüce varlıklar, burada yazanlar yalnızca sizin içindir.&lt;br&gt;&lt;br&gt;Bu noktanın ötesinde kral ve yaratıcının yurdu yer alır.&lt;br&gt;Sınırı geçin ve yasalarımıza uyun.&lt;br&gt;&lt;page&gt;Tek ve son medeniyetin, Sonsuz Krallıgın varlıgına tanık olun.&lt;br&gt;&lt;br&gt;Hallownest</entry>
 <entry name="TUT_TAB_03">Yüce varlıklar, burada yazanlar yalnızca sizin içindir.&lt;br&gt;&lt;br&gt;Topraklarımızdayken gerçek kisiliginizi gizlemeyin. Sizin gibiler yalnızca bu krallıktan çıkabilir. Bırakalım da majesteleri varlıgınızla huzur bulsun.</entry>
 <entry name="COL_CORPSE_ACID_01">...Ahmaklar...</entry>
 <entry name="ABYSS_TUT_TAB_01">Yüce varlıklar, burada yazanlar yalnızca sizin içindir.&lt;br&gt;&lt;br&gt;Som damarımız yükseldi.&lt;br&gt;Ötesinde bir tek yaratılısının reddi ve pismanlıgı yatmakta.&lt;br&gt;Artık oraya gitmeyecegiz.</entry>
@@ -147,7 +147,7 @@
 <entry name="NAILSMITH_ANCIENT">...Saf...</entry>
 <entry name="DASH_MASTER_STATUE">...Daha hızlı atıl... Daha ileriye atıl... Sonsuza dek atıl...</entry>
 <entry name="KING_WORKSHOP_MOULD">...HIZMET ET...</entry>
-<entry name="LURIAN_JOURNAL">Sonsuz uyku çagırıyor. Bunlar son sözlerim olacak.&lt;br&gt;Bu kenti artık izleyemeyecek olsam da sonsuza dek koruyor olacagım.&lt;page&gt;Kral için, böcekler için, Kutsalyuva için. Simdi... dinlenmeye gidiyorum.</entry>
+<entry name="LURIAN_JOURNAL">Sonsuz uyku çagırıyor. Bunlar son sözlerim olacak.&lt;br&gt;Bu kenti artık izleyemeyecek olsam da sonsuza dek koruyor olacagım.&lt;page&gt;Kral için, böcekler için, Hallownest için. Simdi... dinlenmeye gidiyorum.</entry>
 <entry name="SHADE_BEAST_01">...Boslugun... Gücü... Bir olmadan...</entry>
 <entry name="MUMMY_CORPSE_01">...Çok... karanlık...</entry>
 <entry name="GIRAFFE_CORPSE">...Lütfen... yiyecek olmasın...</entry>

@@ -10,7 +10,7 @@
 <entry name="BELIEVE_TAB_48">Suppeedi&lt;br&gt;&lt;br&gt; Kavsaga çıktıgında seçecegin yolun dogru yol oldugundan emin ol ki hedefine vardıgında yaptıgın yolculuktan pismanlık duymayasın.</entry>
 <entry name="BELIEVE_TAB_49">Papa&lt;br&gt;&lt;br&gt;Büyümemiz gerekiyor.</entry>
 <entry name="BELIEVE_TAB_10">Kahraman Savasçı&lt;br&gt;&lt;br&gt;Kahramanlar, yardıma ihtiyacı olanlara yardım etmekten fazlasını yapanlardır..</entry>
-<entry name="BELIEVE_TAB_11">Cameron Dorman&lt;br&gt;&lt;br&gt;Her sey bir gün sona erecek ancak Kutsalyuva tanrıların ve böceklerin mezarı olarak, elde edilen basarıların simgesi olarak kalacak.</entry>
+<entry name="BELIEVE_TAB_11">Cameron Dorman&lt;br&gt;&lt;br&gt;Her sey bir gün sona erecek ancak Hallownest, tanrıların ve böceklerin mezarı olarak, elde edilen basarıların simgesi olarak kalacak.</entry>
 <entry name="BELIEVE_TAB_12">Chase Hammett&lt;br&gt;&lt;br&gt;Yasam ve ölüm arasındaki çizgi en iyi ihtimalle belirsizdir. Hangisinin nerede bitip nerede basladıgını kim söyleyebilir ki?</entry>
 <entry name="BELIEVE_TAB_13">Chris Diggins&lt;br&gt;&lt;br&gt;Burada neler oluyor? Emin olamadım. Sanırım sen bu isi çözersin. Sana kolay gelsin.</entry>
 <entry name="BELIEVE_TAB_14">Daniel &quot;Ithzerian&quot; Goldberg&lt;br&gt;&lt;br&gt;Umarım kalbin sadık, iraden insafsız kalır. Günes yeniden dogacak. Çaresizlige kapılma. Kimsenin de seni bastan çıkarmasına izin verme.</entry>
@@ -30,7 +30,7 @@
 <entry name="BELIEVE_TAB_58">Donald Lynch&lt;br&gt;&lt;br&gt;Çürümeye baslamıs dünyalar sadece yürekli kisilerin bulabilecegi sırlar barındırır.</entry>
 <entry name="BELIEVE_TAB_59">Tiso Spencer&lt;br&gt;&lt;br&gt;Biliyorum...</entry>
 <entry name="BELIEVE_TAB_20">Gaim&lt;br&gt;Karanlık bir geçmis, günümüzün parlak olasılıkları karsısında hiçbir sey degildir. Git, sövalye. Git... ve geçmisinin hayallerini çalmasına izin verme.</entry>
-<entry name="BELIEVE_TAB_21">Grant Holt&lt;br&gt;&lt;br&gt;Oyun Sövalye geliyor. Karanlıgın ve yılgınlıgın içinde geziniyor. Efsanesi gölgelerin arasında yazılıyor. Kutsalyuva onu çagırıyor.</entry>
+<entry name="BELIEVE_TAB_21">Grant Holt&lt;br&gt;&lt;br&gt;Oyun Sövalye geliyor. Karanlıgın ve yılgınlıgın içinde geziniyor. Efsanesi gölgelerin arasında yazılıyor. Hallownest onu çagırıyor.</entry>
 <entry name="BELIEVE_TAB_22">Greg Wiggleton&lt;br&gt;&lt;br&gt;Gecenin oyugunun önünde egilin!</entry>
 <entry name="BELIEVE_TAB_23">Haupströmable&lt;br&gt;Oro isimli böcegi duymus muydun? Söylentilere göre bir zamanlar bu karanlık magaraları yurt edinmis. Her ne kadar korkunç bir varlık olsa da, büyük salgından sag çıkamamıs.</entry>
 <entry name="BELIEVE_TAB_24">Irvin Guevara&lt;br&gt;&lt;br&gt;Kafana koydugun her seyi yapabilirsin. Etrafına bir baksana!</entry>
@@ -57,7 +57,7 @@
 <entry name="BELIEVE_TAB_02">Thomas C&lt;br&gt;&lt;br&gt;Yıldızlar ve toz.</entry>
 <entry name="BELIEVE_TAB_03">Mırıldanan Derinlikler&lt;br&gt;&lt;br&gt;Küllerin yakınında nefes al. Belki köz alev alır.&lt;br&gt;Sönmüs atesi yeniden yak. Belki hatıran canlanır.&lt;br&gt;Unutulanlar gider.</entry>
 <entry name="BELIEVE_TAB_04">Matthew Gooley&lt;br&gt;&lt;br&gt;Bir... Iki... Üç... Yürü be!</entry>
-<entry name="BELIEVE_TAB_05">Amy Linsamouth&lt;br&gt;Amy, Kutsalyuva&#39;nın ünlü yazarlarından biriydi. Öz kardesi, Amone Linsamouth tarafından öldürüldü. Eger Amone&#39;yi görürsen sarıl ona. Böceklerden nefret eder.</entry>
+<entry name="BELIEVE_TAB_05">Amy Linsamouth&lt;br&gt;Amy, Hallownest&#39;in ünlü yazarlarından biriydi. Öz kardesi, Amone Linsamouth tarafından öldürüldü. Eger Amone&#39;yi görürsen sarıl ona. Böceklerden nefret eder.</entry>
 <entry name="BELIEVE_TAB_06">Anders Ekermo&lt;br&gt;&lt;br&gt;Salgın, hayallerini çalana kadar gezgin ve sanatçı idi. Ruhundan sıyrılmıs halde, yukarıyı bir daha göremeyecegini bilerek karanlıga yürüdü.</entry>
 <entry name="BELIEVE_TAB_07">Yardımcı Sövalye&lt;br&gt;Ölümcül darbeyi vuramayan en büyük savasçıydı. Bunun yerine keyfine bakar ve zaferi digerlerinin taçlandırmasına izin verirdi. Ancak o kadar zaman geçti ki üzerinden... artık kimse ismini bile hatırlamıyor.</entry>
 <entry name="BELIEVE_TAB_08">Baron Robert Apples&lt;br&gt;&lt;br&gt;Ölüm bilinmezdir. Gantrus&#39;u kölelestirmeyi basarabilen yegane seydir. Eger bulunursa, her seye konacaktır.</entry>

@@ -14,7 +14,7 @@
 <entry name="NIGHTMARE_GRIMM_TITLE">Ayin</entry>
 <entry name="BLESSED_TEXT">Tüm tılsımları elde et ve Salubra&#39;nın kutsamasını kazan</entry>
 <entry name="COLLECTOR_TITLE">Takıntı</entry>
-<entry name="ENDINGD_TEXT">Kutsalyuva Anıtı&#39;na çık ve zirvedeki yerini al</entry>
+<entry name="ENDINGD_TEXT">Hallownest Anıtı&#39;na çık ve zirvedeki yerini al</entry>
 <entry name="ATTUNEMENT_TITLE">Uyum</entry>
 <entry name="NIGHTMARE_GRIMM_TEXT">Kabus Kral&#39;ı yen ve Ayin&#39;i tamamla</entry>
 <entry name="PROTECTED_TITLE">Korunan</entry>
@@ -24,7 +24,7 @@
 <entry name="NAILSMITH_KILL_TITLE">Saflık</entry>
 <entry name="METAMORPHOSIS_TEXT">Kısılı kalmış larvaların tamamını kurtar</entry>
 <entry name="SPEEDRUN_1_TEXT">Oyunu 10 saatten kısa sürede tamamla</entry>
-<entry name="BANISHMENT_TEXT">Grimm Topluluğunu Kutsalyuva&#39;dan sür</entry>
+<entry name="BANISHMENT_TEXT">Grimm Topluluğunu Hallownest&#39;ten sür</entry>
 <entry name="STEELSOUL_TEXT">Oyunu Çelik Ruh modunda tamamla</entry>
 <entry name="COMPLETIONGG_TEXT">Oyunu %112 tamamla ve oyunu bitir</entry>
 <entry name="WORLDSOUL_TITLE">Dünyanın Ruhları</entry>
@@ -48,7 +48,7 @@
 <entry name="ACH_TITLE_TEST">Deneme başarımının başlığı</entry>
 <entry name="WHITE_DEFENDER2_TITLE">Dostluk</entry>
 <entry name="COLLECTOR_TEXT">Toplayıcı&#39;yı yen</entry>
-<entry name="ENCHANTED_TEXT">Kutsalyuva tılsımlarının yarısını elde et</entry>
+<entry name="ENCHANTED_TEXT">Hallownest tılsımlarının yarısını elde et</entry>
 <entry name="GREY_PRINCE_TITLE">Kara Aşk</entry>
 <entry name="WHITE_DEFENDER_TITLE">Anı</entry>
 <entry name="STAG_STATION_ALL_TEXT">Geyik Durakları&#39;nın tamamını aç ve Geyik Yuvası&#39;nı keşfet</entry>
@@ -73,7 +73,7 @@
 <entry name="SPEEDRUN_2_TEXT">Oyunu 5 saatten kısa sürede tamamla</entry>
 <entry name="SPEED_COMPLETION_TITLE">Hızlı Bitiş</entry>
 <entry name="MASKED_TEXT">Tüm maske parçalarını elde et</entry>
-<entry name="HUNTER_1_TEXT">Kutsalyuva&#39;daki tüm canlıları Avcı&#39;nın Günlüğü&#39;ne kaydet</entry>
+<entry name="HUNTER_1_TEXT">Hallownest&#39;teki tüm canlıları Avcı&#39;nın Günlüğü&#39;ne kaydet</entry>
 <entry name="PANTHEON3_TITLE">Odaklanma</entry>
 <entry name="WHITE_DEFENDER_TEXT">Ak Muhafız&#39;ı yen</entry>
 <entry name="VOID_TITLE">Hiçlik</entry>

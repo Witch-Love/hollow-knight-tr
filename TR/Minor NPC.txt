@@ -1,8 +1,8 @@
 <entries>
-<entry name="MASK_MAKER_UNMASK">Asagıdan yüzü görebiliyor! Yoksa gördügü bir maske mi?&lt;page&gt;Kutsalyuva&#39;da gerçek her daim derinlerde saklıdır. Kaç katmanın altı üstüne getirilecek?</entry>
+<entry name="MASK_MAKER_UNMASK">Asagıdan yüzü görebiliyor! Yoksa gördügü bir maske mi?&lt;page&gt;Hallownest&#39;te gerçek her daim derinlerde saklıdır. Kaç katmanın altı üstüne getirilecek?</entry>
 <entry name="JINN_TALK_GENERIC">...alım satım yapmak mı istiyor? Eger istiyorsa öne çıkmalı.</entry>
 <entry name="KING_FINAL_WORDS">...Wyrm&#39;in ruhu. Kökün ruhu. Boslugun kalbi...</entry>
-<entry name="DUNG_UNDERGROUND_DREAM">Kutsalyuva&#39; yüce sövalyelerinin sonu nasıl gelecek? Sonuncu ben mi olacagım? Yeni bir sövalye seçmek mümkün mü?</entry>
+<entry name="DUNG_UNDERGROUND_DREAM">Hallownest&#39;in yüce sövalyelerinin sonu nasıl gelecek? Sonuncu ben mi olacagım? Yeni bir sövalye seçmek mümkün mü?</entry>
 <entry name="DUNG_DEFENDER_DREAM">...Digerleride burada yani...</entry>
 <entry name="MINER_DREAM_2">... daha ne kadar... ÖLDÜR ONU... daha ne kadar... TEHLIKELI... daha ne kadar... ÖLDÜR ONU... daha ne kadar... BOSLUGU ÖLDÜR...&lt;page&gt;...daha ne kadar... kazmam gerek...?</entry>
 <entry name="MR_MUSHROOM_SHROOMISH2">Gungi, gungi... Mishi umo sanga. Poggi u dungo? </entry>
@@ -13,7 +13,7 @@
 <entry name="JINN_TALK_03">Jinn&#39;in meteliklerini seviyor mu? Jinn&#39;de çok ama çok var. Jinn&#39;in yardım ettigi baskalarından geldi. Jinn&#39;e zarar veriyor.&lt;page&gt;Jinn metelik istemiyor. Sadece dagınıklık, karmasa yapıyor. Ancak Jinn adak karsılıgında verebilir.</entry>
 <entry name="MASK_MAKER_UNMASK2">Trajik gerçekten haberdar mı? Wyrm&#39;in büyük hayal kırıklıgı mühürlendi.&lt;page&gt;Krallıgın duraganlıgı Wyrm&#39;in mirası oldu.</entry>
 <entry name="LEGEATER_CONVO5">Meraklandın mı? Özel hediyelerimi nasıl yaptıgımı merak mı ediyorsun? &lt;page&gt;Hıııııııhh! Sırlarımı çalmaya çalısma sakın! Çalarsan bende senden çalarım!&lt;page&gt;Bana karsı acımasız olursan... buna pisman olursun.</entry>
-<entry name="MASK_MAKER_UNMASK4">Demek biri daha kralıgın örtüsünü kaldırıyor. Tabi omuzlarına korkunç bir sorumluluk da yüklüyor.&lt;page&gt;Hiçbir böcek onun üzerinde hak iddia etmemisti. Yaratıklar bile sınırlarını bilir ve Yuva&#39;nın kenarlarındaki topraklardan çıkmaz.&lt;page&gt;Bu devasa varlıga hükmetmeye yeltenen kadim büyü idi. Kutsalyuva harabeleri bu kötü yeltenmeyi yansıtıyor.</entry>
+<entry name="MASK_MAKER_UNMASK4">Demek biri daha kralıgın örtüsünü kaldırıyor. Tabi omuzlarına korkunç bir sorumluluk da yüklüyor.&lt;page&gt;Hiçbir böcek onun üzerinde hak iddia etmemisti. Yaratıklar bile sınırlarını bilir ve Yuva&#39;nın kenarlarındaki topraklardan çıkmaz.&lt;page&gt;Bu devasa varlıga hükmetmeye yeltenen kadim büyü idi. Hallownest harabeleri bu kötü yeltenmeyi yansıtıyor.</entry>
 <entry name="LEGEATER_REFUSE_AGAIN">Hala mı? Seni gidi açgözlü, pis domuz. Geo&#39;nu benimle paylasmalısın...</entry>
 <entry name="TUK_GREET">Ihıımmmmmmm... Su bana istedigim her seyi getirir... sadece getirdigi seyi bulmam gerekir.&lt;page&gt;Senide buraya su getirdi. Aç mısın? Eger bana Geo verirsen yiyeceklerimi seninle paylasırım.</entry>
 <entry name="XUN_REOFFER">Me&#39;hon, senin kalbinde küt küt atıyor mu? Kederi paylasıyor ve yatıstırmayı umuyor mu?&lt;page&gt;Che&#39;nin son arzusunu yerine getirip bu hediyeyi sevdiceginin mezarına bırakır mısın? </entry>
@@ -25,7 +25,7 @@
 <entry name="XUN_REFUSE">Hayır mı diyorsun? Che bunu beklemiyordu. Bu dünya bize iyilikte bulunmuyor. Yalnızca kalbimizi agrıtıyor...</entry>
 <entry name="MINER_INFECTED">...Göm bedenimi... ört kabugumu,&lt;br&gt;Nedir anlamı karanlıgın? Buralardayım...&lt;br&gt;Sonsuza kadar, ısıgı görene dek kalacagım...</entry>
 <entry name="CLOTH_TRAMWAY_SAVED">Bu kadar yeter! Zaafım yüzünden mızmızlanıp duramam. Seni örnek alarak güçlenmeliyim!&lt;page&gt;Savasta kendine epey güveniyorsun. Düsmanlarından korkmuyorsun. Bende senin gibi olmak için elimden geleni yapacagım.</entry>
-<entry name="TISO_TOWN_REPEAT">Kutsalyuva... Harabelerde beni nasıl rakipler bekliyor acaba?</entry>
+<entry name="TISO_TOWN_REPEAT">Hallownest... Harabelerde beni nasıl rakipler bekliyor acaba?</entry>
 <entry name="GIRAFFE_UPPER">Ihımmm, çok lezzetli.</entry>
 <entry name="XUN_FAILED2">.....Ne? Yok olmus. Yine. Nadir bulunan bir deger daha soldu gitti.&lt;page&gt;Che&#39;de baska var... Ancak Le&#39;mer bilmeli. Bu çiçek degerli ve kutsal. Bölüsmek istemedi. Ancak Meled öyle sevildi ki hepsi verilebilirdi. Bu görevi yeniden üstlenmek ister misin?</entry>
 <entry name="JINN_TALK_01">...Jinn&#39;i tanımak istiyor mu?&lt;page&gt;Jinn kendini çok az biliyor... anlatamıyor. Zihni çok genç. Hizmet etmeye, alım satıma dogmus.&lt;page&gt;Alım satıma yardım edecek mi? Jinn&#39;e adagı... mükemmel adagı sunacak.</entry>
@@ -36,7 +36,7 @@
 <entry name="MASK_MAKER_UNMASK_REPEAT">Isteyenlere yüz saglarım. Görev bilmem, yardım etmek niyetindeyim. Hak eden bu dünyaya hediyesini sunarım.</entry>
 <entry name="CLOTH_TRAMWAY_DREAM_SAD">Bir tek saklanmayı becerebiliyorum. Ben nasıl bir savasçıyım?</entry>
 <entry name="MINER_DREAM_1">Çok yakınım... Devam edin kristaller! Sakımaya devam edin ki sizi bulabileyim!&lt;page&gt;Fısıldamaya devam edin! Neredeyse dediklerinizi anlayacagım!</entry>
-<entry name="MASK_MAKER_GREET">Varlıgın yüzü var mı yoksa maske mi takıyor? Kutsalyuva&#39;da bunu çözebilmek zordur.</entry>
+<entry name="MASK_MAKER_GREET">Varlıgın yüzü var mı yoksa maske mi takıyor? Hallownest&#39;te bunu çözebilmek zordur.</entry>
 <entry name="MR_MUSHROOM_FINAL2">Yollarımız kesisinceye dek hosçakal...</entry>
 <entry name="TUK_DUNG">Ihıımmmmmmm...? Kokun... sende dost musun? Eger dostsan yiyeceklerimi seninle paylasabilirim.&lt;page&gt;Dostumuzu yeniden görürsen... ona, bana yardım ettigi için tesekkür ettigimi söyle.</entry>
 <entry name="LEGEATER_DUNG">Iyyyyyyyyy! Sendeki su koku...&lt;page&gt;Ah! Ah! Ahhhhh!&lt;page&gt;...Çok lezzetli!&lt;page&gt;Bu lezzetli kokuyu benimle paylasacak kadar... naziksindir eminim. Karsılıgında hediye ister misin?&lt;page&gt;Ucuza... Evet... hediyelerimi sana daha ucuza veririm.</entry>
@@ -55,9 +55,9 @@
 <entry name="LITTLE_FOOL_LOCKED">O kadar çabuk degil! Yeterli deneyimi kazanmamıs olanlar o dövüse katılamaz. Önce diger dövüsleri dene.</entry>
 <entry name="JINN_ACCEPT_REPEAT">...Baska bir kötü, igrenç adak daha. Jinn bunu da... Jinn&#39;in arkadası için atmayacak... ve metelik verecek. Alacak ve verecek...</entry>
 <entry name="SPIDER_GREET2">Canım arkadasım, parlak dostluk isaretini edinmissin. Onunla tanıstın mı peki? Hani su damgayı koruyan, Cinsiyeti Belli Çocukla.&lt;page&gt;Ruhani bir varlık, degil mi? Yuva ve Canavar&#39;ın soluk hediyesi, yapılan fedakarlıkların karsılıgı...&lt;page&gt; Epeydir gelmiyor. Ziyaretime gelse ruhlarımızı rahatlatabilirdim...&lt;page&gt;......Hıhıhı... Ehem. Özür dilerim. Anılar zihnimin sapmasına neden oluyor. Özellikle de bu kadar açken...</entry>
-<entry name="WHITE_DEFENDER_OUTRO_2">Kralım, size inanıyorum. Kutsalyuva&#39;ya inanıyorum! Ihtisamımı krallıgımıza adıyorum...  </entry>
+<entry name="WHITE_DEFENDER_OUTRO_2">Kralım, size inanıyorum. Hallownest&#39;e inanıyorum! Ihtisamımı krallıgımıza adıyorum...  </entry>
 <entry name="TISO_BENCH_REPEAT">Beni rahat bırak. Arenayı arıyorum. Bu lanetli yollarda zaten epey zaman kaybettim.</entry>
-<entry name="WHITE_DEFENDER_OUTRO_4">Kralım, Kutsalyuva küllerinden dogacak! San ve nese ile dolacak! Eskisi gibi olacak...</entry>
+<entry name="WHITE_DEFENDER_OUTRO_4">Kralım, Hallownest küllerinden dogacak! San ve nese ile dolacak! Eskisi gibi olacak...</entry>
 <entry name="WHITE_DEFENDER_OUTRO_5">Ufaklık, seni de rüyalarımda misafir etmem ne kadar da komik. Asil durusun sevgili kralımızı andırıyor. Döndügünde seni de sövalye olup olamayacagını soracagım! Kim bilir ne sen sakran maceralar yasayacagız...</entry>
 <entry name="MASK_MAKER_UNMASK3">Yüz degistirmek; bir baska yüzün altında saklamak... Güçlü koruma saglar ancak kötü bir sonuç da dogurur.&lt;page&gt;Saldırgan olan, saklanan zihnin küçük bir parçasını elinde bulundursa da asıl zihin yok olur.</entry>
 <entry name="SPIDER_GREET">Geri gelmissin! Geçmiste yasadıklarımız için özür dilerim. Hıhıhı. Önemsiz seylerdi. Istahım karakterimden üstün geldi iste. Bundan mutluluk duyuyorum.&lt;page&gt;Benimle ilgili bir seyler ögrenmek ister misin? Anlatacak pek bir seyim yok. Yuvaya hizmet ediyorum. Son zamanlarda hizmetime basvuran pek yok gerçi. &lt;page&gt;Yavrularımız su zihinsel salgına kurban gitti. Zeki türler için hiç iyi olmadı. &lt;page&gt;Ama hımm... Yemegimi yedim ve doydum. Yine de ufacık bir atsinegini daha yutsam bir sey kaybetmem. Yemekler en güzel sona midemde ulasır...</entry>
@@ -76,7 +76,7 @@
 <entry name="MR_MUSHROOM_DREAM">...Wyrm böcekleri köle eder,&lt;br&gt;Çaglar geçer, krallıklar göçer,&lt;page&gt;Sapkalar ve kabuklar toza döner,&lt;br&gt;Bay Sapka ise yalnızca yeni kosullara alısır...</entry>
 <entry name="MR_MUSHROOM_EXCUSE">...Izninle...</entry>
 <entry name="TUK_DECLINE">Istemiyorsan bende kalmaya devam eder.</entry>
-<entry name="DUNG_DEFENDER_REPEAT">Git bakalım Kutsalyuva&#39;nın yüce kahramanı! Namını kanıtladın! Talih yakanı bırakmasın.</entry>
+<entry name="DUNG_DEFENDER_REPEAT">Git bakalım Hallownest&#39;in yüce kahramanı! Namını kanıtladın! Talih yakanı bırakmasın.</entry>
 <entry name="XUN_REOFFER2">Yeniden Che&#39;nin sevdiceginin mezarına ulasmaya çalısmak ister misin?</entry>
 <entry name="TISO_DREAM_TOWN">Bu fırlamanın benden korktugu açıkça görülüyor. Bunu suracıkta öldürürdüm ama o zamanda ölümü zavallıca olurdu.</entry>
 <entry name="LEGEATER_BROKEN">Iyyyyyyy! Mahvetmissin! Sana bu tılsımı hediye etmistim, sense onu mahvetmissin! Beceriksiz küçük aptal sey seni... Pislik seni.&lt;page&gt;Özür dile, rica et. Ancak öyle onarırım. Bana Geo ver yoksa onarmam.</entry>
@@ -85,7 +85,7 @@
 <entry name="DUNG_DEFENDER_DUNG_CHARM">Ah, Adil&#39;in gurur dolu kokusunu tasıyorsun. Gerçekten de yüce bir sövalyesin! </entry>
 <entry name="CLOTH_TRAMWAY_REPEAT">Bir dahaki karsılasmamızı iple çekiyorum, ufak kurtarıcım. Bir dahaki sefere kendine esdeger cesarette bir savasçı ile karsılasacaksın. </entry>
 <entry name="TISO_COLOSSEUM_REPEAT">Hepsini ezecegim. Sana gelince... en ölümcül ve en iyi halimi göreceksin.</entry>
-<entry name="MOSS_CULTIST_01">Ahhh, parlak varlık. Hepimizi kutsuyorsun. Isınların bize dokunuyor. Isın bizi dolduruyor.&lt;page&gt;Kutsalyuva, parıldayan görüntün altında birlesiyor ve yeniden doguyor. Ahhh... </entry>
+<entry name="MOSS_CULTIST_01">Ahhh, parlak varlık. Hepimizi kutsuyorsun. Isınların bize dokunuyor. Isın bizi dolduruyor.&lt;page&gt;Hallownest, parıldayan görüntün altında birlesiyor ve yeniden doguyor. Ahhh... </entry>
 <entry name="MOSS_CULTIST_02">Isık hayattır, saftır, harikadır, yayılır. Isıgı bogmak dogayı bastırmaktır.Doga bastırılırsa bozulur ve hastalıklar yayılır. Isıgı benimseyin! Birligi saglayın! Ahhh.... </entry>
 <entry name="GIRAFFE_MEET">Ah! Yemek aramaya mı çıktın? Sansıma üzerimizdeki küçük mantarcıgı fark ettim. Bir tek bu durakta yetisiyor. Tadı da enfes. </entry>
 <entry name="XUN_HAVE_FLOWER2">Mezarı Kraliçe&#39;nin eski sıgınagının tam ortasında. Yolun uzun. Ne kadar tehlikeli oldugunu anlatmama gerek yok sanırım.&lt;page&gt;Ihtiyatlı... ve dikkatli davranasın, Me&#39;hon.</entry>
@@ -97,7 +97,7 @@
 <entry name="LEGEATER_CONVO4">Hmm. Hava degisti. Yeni bir koku alıyorum. Tehlikeli varlıklar buraya geliyor... Korktun mu yoksa?&lt;page&gt;Burada kalırsan... seni korumayacagım.</entry>
 <entry name="WHITE_DEFENDER_OUTRO_3">Kralım, her sey eskisi gibi olacak...</entry>
 <entry name="DUNG_DEFENDER_1">Ah, demek yine sen geldin. Döndügüne sevindim.&lt;page&gt;Hayır. Hayır, lütfen... Tek kelime etme. Daha önceki davranıslarım için özür dilerim.&lt;page&gt;Tamamen benim hatamdı. Seni o hırsızlardan biri sanmıstım. Sense dövüserek hakkımdan geldin.</entry>
-<entry name="DUNG_DEFENDER_2">Çok keyifli, dinç bir dövüstü. Verdigi hissi unutmusum.&lt;page&gt;Gördügün üzere bir zamanlar sövalyeydim. Ince kralımızın tahtını korudum ve Kutsalyuva&#39;nın yükselisini izledim.&lt;page&gt;Sonrasında ise su sıkıntılı hastalık meselesi bas gösterdi...</entry>
+<entry name="DUNG_DEFENDER_2">Çok keyifli, dinç bir dövüstü. Verdigi hissi unutmusum.&lt;page&gt;Gördügün üzere bir zamanlar sövalyeydim. Ince kralımızın tahtını korudum ve Hallownest&#39;in yükselisini izledim.&lt;page&gt;Sonrasında ise su sıkıntılı hastalık meselesi bas gösterdi...</entry>
 <entry name="DUNG_DEFENDER_3">Sövalyeler toplandık ve bedensel ancak biçimsiz bir düsmana karsı durduk. Böyle bir düsmanı nasıl yenebilirdik ki?&lt;page&gt;Kralımız kendi yöntemini denedi. Zalim bir yöntemdi... Sonunda ise ortalıktan kaybolduk...&lt;page&gt;Peh! Bu kadar somurtmamalıyım. Beni canlandırdın resmen. Benimle esdeger güçte birisiyle karsılasmak gerçekten bir zevk.</entry>
 <entry name="TISO_DREAM_BENCH">Yaslı geyikböceklerinde yırtıcı savasçılar olurmus aslında. Tabi kendilerini bu kadar asagılamasaymıslar...</entry>
 <entry name="LEGEATER_MEET">Beni görmezden gelmeye kalkma sakın. Kokunu alabiliyorum.&lt;page&gt;Hmm... Geo topluyor musun bakayım?&lt;page&gt;Bana Geo verirsen... güzel seyler görebilirsin.</entry>
@@ -134,7 +134,7 @@
 <entry name="BRETTA_DIARY_2">                         Beyaz Kurtarıcı&#39;nın Dönüsü&lt;br&gt;Epey ayrı kaldılar. Bir zamanlar sıcacık olan köy sopsoguk bir yere dönüstü. Genç kız büyük acı içindeydi. Bir tanecik kabuguna sıkıca tutunuyordu.&lt;page&gt;Kurtarıcı bir anda, sanki kızcagızın trajik halini hissetmis gibi dönüverdi. Dimdik duruyor ve parıldıyordu. O bembeyaz boynuzlarının altındaki zeytin gözleri ısıldıyordu. Kız bu gözleri çok ama çok özlemisti.&lt;page&gt;Kurtarıcı yaklastı. Kızın yanına oturdu. Tek bir kelimenin dahi edilmedigi o nefessiz an gelmisti. Kızın kabugu birdenbire hafifledi.&lt;page&gt;Pençeleri büküldü. Birbirlerinin gözlerinin içine bakmıyor, el ele tutusmuyorlardı. Yalnızca, o mükemmel, sessiz askı paylasıyorlardı...</entry>
 <entry name="XUN_SUCCESS1">Mi&#39;? Le&#39;mer, basardın mı? Bu mümkün mü? Dünyanın zulmü... agır basıyordu. Ancak Le&#39;mer çok sefkatli. Che&#39;nin sevdicegi, Che&#39;nin yüreginin ebediyette de onunla oldugunu bilecek.</entry>
 <entry name="XUN_SUCCESS2">Buraya kadar mıydı, Le&#39;mer? Bu acı sona erdi mi gerçekten? Che&#39;nin sonu geldi mi? Ullll, eh nai, sevdicegim. Che de yolun sonuna vardı.</entry>
-<entry name="EMILITIA_MEET">Bu ne sürpriz? Genelde ziyaretçim olmaz. Hatta uzun zamandır olmadı. Yıllar olmustur. Umarım görgü kurallarını unutmamısımdır.&lt;page&gt;Zenginligimi hissetmis olmalısın. Dogru bildin. Kutsalyuva&#39;nın ünlü zenginlerindenim.&lt;page&gt;...Yani... bir zamanlar öyleydim. O gerzekler beni sürene kadar. Eski dostlarımla tanısmıs mıydın? Dısarıdalar. Akıllarını yitirmisler. Bedenleri bos bos dolanıyor. Bense onları bu zavallı ölümlerine tanıklık etmek için yasıyorum. &lt;page&gt;Aslında bayagı mutluyum. Kader bazen harika olabiliyor.</entry>
+<entry name="EMILITIA_MEET">Bu ne sürpriz? Genelde ziyaretçim olmaz. Hatta uzun zamandır olmadı. Yıllar olmustur. Umarım görgü kurallarını unutmamısımdır.&lt;page&gt;Zenginligimi hissetmis olmalısın. Dogru bildin. Hallownest&#39;in ünlü zenginlerindenim.&lt;page&gt;...Yani... bir zamanlar öyleydim. O gerzekler beni sürene kadar. Eski dostlarımla tanısmıs mıydın? Dısarıdalar. Akıllarını yitirmisler. Bedenleri bos bos dolanıyor. Bense onları bu zavallı ölümlerine tanıklık etmek için yasıyorum. &lt;page&gt;Aslında bayagı mutluyum. Kader bazen harika olabiliyor.</entry>
 <entry name="EMILITIA_REPEAT">Hayat ne kadar da harika...</entry>
 <entry name="CLOTH_DEEPNEST_GREET">Burası ölümcül yaratıklarla dolu. Isırıyorlar, yakıyorlar, kesiyorlar... Onlara karsı gücümü sınayabilirim sanmıstım. Cesaret de beni terk edince bir tek yorgunluk ve acı hisseder oldum.</entry>
 <entry name="LITTLE_FOOL_GREET">Tekrardan hosgeldin, savasçı!</entry>
@@ -151,7 +151,7 @@
 <entry name="JINN_NOEGG">...Sorun olusturacak. Jinn&#39;in istedigi adagı getirmedi. Alınmaz ve verilmez... Olmaz.&lt;page&gt;...Jinn&#39;in istedigi adagı getirecek mi? Kötü, yuvarlak ve igrenç adagı getirecek mi? Dönecek mi? Jinn bekleyecek...</entry>
 <entry name="MR_MUSHROOM_SHROOMISH1">Nyush oola mumu? Shruba dungo ola, ola mu... gungi.</entry>
 <entry name="BIGCAT_INTRO">Öhöm... ufaklık. Epey yükseklere çıkmıssın. Bu diyarın ilminin mi pesindesin?&lt;page&gt;Bu soluk yer Wyrm&#39;in gömütüdür. Onun ölümü de kesindi elbet ama kadim bir varlıgın ölümü ne anlama gelir? Bana daha çok dönüsüm gibi geldi.&lt;page&gt;Basarısız krallık bunun ürünü olarak ortaya çıktı.</entry>
-<entry name="QUEEN_REPEAT_SHADECHARM">Her yeri saran su bosluk... Gerçektende onu bulan kasifler tarafından degistirilmis.&lt;page&gt;Peki... bir sey hissediyor mudur? Zaferi, ya da ne nefreti hissediyor mudur? Bunu anlayamıyorum.&lt;page&gt;Krallıgımızın, Kutsalyuvamızın kaderi... gelecek artık senin ellerinde.</entry>
+<entry name="QUEEN_REPEAT_SHADECHARM">Her yeri saran su bosluk... Gerçektende onu bulan kasifler tarafından degistirilmis.&lt;page&gt;Peki... bir sey hissediyor mudur? Zaferi, ya da ne nefreti hissediyor mudur? Bunu anlayamıyorum.&lt;page&gt;Krallıgımızın, Hallownest&#39;imizin kaderi... gelecek artık senin ellerinde.</entry>
 <entry name="QUEEN_HORNET">Cinsi belli olan evladım ile tanıstın mı? Serttir, hem zihinsel hemde bedensel anlamda güçlüdür. Her ne kadar birlikte kısıtlı zaman geçirmis olsalar da annesine saldırır.&lt;page&gt;Wyrm&#39;in pazarlıga cilvelesmeyi eklemesini asla fazla görmedim. Aslında dogan varlıktan etkilendim.&lt;page&gt;Eger yolunuz kesisirse çok güçlü bir müttefik kazanabilirsin.</entry>
 <entry name="CLOTH_TRAMWAY_DREAM_HAPPY">Ne kadar da sanslıyım! Bu ufaklık tam zamanında ortaya çıktı. Ne kadar becerikli yav!&lt;page&gt;Güçlü bir savasçı örnegi aslında. Bu halinden epey ders çıkartabilirim.</entry>
 <entry name="LITTLE_FOOL_MEET">Aha! Bir savasçının yolu daha güzel arenamıza çıkmıs. Arenamız siddetli ve ölümcül dövüs pesinde olanların son duragıdır.&lt;page&gt;Tek yapman gereken dövüs seçimi tahtasına imzanı bırakmak ve ta da! Arenanın kapıları açılacak.&lt;page&gt;Dövüs basına küçük bir ücret ödemen gerekecek. Eminim senin gibi yetenekli bir savasçı epey Geo biriktirmistir.&lt;page&gt;Simdi, igneni hazır edip dövüslere dalmadan önce ufak bir önerim olacak.&lt;page&gt;Buranın altında savasçıların dövüsleri bekledigi bir çukurumuz var. Adını yazdırmadan önce orada dinlenmeni siddetle öneririm.&lt;page&gt;Bu arada hiç süphen olmasın, bende dehset bir savasçıyımdır. Yani beni boyuma ya da... eee... sınırlanmıs halime göre yargılama. Arena hem seni hemde beni çagırıyor sonuçta. Birazdan da dövüse katılacagım!</entry>
