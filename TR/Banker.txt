@@ -1,7 +1,7 @@
 <entries>
-<entry name="BANKER_ACCT_DECLINE">Anlıyorum. Onca alın teri dökerek kazandıgın Geolardan ayrılmak kolay degil tabi. Fikrini degistirirsen, burada olacagım.</entry>
+<entry name="BANKER_ACCT_DECLINE">Anlıyorum. Onca alın teri dökerek kazandıgın Geolardan ayrılmak kolay degil tabii. Fikrini degistirirsen, burada olacagım.</entry>
 <entry name="BANKER_ACCT_DECLINE_AGAIN">Hala mı ilgilenmiyorsun? Çok kuskulusun. Cesur kararlar vermeli ve kararlılıgını saglamalısın. Insanlar böyle böyle Geo milyarderi oluyor. </entry>
-<entry name="BANKER_ACCT_NOTENOUGH">Dur bakalım. Ne yazık ki, hesap açtırmaya yetecek Geo&#39;n bile yok. 100 Geo biriktirir biriktirmez bana gel de hesabını açalım.</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">Dur bakalım. Ne yazık ki, hesap açtırmaya yetecek Geo&#39;n bile yok. 100 Geo biriktirir biriktirmez bana gel ve hesabını açalım.</entry>
 <entry name="BANKER_ACCT_OPEN">Zeki sey. Artık canavarcıklar seni yediginde, Geocuklarının kabug- ehemm... kasamda güvende oldugunu bileceksin.&lt;page&gt;Iste bankacılık.</entry>
 <entry name="BANKER_BALANCE_ZERO">B-ben de bir sey kalmadı... Ben de eee, sanırım... sen de simdi kendi yoluna gideceksin, degil mi?&lt;page&gt;E-e-evet, sanırım bu ikimiz içinde e-en iyisi bu olur...</entry>
 <entry name="BANKER_BALANCE_ZERO_REPEAT">...Sanırım bir süre burada dinlenecegim. Evet, bu en iyisi.</entry>

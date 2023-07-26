@@ -10,7 +10,7 @@
 <entry name="CHARMS_REMAINING">daha çok tılsım! Toplamaya devam et!</entry>
 <entry name="CHARM_ALERT_NONE">Tılsım takınılmadı.&lt;br&gt;&lt;br&gt;Tılsım takınmak için oturakta dinlenirken TILSIM menüsünü aç.</entry>
 <entry name="CHARM_ALERT_NONE_BENCH">Tılsım takınılmamıs.&lt;br&gt;&lt;br&gt;Takınmak ve etkilerini etkinlestirmek için asagıdan tılsım seç.</entry>
-<entry name="CHARM_DESC_1">Bir sürü tasıyıcı takip eder ve uzakta bulunan Geo&#39;yu toplar.&lt;br&gt;&lt;br&gt;Önemli önemsiz geride bir sey bırakmak istemeyen gezginlerin çok isine yarar. </entry>
+<entry name="CHARM_DESC_1">Bir sürü tasıyıcıyı takip eder ve uzakta bulunan Geo&#39;yu toplar.&lt;br&gt;&lt;br&gt;Önemli önemsiz geride bir sey bırakmak istemeyen gezginlerin çok isine yarar. </entry>
 <entry name="CHARM_DESC_10">Hallownest Kralı ve sadık sövalyelerine özel yapılmıs tılsım. Çizilse, kirlense de hala önemini koruyor.&lt;br&gt;&lt;br&gt;Takınan kisinin yigitlik kokusu yaymasını saglar.</entry>
 <entry name="CHARM_DESC_11">Disana&#39;nın dogurdugu yasayan tılsım.&lt;br&gt;&lt;br&gt;Hınçlı Can büyüsünü bir yavru discil sürüsüne dönüstürür.</entry>
 <entry name="CHARM_DESC_12">Takınan kisinin çektigi acıyı hisseder ve çevredeki varlıklara saldırır.&lt;br&gt;&lt;br&gt;Hasar alındıgında çevredeki düsmanlara saldıran dikenli filizler salar.</entry>
@@ -22,7 +22,7 @@
 <entry name="CHARM_DESC_18">Takınan kisinin ignesinin saldırı menzilini artırır. Çok daha uzaklardan saldırı gerçeklestirilmesini saglar.</entry>
 <entry name="CHARM_DESC_19">Geçmis nesillerin samanlarına dair bilgiler içerdigi söylenir.&lt;br&gt;&lt;br&gt;Büyülerin gücünü artırır ve düsmanlara daha fazla hasar vermelerini saglar.</entry>
 <entry name="CHARM_DESC_2">Harita açıkken kisinin yerini fısıldar ve gezginlerin yerlerini tam olarak görebilmelerini saglar.</entry>
-<entry name="CHARM_DESC_20">Samanlarca çevreden daha fazla RUH elde etmek için kullanılır.&lt;br&gt;&lt;br&gt;Igne saldırısı gerçeklestirildiginde kazanılan RUH miktarını artırır.</entry>
+<entry name="CHARM_DESC_20">Samanlar tarafından, çevreden daha fazla RUH elde etmek için kullanılır.&lt;br&gt;&lt;br&gt;Igne saldırısı gerçeklestirildiginde kazanılan RUH miktarını artırır.</entry>
 <entry name="CHARM_DESC_21">Unutulmus saman yapısı. Yasayan canlılardan RUH çekmek için kullanılır.&lt;br&gt;&lt;br&gt;Igne saldırısı gerçeklestirildiginde kazanılan RUH miktarını büyük oranda artırır.</entry>
 <entry name="CHARM_DESC_22">Takınan kisiden RUH emer ve yavru dogurur.&lt;br&gt;&lt;br&gt;Yavruların yeme ya da yasama arzusu yoktur. Takınanı korumak için kendilerini feda ederler.</entry>
 <entry name="CHARM_DESC_23">Takınan kisinin saglıgını artırır ve daha fazla hasar almasına izin verir.&lt;br&gt;&lt;br&gt;Bu tılsım kırılgandır. Takınan kisi öldügünde kırılır.</entry>
@@ -372,7 +372,7 @@
 <entry name="SHOP_DESC_SPRINTMASTER">Begendin mi? Koleksiyonuma yeni ekledim. Çok güzel, degil mi?&lt;br&gt;&lt;br&gt;Takınıldıgında etrafta yorulmadan hızla hareket etmeyi saglar. Kisiyi gençlik günlerine döndürür! Öyle iste...</entry>
 <entry name="SHOP_DESC_STALWARTSHELL">Hallownest&#39;te hayat zor olabiliyor. Birileri tarafından biçilip öldürülebiliyorsun. Bu tılsımla hasar aldıktan sonra iyilesmek için daha fazla zamanın olacak. Sıkı yerlerden kaçman gerektiginde isini görür.</entry>
 <entry name="SHOP_DESC_TRINKET1">Bu günlükler bizden önce gelenlerin akıllarına ve kalplerine farklı bir sekilde bakmamızı saglıyor.&lt;br&gt;&lt;br&gt;Bunlardan sıklıkla bulabilirsin. Bu yüzden fazla ödeme yapamam.</entry>
-<entry name="SHOP_DESC_TRINKET2">Bu süslü mühürler Kral ve sövalyelerin resmi simgesiydi. Mühürlere sahip olanlar için degerliydiler. &lt;br&gt;&lt;br&gt;Kral ve sövalyeleri uzun zaman önce ölse de bu mühürler meraklıları için deger tasımaya devam ediyor. Az uz bir seyler ödeyebilirim.</entry>
+<entry name="SHOP_DESC_TRINKET2">Bu süslü mühürler Kral ve sövalyelerin resmi simgesiydi. Mühürlere sahip olanlar için degerliydiler. &lt;br&gt;&lt;br&gt;Kral ve sövalyeleri uzun zaman önce ölse de bu mühürler meraklıları için deger tasımaya devam ediyor. Az buz bir seyler ödeyebilirim.</entry>
 <entry name="SHOP_DESC_TRINKET3">Hem Tanrı, hem hükümdar sayılan Hallownest Kralı&#39;nın simgesi. Gizemli beyaz bir maddeden yapılmıs olan bu putlar nadir bulunur ve oldukça degerlidir.&lt;br&gt;&lt;br&gt;Bana satmayı düsünürsen iyi ödeme yapabilirim.</entry>
 <entry name="SHOP_DESC_TRINKET4">Basit bir yumurta gibi görünüyor ancak aslında bu sey Hallownest&#39;in dogusundan önceye dayanan degerli bir eser! &lt;br&gt;&lt;br&gt;Bunun için ufak bir servet ödemeye hazırım. Lütfen sat bana!</entry>
 <entry name="SHOP_DESC_WAYWARDCOMPASS">Siddetle öneririm! Labirentten farksız yıkıntılarda yolunu bulmakta zorlanıyorsan bu tılsımı denemelisin.&lt;br&gt;&lt;br&gt;Haritada yerini gösterir. Bilmedigin yerlerde kendini görebiliyor olman acayip isine yarayacaktır!</entry>
@@ -383,7 +383,7 @@
 <entry name="SHOP_SALUBRA_BLESSING">Sana özel bir tılsım verecegim. Bunu hak ettin!</entry>
 <entry name="SHOP_SALUBRA_BLESSING_NE">Bu, benim gibi tılsımları çok sevenler için özel olarak yapılmıs bir sey.&lt;br&gt;&lt;br&gt;36 tılsıma da sahip oldugunda bunu sana satacagım.&lt;br&gt;&lt;br&gt;Tek gereken</entry>
 <entry name="SHOP_SELL_COMPLETE">Öge Satıldı</entry>
-<entry name="SHOP_SELL_CONFIRM">Öge satılsın mı? (Elde Olan:</entry>
+<entry name="SHOP_SELL_CONFIRM">Öge satılsın mı?</entry>
 <entry name="TRAVEL">GIT</entry>
 <entry name="UI_BLANK"></entry>
 </entries>
