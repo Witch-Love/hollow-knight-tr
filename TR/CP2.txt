@@ -51,7 +51,7 @@
 <entry name="GRIMM_DEFEAT_1">Tebrikler, arkadasım. Kalabalıgın sana duydugu sevgiye bir bak! Uzun zamandır böyle bir gösteri görmemislerdi.</entry>
 <entry name="GRIMM_DEFEAT_2">Baksana! Yavrularımız, tutkulu dansımızın ısısıyla büyüdü, beslendi ve güçlendi!&lt;page&gt;Eminim ikiniz pek çok facia ve zaferi tadacaksınız.&lt;page&gt;Büyük ayinimizin sonu yaklasıyor. Bizim için aydınlatılan yolu artık görüyor olsan bile, yalaz toplamaya devam eder misin?&lt;page&gt;Kızıl gözlerimiz seni dikkatle gözleyecek... arkadasım.</entry>
 <entry name="GRIMM_DEFEAT_3">Karanlıga katıl. Krallıgın kaybolan son közlerini de topla. Sonrasında dön. Dansımızı tamamlayacagız.</entry>
-<entry name="GRIMM_DREAM">Ustaca! Atık bir damar bile bu siddette bir güce sahip.&lt;page&gt;Çok beceriklisin biricik Wyrm. Grimm&#39;in yüregine uzanmak içinde çok güzel bir aracın varmıs.</entry>
+<entry name="GRIMM_DREAM">Ustaca! Atık bir vessel bile bu siddette bir güce sahip.&lt;page&gt;Çok beceriklisin biricik Wyrm. Grimm&#39;in yüregine uzanmak içinde çok güzel bir aracın varmıs.</entry>
 <entry name="GRIMM_LEVELUP_1">Hissedebiliyorum. Topladıgın yalazın sıcaklıgını hissedebiliyorum.</entry>
 <entry name="GRIMM_LEVELUP_2">Harika giris yaptın. Hava bile coskuyla mırıldanıyor.&lt;page&gt;Çocugum, çok iyi gidiyorsun. Atesin daha da parlak yansın!</entry>
 <entry name="GRIMM_LEVELUP_3">Güzel. Evet. Yavru büyüdü. Zamanını bosa harcayan gençten ölümcül yoldasa döndü. Bu tehlikeli yurtta yardımı dokunacak.&lt;page&gt; Dansımızı aksatma, zira bitmeyecek! Dagılmıs kızıl özleri avlamaya devam et.&lt;page&gt;Yavru bir kez daha yalaz ile doldugunda sahneye dön. Gösteri baslayacak. </entry>

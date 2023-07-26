@@ -17,7 +17,7 @@
 <entry name="FOG_CANYON">Sis Vadisi</entry>
 <entry name="GLADE">Ruhlar Çıkmazı</entry>
 <entry name="GODSEEKER_WASTE">Çöp Çukuru</entry>
-<entry name="GODS_GLORY">Tanrıyuva</entry>
+<entry name="GODS_GLORY">Tanrıevi</entry>
 <entry name="GREEN_PATH">Yesil Yol</entry>
 <entry name="HIVE">Kovan</entry>
 <entry name="ISMAS_GROVE">Isma&#39;nın Korusu</entry>

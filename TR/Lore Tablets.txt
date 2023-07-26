@@ -1,13 +1,13 @@
 <entries>
 <entry name="ABYSS_BLUE_STONE">Mavi bir tas.</entry>
 <entry name="ABYSS_MAWLEK_ROYAL">...Benim...</entry>
-<entry name="ABYSS_TUT_TAB_01">Yüce varlıklar, burada yazanlar yalnızca sizin içindir.&lt;br&gt;&lt;br&gt;Som damarımız yükseldi.&lt;br&gt;Ötesinde bir tek yaratılısının reddi ve pismanlıgı yatmakta.&lt;br&gt;Artık oraya gitmeyecegiz.</entry>
+<entry name="ABYSS_TUT_TAB_01">Yüce varlıklar, burada yazanlar yalnızca sizin içindir.&lt;br&gt;&lt;br&gt;Saf Vessel&#39;ımız yükselise erdi.&lt;br&gt;Ötesinde bir tek yaratılısının reddi ve pismanlıgı yatmakta.&lt;br&gt;Artık o yere girmemeliyiz.</entry>
 <entry name="ANCIENT_SPIDER_CORPSE">Kadim bir varlıgın kalıntıları.</entry>
 <entry name="APARTMENT_ROYAL_01">...Açım...</entry>
 <entry name="APARTMENT_ROYAL_02">...Tadı... Igrenç...</entry>
-<entry name="ARCHIVE_01">-THIR-YOLK-ABA-YOKLUK-DIS-KABUK-O-KAPI-BARINDIRIR&lt;br&gt;ISIK-EM-DAMAR-EM-YUMURTA-EM-MÜHÜR-THIR-ÇEKIL&lt;br&gt;DIS-O-MÜHÜR-DÜSÇÜNÜN-IÇINDE-INTWIXT-ATWIXT&lt;br&gt;ISIGI-BARINDIRAN-THIR-DÜS-CH-ABA-BÜYÜMEYEREK-BARINDIRIR-</entry>
+<entry name="ARCHIVE_01">-THIR-YOLK-ABA-YOKLUK-DIS-KABUK-O-KAPI-BARINDIRIR&lt;br&gt;ISIK-EM-VESSEL-EM-YUMURTA-EM-MÜHÜR-THIR-ÇEKIL&lt;br&gt;DIS-O-MÜHÜR-DÜSÇÜNÜN-IÇINDE-INTWIXT-ATWIXT&lt;br&gt;ISIGI-BARINDIRAN-THIR-DÜS-CH-ABA-BÜYÜMEYEREK-BARINDIRIR-</entry>
 <entry name="ARCHIVE_02">-KRALISIGI-EM-BÜYÜR-AYNEN-AKAR-HERKES-DÜSÜNÜR&lt;br&gt;ESKIISIK-EM-ÖZ-EM-DÜS-EM-BÜYÜMEZ&lt;br&gt;O-SONDÜSÜNCE-ABA-KRALISIGI-CH-ESKIISIK-AKRABALAR-O-CH&lt;br&gt;DÜSÜNCEAKISI-ABA-DÜS-BARINDIRMAZ-THIR-BÜYÜMEZ-ÖLÜMÜ-</entry>
-<entry name="ARCHIVE_03">-YOKLUKTAN-GELIR-THIR-BOLLUK-KABUK-DIS-O-IÇ-&lt;br&gt;YER-ALINCA-YOKLUK-THIR-BOSLUK-SIVI-MADDE-O-&lt;br&gt;DOKUR-YOKLUK-IÇ-O-KABUK-DIS-THIR-DOKUNUR&lt;br&gt;UNVAN-CH-BOSLUK-DAMAR-YOKLUK-TÜM-DISINI-BARINDIRIR-</entry>
+<entry name="ARCHIVE_03">-YOKLUKTAN-GELIR-THIR-BOLLUK-KABUK-DIS-O-IÇ-&lt;br&gt;YER-ALINCA-YOKLUK-THIR-BOSLUK-SIVI-MADDE-O-&lt;br&gt;DOKUR-YOKLUK-IÇ-O-KABUK-DIS-THIR-DOKUNUR&lt;br&gt;UNVAN-CH-BOSLUK-VESSEL-YOKLUK-TÜM-DISINI-BARINDIRIR-</entry>
 <entry name="ASH_TENT_CORPSE_01">...Küller... tuzaga düsmüs...</entry>
 <entry name="BATHHOUSE_CORPSE">...Marissa...</entry>
 <entry name="BEAST_DEN_CORPSE_01">...Dinlen...</entry>
@@ -29,7 +29,7 @@
 <entry name="DREAM_PLANT_ABYSS_01">...Krallık yukarıda...&lt;page&gt;...Saray asagıda...&lt;page&gt;...Hizmetkarların yolu...</entry>
 <entry name="DREAM_PLANT_CITY">...Sözü verilen bolluk...&lt;page&gt;...Hizmet edecek ruhlar...&lt;page&gt;...Bükülen ruhlar...</entry>
 <entry name="DREAM_PLANT_CLIFFS">...Çoraklasma...&lt;page&gt;...Böcekleri azalttı...</entry>
-<entry name="DREAM_PLANT_CROSS">...Sarılı yollar...&lt;page&gt;...Kütlesel yolculuklar...&lt;page&gt;...Mühürlenen damar...</entry>
+<entry name="DREAM_PLANT_CROSS">...Sarılı yollar...&lt;page&gt;...Kütlesel yolculuklar...&lt;page&gt;...Mühürlenen vessel...</entry>
 <entry name="DREAM_PLANT_DEEPNEST">...Yuva yasıyor...&lt;page&gt;...Kraliçe uyuyor...&lt;page&gt;...Yaratık...</entry>
 <entry name="DREAM_PLANT_FUNGUS_FOG">...Sisli magaralar...&lt;page&gt;...Zehirli sporlar...&lt;page&gt;...Ögretmen...</entry>
 <entry name="DREAM_PLANT_FUNGUS_MANTIS">...Gururlu savasçılar...&lt;page&gt;...Onurla baglıydılar...</entry>
@@ -124,10 +124,10 @@
 <entry name="RUINS_FOUNTAIN">Soluk Sövalye Anıtı&lt;br&gt; Gökteki kara yumurtasında.&lt;br&gt; Fedakarlıgı sayesinde Hallownest sonsuza dek var olacak.</entry>
 <entry name="RUINS_MARISSA_POSTER">Santöz Marissa&lt;br&gt;Omzunuzdaki yükleri hafifletecek ve zihninizi yatıstıracak ses.</entry>
 <entry name="RUIN_TAB_01">Yüce kapılar mühürlendi. Kimse giremez. Kimse çıkamaz.</entry>
-<entry name="RUIN_TAB_02">Kayıp hükümdarımız, size ihtiyacımız var. Delilik yayılıyor. Damar kopuyor. Geri dönmelisiniz.</entry>
+<entry name="RUIN_TAB_02">Kayıp hükümdarımız, size ihtiyacımız var. Delilik yayılıyor. Vessel kopuyor. Geri dönmelisiniz.</entry>
 <entry name="SARCOPHAGUS_01">...Bırak dinleneyim...</entry>
 <entry name="SCREAM_ALTAR">...Yeniden... çıglıklar... atacagız...</entry>
-<entry name="SENSE_TAB_01">Damar. Baglısın. Dünyanın halini bilirsin.&lt;br&gt;&lt;br&gt;Hallownest yeniden bir olacak.</entry>
+<entry name="SENSE_TAB_01">Vessel. Baglısın. Dünyanın halini bilirsin.&lt;br&gt;&lt;br&gt;Hallownest yeniden bir olacak.</entry>
 <entry name="SHADE_BEAST_01">...Boslugun... Gücü... Bir olmadan...</entry>
 <entry name="SHADE_BEAST_02">...Gölgelerin Efendisi...</entry>
 <entry name="SPIDER_COCOON_01">...Dost degiller...</entry>

@@ -69,7 +69,7 @@
 <entry name="DESC_HATCHLING">Yeni dogan bu tükürekler içgüdüsel olarak isgalcilerin dibinden ayrılmaz.</entry>
 <entry name="DESC_HEALTH_SCUTTLER">Cansuyu dolu tanecikler. Saglıklı oldukları için tadılabilir ve tüketilebilirler.</entry>
 <entry name="DESC_HIVE_KNIGHT">Kovan Kraliçesi&#39;nin sadık muhafızı. Uçamaz ancak savasta tüm hünerlerini gösterir.</entry>
-<entry name="DESC_HOLLOW_KNIGHT">Olgunlasmıs Damar. Salgının yüregini bedeninde tasır.</entry>
+<entry name="DESC_HOLLOW_KNIGHT">Olgunlasmıs Vessel. Salgının yüregini bedeninde tasır.</entry>
 <entry name="DESC_HOLLOW_SHADE">Önceki hayatın yansıması. Gücünü tekrar alıp bütünlesmek için yenmelisin.</entry>
 <entry name="DESC_HOPPER">Avının üzerine atlar ve yasam sıvısını emmek için burnunu kullanır.</entry>
 <entry name="DESC_HORNET">Hallownest harabelerinin becerikli muhafızı. Igne ve halat kullanır.</entry>
@@ -126,7 +126,7 @@
 <entry name="DESC_PIGEON">Huzurlu yerlerde dolanan zararsız, uçan bir varlık. Genelde sürü halinde dolasırlar.</entry>
 <entry name="DESC_PLANT_SHOOTER">Tehdit edildiginde korumacı davranan bitkisel bir varlık. Düsmanlarını gördügünde sert topçuklar tükürür.</entry>
 <entry name="DESC_PRAYER_SLUG">Hallownest krallıgının en zayıf canlıları. Asagılanırlar ve çalısmaya zorlanırlar.</entry>
-<entry name="DESC_PURE_VESSEL">Mükemmel olarak sekilde yetistirilen ve egitilen seçilmis damar.</entry>
+<entry name="DESC_PURE_VESSEL">Mükemmel olarak sekilde yetistirilen ve egitilen seçilmis vessel.</entry>
 <entry name="DESC_ROLLER">Top gibi yuvarlanır ve bölgelerine her kim girerse girsin kovalarlar. Bebekken bile asabidirler.</entry>
 <entry name="DESC_ROYAL_GUARD">Egimli pençebıçak savuran Hallownest Sarayının koruyucuları. Agır beyaz zırhları kırılgan bedenlerini korur.</entry>
 <entry name="DESC_SAGE_SLY">Igne sanatının efsanevi bilgini ve son zamanların basarılı tüccarı.</entry>
@@ -246,7 +246,7 @@
 <entry name="NAME_HOPPER">Zıpzıp</entry>
 <entry name="NAME_HORNET">Hornet</entry>
 <entry name="NAME_HUNTERMARK">Avcı&#39;nın Izi</entry>
-<entry name="NAME_INFECTED_KNIGHT">Kopuk Damar</entry>
+<entry name="NAME_INFECTED_KNIGHT">Kopuk Vessel</entry>
 <entry name="NAME_INFLATOR">Hvurmp</entry>
 <entry name="NAME_JAR_COLLECTOR">Toplayıcı</entry>
 <entry name="NAME_JELLYFISH">Ooma</entry>
@@ -298,7 +298,7 @@
 <entry name="NAME_PIGEON">Örtülsinek</entry>
 <entry name="NAME_PLANT_SHOOTER">Gulka</entry>
 <entry name="NAME_PRAYER_SLUG">Kurtçuk</entry>
-<entry name="NAME_PURE_VESSEL">Saf Damar</entry>
+<entry name="NAME_PURE_VESSEL">Saf Vessel</entry>
 <entry name="NAME_ROLLER">Baldur</entry>
 <entry name="NAME_ROYAL_GUARD">Kralbiçim</entry>
 <entry name="NAME_SAGE_SLY">Büyük Igne Bilgini Sly</entry>
@@ -400,7 +400,7 @@
 <entry name="NOTE_GHOST_NOEYES">Içindekiler...&lt;br&gt;Geliyorlar...&lt;br&gt;Çıkar onları!&lt;br&gt;- Gözsüz</entry>
 <entry name="NOTE_GHOST_XERO">Trajedi ve zaferle tanımlanan bir hayat. Üzüntü ve pismanlıktan ötürü gerçeklesen bir ölüm. Günah ve anılarla yüklenmis bir ruh. Zaferle lanetlenecegime dünyayı dolasırım.&lt;br&gt;- Xero</entry>
 <entry name="NOTE_GIANT_HOPPER">Boyutuna göre degerli bir düsman. Ya mesafeni koru, ya da atlayıslarından kaçınacak sekilde dans et ve bacaklarına saldır.</entry>
-<entry name="NOTE_GODSEEKER_MASK">&quot;Göklerin ve Yagısın Tanrıları! Neden hizmetkarlarınızı terk ediyorsunuz? Zihinlerimiz acı çeksin, biz de üzüntüden aglayalım diye yalnız mı bırakılacagız? Hangi Tanrı bizi bu üzücü sessizlikten çıkaracak?&quot;&lt;br&gt;- Tanrıcı Agıtı</entry>
+<entry name="NOTE_GODSEEKER_MASK">&quot;Göklerin ve Yagısın Tanrıları! Neden hizmetkarlarınızı terk ediyorsunuz? Zihinlerimiz acı çeksin, biz de üzüntüden aglayalım diye yalnız mı bırakılacagız? Hangi Tanrı bizi bu üzücü sessizlikten çıkaracak?&quot;&lt;br&gt;- Tanrıarayıcı Agıtı</entry>
 <entry name="NOTE_GORGEOUS_HUSK">Pek çok sey güzeldir. Isıgın su üzerindeki yansıması, taze av eti, yavru bir böcegin aglayısı... Bu metal ve tas arzusunu bir türlü anlayamıyorum.</entry>
 <entry name="NOTE_GRASS_HOPPER">Enerjileri sonsuz gibi! Acaba yemek yemek, uyumak ya da sevismek için ara veriyorlar mıdır?</entry>
 <entry name="NOTE_GREAT_SHIELD_ZOMBIE">Bunlar çok nadir görülen ve gerçekten tehdit olusturabilen Hallownest böcekleridir. Dikkatli ol. Yıkıcı saldırılarıyla isini çabucak bitirebilirler.</entry>
@@ -468,7 +468,7 @@
 <entry name="NOTE_PIGEON">Tehlikeyi gözetlerler. Biri bir yere giderse digerleri de onu izler. Acaba sürü tarafından korunuyor olmak nasıl bir his?</entry>
 <entry name="NOTE_PLANT_SHOOTER">Yaprakları kuru ama yumusaktır. Tomurcugu tatsız ve eksidir. Yalnız su tükürdügü topraklardaki zehri enfestir! Eger zamanın olursa zehrin tadına bak, etkilerinin tadını çıkar.</entry>
 <entry name="NOTE_PRAYER_SLUG">Çogunlukla yagdan olusan bu çaresiz canlılar uzun yolculuklarda çok güzel karın doyurur. En güzel de açıklıkta yakılmıs atesin üzerinde piserler. Eger hayatları için pazarlık yapmak isterlerse aldırma. Sana verebilecekleri hiçbir seyleri yok.</entry>
-<entry name="NOTE_PURE_VESSEL">&quot;Kutsal kabuktaki derin sessizlik,&lt;br&gt;Ignesini alıp Sövalye ilan edilen,&lt;br&gt;Zincire, yumurtaya ve büyüye baglı,&lt;br&gt;Ricalarımızı duy! Isıgını serbest kıl!&quot;&lt;br&gt;- Damar Yakarısı</entry>
+<entry name="NOTE_PURE_VESSEL">&quot;Kutsal kabuktaki derin sessizlik,&lt;br&gt;Ignesini alıp Sövalye ilan edilen,&lt;br&gt;Zincire, yumurtaya ve büyüye baglı,&lt;br&gt;Ricalarımızı duy! Isıgını serbest kıl!&quot;&lt;br&gt;- Vessel Yakarısı</entry>
 <entry name="NOTE_ROLLER">Genç avcılar bu yaratıkları yakalamaktan ve bunlarla eglence niyetine oynamaktan zevk alır. Sana saldırmaya kalkısırlarsa sen de bir dene derim.</entry>
 <entry name="NOTE_ROYAL_GUARD">Kral uzun zaman önce öldü diyorlar ancak etkisi hala çevremizde yankılanıyor. Böyle bir yaratık... ne ister ki?</entry>
 <entry name="NOTE_SAGE_SLY">&quot;Tanrı&#39;nın kurnaz ve yürekli bilgini,&lt;br&gt;Ignelerimi keskinlestir ve bize üstünlügünü göster,&lt;br&gt;Efendilerin en büyügüsün ki seni izlemek isteriz,&lt;br&gt;Senden büyük yalnız bir vardır, o da Tanrıların Tanrısı!&quot;&lt;br&gt;- Bilgin Yakarısı</entry>

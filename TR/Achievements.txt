@@ -13,7 +13,7 @@
 <entry name="BEAST_TITLE">Yaratık</entry>
 <entry name="BLESSED_TEXT">Tüm tılsımları elde et ve Salubra&#39;nın kutsamasını kazan</entry>
 <entry name="BLESSED_TITLE">Kutsanmış</entry>
-<entry name="BROKEN_VESSEL_TEXT">Kopuk Damar&#39;ı yen</entry>
+<entry name="BROKEN_VESSEL_TEXT">Kopuk Vessel&#39;i yen</entry>
 <entry name="BROKEN_VESSEL_TITLE">Kurtuluş</entry>
 <entry name="CHARMED_TEXT">İlk tılsımını elde et</entry>
 <entry name="CHARMED_TITLE">Büyülenmiş</entry>
@@ -41,7 +41,7 @@
 <entry name="ENCHANTED_TITLE">Tılsımlanmış</entry>
 <entry name="ENDINGD_TEXT">Hallownest Anıtı&#39;na çık ve zirvedeki yerini al</entry>
 <entry name="ENDINGD_TITLE">Hiçlikle Bütünleşme</entry>
-<entry name="ENDING_A_TEXT">Oyuk Şövalye&#39;yi yen ve Damar ol</entry>
+<entry name="ENDING_A_TEXT">Oyuk Şövalye&#39;yi yen ve Vessel ol</entry>
 <entry name="ENDING_A_TITLE">Oyuk Şövalye</entry>
 <entry name="ENDING_B_TEXT">Hornet ile birlikte Oyuk Şövalye&#39;yi yen</entry>
 <entry name="ENDING_B_TITLE">Bağlı Kardeşler</entry>
@@ -99,7 +99,7 @@
 <entry name="PROTECTED_TITLE">Korunan</entry>
 <entry name="QUIRREL_EPILOGUE_TEXT">Son kez Quirrel&#39;ın yanında dur</entry>
 <entry name="QUIRREL_EPILOGUE_TITLE">Şahit</entry>
-<entry name="SOULFUL_TEXT">3 damar parçacığı elde et</entry>
+<entry name="SOULFUL_TEXT">3 vessel parçacığı elde et</entry>
 <entry name="SOULFUL_TITLE">Bütün Ruh</entry>
 <entry name="SOUL_MASTER_DEFEAT_TEXT">Ruh Beyi&#39;ni yen</entry>
 <entry name="SOUL_MASTER_DEFEAT_TITLE">Aydınlanma</entry>
@@ -129,7 +129,7 @@
 <entry name="WHITE_DEFENDER2_TITLE">Dostluk</entry>
 <entry name="WHITE_DEFENDER_TEXT">Ak Muhafız&#39;ı yen</entry>
 <entry name="WHITE_DEFENDER_TITLE">Anı</entry>
-<entry name="WORLDSOUL_TEXT">Tüm damar parçacıklarını elde et</entry>
+<entry name="WORLDSOUL_TEXT">Tüm vessel parçacıklarını elde et</entry>
 <entry name="WORLDSOUL_TITLE">Dünyanın Ruhları</entry>
 <entry name="ZOTE_TEXT">Zote&#39;u Ahmakların Arenası&#39;nda yen</entry>
 <entry name="ZOTE_TITLE">Rekabet</entry>
