@@ -1,15 +1,15 @@
 <entries>
-<entry name="PROLOGUE_EXCERPT_04">Böceklere ve yaratıklara verdin o dünyayı ki asla hayali dahi kurulamayan.</entry>
-<entry name="PRE_MENU_QUOTE">Hiçbir sey, kaybolmak ve yolu yeniden bulmak kadar zevk veremez.</entry>
-<entry name="SAVE_WARNING">Bu oyunda belirli noktalarda otomatik kayıt gerçeklesmektedir.&lt;br&gt;Bu simge göründügünde oyunu kapatmayın.</entry>
 <entry name="CONTROL_PROMPT">oyun kumandası kullanılması siddetle önerilir</entry>
 <entry name="GAME_DISPLAY_TITLE"></entry>
-<entry name="PROLOGUE_EXCERPT_AUTHOR">- Ögretmen Monomon&#39;un eseri &#39;Hallownest Agıtı&#39;ndan </entry>
-<entry name="VERSION_NUMBER">- - -</entry>
+<entry name="GAME_TITLE">Hollow Knight</entry>
+<entry name="PRE_MENU_QUOTE">Hiçbir sey, kaybolmak ve yolu yeniden bulmak kadar zevk veremez.</entry>
+<entry name="PRE_MENU_QUOTE_AUTHOR">- Cornifer</entry>
 <entry name="PROLOGUE_EXCERPT_01">Ötedeki ıssızda hürmet ve özlem ile söz ederler adından,</entry>
 <entry name="PROLOGUE_EXCERPT_02">Çünkü kimse uslandıramadı azılı ruhlarımızı ve bir tek sensin karsı koyan,</entry>
 <entry name="PROLOGUE_EXCERPT_03">En soluk nöbetinde ögrettin, bizdik degisen, temel içgüdülerimizi kazanan,</entry>
-<entry name="GAME_TITLE">Hollow Knight</entry>
-<entry name="PRE_MENU_QUOTE_AUTHOR">- Cornifer</entry>
+<entry name="PROLOGUE_EXCERPT_04">Böceklere ve yaratıklara verdin o dünyayı ki asla hayali dahi kurulamayan.</entry>
+<entry name="PROLOGUE_EXCERPT_AUTHOR">- Ögretmen Monomon&#39;un eseri &#39;Hallownest Agıtı&#39;ndan </entry>
+<entry name="SAVE_WARNING">Bu oyunda belirli noktalarda otomatik kayıt gerçeklesmektedir.&lt;br&gt;Bu simge göründügünde oyunu kapatmayın.</entry>
 <entry name="SNEAK_PEEK">Bu gösterim Hollow Knight&#39;ın tamamlanmamıs sürümünden alınmıstır ve son sürüm performansını yansıtmamaktadır.</entry>
+<entry name="VERSION_NUMBER">- - -</entry>
 </entries>
