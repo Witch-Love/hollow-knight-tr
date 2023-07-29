@@ -1,4 +1,5 @@
 <entries>
+<entry name=" ">Kapı kilitli.&lt;br&gt;Tuhaf anahtarı kullan?</entry>
 <entry name="ABYSS_DOOR_NOBRAND">Bu yazı silinmistir</entry>
 <entry name="ACCEPT">KABUL ET</entry>
 <entry name="ASCEND">ÇIK</entry>
@@ -21,7 +22,6 @@
 <entry name="COLLECTOR_MAP">Toplayıcı&#39;nın Haritası</entry>
 <entry name="DESCEND">İN</entry>
 <entry name="ELDERBUG_FLOWER">Narin Çiçek&#39;i Ataböcek&#39;e ver?</entry>
-<entry name=" ">Kapı kilitli.&lt;br&gt;Tuhaf anahtarı kullan?</entry>
 <entry name="ENTER">GİR</entry>
 <entry name="EXIT">ÇIK</entry>
 <entry name="FOUNTAIN_PLAQUE_DESC">Çok yükseklerdeki, Kara Mahzen&#39;de.&lt;br&gt;Onun fedakarlıgı sayesinde, yasayacak Hallownest sonsuza dek.</entry>
