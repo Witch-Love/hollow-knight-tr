@@ -5,7 +5,7 @@ Fan yapımı olan [PaleCourt](https://github.com/PaleCourt/PaleCourt) DLC'sine e
 ## İlerleme
 * [Achievements](../../tree/master/TR/Achievements.txt) ✅
 * [Backer Messages](../../tree/master/TR/Backer%20Messages.txt) ❌
-* [Banker](../../tree/master/TR/Banker.txt) ❌
+* [Banker](../../tree/master/TR/Banker.txt) ✅
 * [Charm Slug](../../tree/master/TR/Charm%20Slug.txt) ❌
 * [Cornifer](../../tree/master/TR/Cornifer.txt) ❌
 * [CP2](../../tree/master/TR/CP2.txt) ❌
@@ -18,8 +18,8 @@ Fan yapımı olan [PaleCourt](https://github.com/PaleCourt/PaleCourt) DLC'sine e
 * [General](../../tree/master/TR/General.txt) ✅
 * [Ghosts](../../tree/master/TR/Ghosts.txt) ❌
 * [Hornet](../../tree/master/TR/Hornet.txt) ✅
-* [Hunter](../../tree/master/TR/Hunter.txt) ❌
-* [Iselda](../../tree/master/TR/Iselda.txt) ❌
+* [Hunter](../../tree/master/TR/Hunter.txt) ✅
+* [Iselda](../../tree/master/TR/Iselda.txt) ✅
 * [Jiji](../../tree/master/TR/Jiji.txt) ❌
 * [Journal](../../tree/master/TR/Journal.txt) ❌
 * [Lore Tablets](../../tree/master/TR/Lore%20Tablets.txt) ✅
