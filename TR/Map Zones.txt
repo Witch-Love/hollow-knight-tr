@@ -21,7 +21,7 @@
 <entry name="GREEN_PATH">Yesil Yol</entry>
 <entry name="HIVE">Kovan</entry>
 <entry name="ISMAS_GROVE">Isma&#39;nın Korusu</entry>
-<entry name="JONI_GRAVE">Joni&#39;nin Dinlenegi</entry>
+<entry name="JONI_GRAVE">Joni&#39;nin&lt;br&gt;Huzuru</entry>
 <entry name="KINGS_PASS">Kral Geçidi</entry>
 <entry name="KINGS_STATION">Kral Duragı</entry>
 <entry name="LOVE_TOWER">Sevgi&lt;br&gt;Kulesi</entry>

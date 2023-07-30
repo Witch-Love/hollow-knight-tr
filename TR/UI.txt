@@ -205,8 +205,8 @@
 <entry name="INV_NAME_DOUBLEJUMP">Hükümdar Kanatları</entry>
 <entry name="INV_NAME_DREAMCORE">Öz</entry>
 <entry name="INV_NAME_DREAMGATE">Düskapısı</entry>
-<entry name="INV_NAME_DREAMNAIL_A">Igne Düsü</entry>
-<entry name="INV_NAME_DREAMNAIL_B">Uyanık Igne Düsü</entry>
+<entry name="INV_NAME_DREAMNAIL_A">Rüya Çivisi</entry>
+<entry name="INV_NAME_DREAMNAIL_B">Uyanmıs Rüya Çivisi</entry>
 <entry name="INV_NAME_FLOWER">Narin Çiçek</entry>
 <entry name="INV_NAME_FLOWER_BROKEN">Mahvolmus Çiçek</entry>
 <entry name="INV_NAME_GEO">Geo</entry>
@@ -222,11 +222,11 @@
 <entry name="INV_NAME_LOVEKEY">Sevgi Anahtarı</entry>
 <entry name="INV_NAME_MAP">Harita</entry>
 <entry name="INV_NAME_MAPQUILL">Harita ve Tüy</entry>
-<entry name="INV_NAME_NAIL1">Köhne Igne</entry>
-<entry name="INV_NAME_NAIL2">Bilenmis Igne</entry>
-<entry name="INV_NAME_NAIL3">Oluklu Igne</entry>
-<entry name="INV_NAME_NAIL4">Sarmal Igne</entry>
-<entry name="INV_NAME_NAIL5">Saf Igne</entry>
+<entry name="INV_NAME_NAIL1">Köhne Çivi</entry>
+<entry name="INV_NAME_NAIL2">Bilenmis Çivi</entry>
+<entry name="INV_NAME_NAIL3">Oluklu Çivi</entry>
+<entry name="INV_NAME_NAIL4">Sarmal Çivi</entry>
+<entry name="INV_NAME_NAIL5">Saf Çivi</entry>
 <entry name="INV_NAME_NOTCH">Tılsım Çentigi</entry>
 <entry name="INV_NAME_ORE">Solukcevher</entry>
 <entry name="INV_NAME_QUILL">Tüy</entry>

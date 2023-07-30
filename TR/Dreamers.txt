@@ -18,11 +18,11 @@
 <entry name="DREAMERS_INSPECT_LURIEN">Tas sütunun üzerinde uyuyan bir figür yatıyor.</entry>
 <entry name="DREAMERS_INSPECT_MONOMON1">Tankın içinde bir sey parıldıyor.</entry>
 <entry name="DREAMERS_INSPECT_MONOMON2">Tankın içinde bir figür uyuyor.</entry>
-<entry name="DREAMERS_INSPECT_RG1">Korumak için Vessel&#39;ı, yattı Düsçüler uykuya.</entry>
+<entry name="DREAMERS_INSPECT_RG1">KORUMAK İÇİN VESSEL&#39;I, YATTI DÜŞÇÜLER UYKUYA.</entry>
 <entry name="DREAMERS_INSPECT_RG2">Ögretmen Monomon&lt;br&gt;Arsivinde, sis ve pusla çevrili.</entry>
 <entry name="DREAMERS_INSPECT_RG3">Gözcü Lurien&lt;br&gt;Kulesinde, kentin her yanını izliyor.</entry>
 <entry name="DREAMERS_INSPECT_RG4">Canavar Herrah&lt;br&gt;Ininde, krallıgın ötesindeki derin karanlıgın ortasında.</entry>
-<entry name="DREAMERS_INSPECT_RG5">Baglılıkları sayesinde, ulastı Hallownest sonsuzluga.</entry>
+<entry name="DREAMERS_INSPECT_RG5">BAĞLILIKLARI SAYESİNDE, ULAŞTI HALLOWNEST SONSUZLUĞA.</entry>
 <entry name="DREAMERS_INSPECT_RG6">Düsçülerin konumları haritaya eklendi</entry>
 <entry name="FAKE_GREET_1">Selamlar. Çok yorgun görünüyorsun. Otur ve dinlen.</entry>
 <entry name="FAKE_GREET_2">Bizler dostuz. Hos geldin. Otur ve dinlen.</entry>
