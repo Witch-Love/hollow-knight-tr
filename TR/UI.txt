@@ -8,11 +8,11 @@
 <entry name="BANK_WITHDRAW_AMT">Ne kadar çekilsin?</entry>
 <entry name="BANK_YOURBALANCE">Bakiye</entry>
 <entry name="CHARMS_REMAINING">daha çok tılsım! Toplamaya devam et!</entry>
-<entry name="CHARM_ALERT_NONE">Tılsım takınılmadı.&lt;br&gt;&lt;br&gt;Tılsım takınmak için oturakta dinlenirken TILSIM menüsünü aç.</entry>
+<entry name="CHARM_ALERT_NONE">Tılsım takınılmadı.&lt;br&gt;&lt;br&gt;Tılsım takmak için bir bankta dinlenirken TILSIMLAR menüsünü aç.</entry>
 <entry name="CHARM_ALERT_NONE_BENCH">Tılsım takınılmamıs.&lt;br&gt;&lt;br&gt;Takınmak ve etkilerini etkinlestirmek için asagıdan tılsım seç.</entry>
 <entry name="CHARM_DESC_1">Bir sürü tasıyıcıyı takip eder ve uzakta bulunan Geo&#39;yu toplar.&lt;br&gt;&lt;br&gt;Önemli önemsiz geride bir sey bırakmak istemeyen gezginlerin çok isine yarar. </entry>
 <entry name="CHARM_DESC_10">Hallownest Kralı ve sadık sövalyelerine özel yapılmıs tılsım. Çizilse, kirlense de hala önemini koruyor.&lt;br&gt;&lt;br&gt;Takınan kisinin yigitlik kokusu yaymasını saglar.</entry>
-<entry name="CHARM_DESC_11">Disana&#39;nın dogurdugu yasayan tılsım.&lt;br&gt;&lt;br&gt;Hınçlı Can büyüsünü bir yavru discil sürüsüne dönüstürür.</entry>
+<entry name="CHARM_DESC_11">Disana&#39;nın dogurdugu yasayan tılsım.&lt;br&gt;&lt;br&gt;Hınçlı Tayf büyüsünü bir yavru discil sürüsüne dönüstürür.</entry>
 <entry name="CHARM_DESC_12">Takınan kisinin çektigi acıyı hisseder ve çevredeki varlıklara saldırır.&lt;br&gt;&lt;br&gt;Hasar alındıgında çevredeki düsmanlara saldıran dikenli filizler salar.</entry>
 <entry name="CHARM_DESC_13">Peygamberdevesi Kavmi tarafından saygılı kisilere karsılıksız verilir.&lt;br&gt;&lt;br&gt;Takınan kisinin ignesinin menzilini fazlasıyla artırır. Çok daha uzaktan saldırı gerçeklestirilmesini saglar.</entry>
 <entry name="CHARM_DESC_14">Takınan kisinin düsmana igne saldırısı gerçeklestirdiginde geriye atılmasını engeller.&lt;br&gt;&lt;br&gt;Kisinin sabit durmasını ve saldırmaya devam etmesini saglar.</entry>
@@ -207,7 +207,7 @@
 <entry name="INV_NAME_DREAMGATE">Düskapısı</entry>
 <entry name="INV_NAME_DREAMNAIL_A">Rüya Çivisi</entry>
 <entry name="INV_NAME_DREAMNAIL_B">Uyanmıs Rüya Çivisi</entry>
-<entry name="INV_NAME_FLOWER">Narin Çiçek</entry>
+<entry name="INV_NAME_FLOWER">Zarif Çiçek</entry>
 <entry name="INV_NAME_FLOWER_BROKEN">Mahvolmus Çiçek</entry>
 <entry name="INV_NAME_GEO">Geo</entry>
 <entry name="INV_NAME_HEARTPIECE_0">Maske Parçaları</entry>
@@ -228,11 +228,11 @@
 <entry name="INV_NAME_NAIL4">Sarmal Çivi</entry>
 <entry name="INV_NAME_NAIL5">Saf Çivi</entry>
 <entry name="INV_NAME_NOTCH">Tılsım Çentigi</entry>
-<entry name="INV_NAME_ORE">Solukcevher</entry>
+<entry name="INV_NAME_ORE">Soluk Cevher</entry>
 <entry name="INV_NAME_QUILL">Tüy</entry>
 <entry name="INV_NAME_RANCIDEGG">Çürük Yumurta</entry>
 <entry name="INV_NAME_SHADOWDASH">Gölge Pelerin</entry>
-<entry name="INV_NAME_SIMPLEKEY">Ucuz Anahtar</entry>
+<entry name="INV_NAME_SIMPLEKEY">Basit Anahtar</entry>
 <entry name="INV_NAME_SOULORBS_0">Vessel Parçacıkları</entry>
 <entry name="INV_NAME_SOULORBS_1">Vessel Parçacıgı</entry>
 <entry name="INV_NAME_SOULORBS_2">Vessel Parçacıkları</entry>
@@ -254,7 +254,7 @@
 <entry name="INV_NAME_TRINKET4">Gizemli Yumurta</entry>
 <entry name="INV_NAME_WALLJUMP">Peygamberdevesi Kancası</entry>
 <entry name="INV_NAME_WHITEKEY">Ince Anahtar</entry>
-<entry name="KEY_BENCH">Oturak</entry>
+<entry name="KEY_BENCH">Bank</entry>
 <entry name="KEY_BLACKEGG">Kara Yumurta Tapınagı</entry>
 <entry name="KEY_COCOON">Koza</entry>
 <entry name="KEY_DREAMER">Düsçü</entry>
@@ -319,7 +319,7 @@
 <entry name="PANE_INVENTORY">Sayımca</entry>
 <entry name="PANE_JOURNAL">Günlük</entry>
 <entry name="PANE_MAP">Harita</entry>
-<entry name="PIN_DESC_BENCH">Bu igneler oturakları ve diger dinlenme noktalarını harita üzerinde isaretlemeni saglar. Yorulduysan ve oturacak bir yer arıyorsan çok ama çok isine yarar!</entry>
+<entry name="PIN_DESC_BENCH">Bu igneler bankları ve diger dinlenme noktalarını harita üzerinde isaretlemeni saglar. Yorulduysan ve oturacak bir yer arıyorsan çok ama çok isine yarar!</entry>
 <entry name="PIN_DESC_COCOON">Su güzelim mavi kozaları gördün mü hiç? Bu igneleri onları takip edebilesin diye yaptım.&lt;br&gt;&lt;br&gt;Kozalar güzel, fakat bir o kadar da hassaslar. Lütfen onlara karsı dikkatli ol.</entry>
 <entry name="PIN_DESC_DREAMPLANT">Cornifer gördügü fısıldayan köklerden bahsederdi. Bende igne yapayım dedim. Bununla, yerlerini kaydedebilirsin.</entry>
 <entry name="PIN_DESC_GHOST">Cornifer&#39;in dediklerine göre derinlerde ilgi çekici mezarlar ve türbeler varmıs. Bu ignelerle onları haritanda isaretleyebilirsin. Git ve orada yatanlara saygımızı sun.</entry>
@@ -327,7 +327,7 @@
 <entry name="PIN_DESC_SPA">Bu igneleri, krallıktaki kaplıcaların izini sürebilesin diye tasarladım.&lt;br&gt;&lt;br&gt;Hiç kaplıca görmedim... Cornifer beni bir ara götürür mü acaba? O zamana dek bu ignelerin isine yarayacagına eminim.</entry>
 <entry name="PIN_DESC_STAG">Bu ignelerle gördügün Geyik Duraklarını isaretleyebilirsin. Sanırım bu duraklar, geyikböcekleri islerini yaptıgı zamanlarda epey yogun yerlermis.</entry>
 <entry name="PIN_DESC_TRAM">Su tramvaylar son derece gelismis makinelermis galiba. Eski böceklerde ne akıllıymıs.&lt;br&gt;&lt;br&gt;Bu igneler sayesinde tramvay duraklarının yerlerini kaydedebilirsin.</entry>
-<entry name="PIN_NAME_BENCH">Oturak Ignesi</entry>
+<entry name="PIN_NAME_BENCH">Bank Ignesi</entry>
 <entry name="PIN_NAME_COCOON">Koza Ignesi</entry>
 <entry name="PIN_NAME_DREAMPLANT">Fısıldayan Kök Ignesi</entry>
 <entry name="PIN_NAME_GHOST">Savasçı Gömütü Ignesi</entry>

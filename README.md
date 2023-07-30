@@ -6,32 +6,32 @@ Fan yapımı olan [PaleCourt](https://github.com/PaleCourt/PaleCourt) DLC'sine e
 * [Achievements](../../tree/master/TR/Achievements.txt) ✅
 * [Backer Messages](../../tree/master/TR/Backer%20Messages.txt) ❌
 * [Banker](../../tree/master/TR/Banker.txt) ❌
-* [Charm%20Slug](../../tree/master/TR/Charm%20Slug.txt) ❌
+* [Charm Slug](../../tree/master/TR/Charm%20Slug.txt) ❌
 * [Cornifer](../../tree/master/TR/Cornifer.txt) ❌
 * [CP2](../../tree/master/TR/CP2.txt) ❌
 * [CP3](../../tree/master/TR/CP3.txt) ❌
-* [Credits%20List](../../tree/master/TR/Credits%20List.txt) ✅
-* [Dream%20Witch](../../tree/master/TR/Dream%20Witch.txt) ❌
+* [Credits List](../../tree/master/TR/Credits%20List.txt) ✅
+* [Dream Witch](../../tree/master/TR/Dream%20Witch.txt) ❌
 * [Dreamers](../../tree/master/TR/Dreamers.txt) ✅
 * [Elderbug](../../tree/master/TR/Elderbug.txt) ❌
-* [Enemy%20Dreams](../../tree/master/TR/Enemy%20Dreams.txt) ❌
+* [Enemy Dreams](../../tree/master/TR/Enemy%20Dreams.txt) ❌
 * [General](../../tree/master/TR/General.txt) ✅
 * [Ghosts](../../tree/master/TR/Ghosts.txt) ❌
-* [Hornet](../../tree/master/TR/Hornet.txt) ❌
+* [Hornet](../../tree/master/TR/Hornet.txt) ✅
 * [Hunter](../../tree/master/TR/Hunter.txt) ❌
 * [Iselda](../../tree/master/TR/Iselda.txt) ❌
 * [Jiji](../../tree/master/TR/Jiji.txt) ❌
 * [Journal](../../tree/master/TR/Journal.txt) ❌
-* [Lore%20Tablets](../../tree/master/TR/Lore%20Tablets.txt) ✅
+* [Lore Tablets](../../tree/master/TR/Lore%20Tablets.txt) ✅
 * [MainMenu](../../tree/master/TR/MainMenu.txt) ✅
-* [Map%20Zones](../../tree/master/TR/Map%20Zones.txt) ✅
-* [Minor%20NPC](../../tree/master/TR/Minor%20NPC.txt) ❌
+* [Map Zones](../../tree/master/TR/Map%20Zones.txt) ✅
+* [Minor NPC](../../tree/master/TR/Minor%20NPC.txt) ❌
 * [Nailmasters](../../tree/master/TR/Nailmasters.txt) ❌
 * [Nailsmith](../../tree/master/TR/Nailsmith.txt) ❌
 * [Prices](../../tree/master/TR/Prices.txt) ✅
-* [Prompts](../../tree/master/TR/Prompts.txt) ❌
+* [Prompts](../../tree/master/TR/Prompts.txt) ✅
 * [Quirrel](../../tree/master/TR/Quirrel.txt) ❌
-* [Relic%20Dealer](../../tree/master/TR/Relic%20Dealer.txt) ❌
+* [Relic Dealer](../../tree/master/TR/Relic%20Dealer.txt) ❌
 * [Shaman](../../tree/master/TR/Shaman.txt) ❌
 * [Sly](../../tree/master/TR/Sly.txt) ❌
 * [Stag](../../tree/master/TR/Stag.txt) ❌

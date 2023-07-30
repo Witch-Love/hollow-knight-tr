@@ -40,7 +40,7 @@
 <entry name="DUNG_UNDERGROUND_1">Heh, uyanmıssın. Dinlenmis görünüyorsun!&lt;page&gt;Surada kıvrıldıgını görünce bir an ürktüm. Ne zaman istersen buraya gelip dinlenebilirsin.&lt;page&gt;Kralımız nasıl ihtiyacı olanları evinde agırladıysa ben de sana evimin kapısını açıyorum. Ne kadar istiyorsan o kadar kal. Burası sıcak ve rahat.</entry>
 <entry name="DUNG_UNDERGROUND_2">Magaram sarayımızın yanında gözüne igrenç gelebilir. Eski yoldaslarımın, yüce kralımızın hatıraları zihnimde canlanıyor.&lt;page&gt;Soluk saray ortamında zamanın en büyük kahramanları bulunurdu. Ah! Sana söyle bir bakıyorum da, onların arasında kolayca yerini alabilirmistin. </entry>
 <entry name="DUNG_UNDERGROUND_DREAM">Hallownest&#39;in yüce sövalyelerinin sonu nasıl gelecek? Sonuncu ben mi olacagım? Yeni bir sövalye seçmek mümkün mü?</entry>
-<entry name="ELDERBUG_FLOWER">Narin Çiçek&#39;i ver?</entry>
+<entry name="ELDERBUG_FLOWER">Zarif Çiçek&#39;i ver?</entry>
 <entry name="ENDING_D_TEXT">Hallownest Anıtı&#39;na çık ve zirvedeki yerini al.</entry>
 <entry name="ENDING_D_TITLE">Hiçlikle Bütünleşme</entry>
 <entry name="ENRAGED_GUARDIAN_MAIN">Muhafız</entry>
@@ -167,7 +167,7 @@
 <entry name="GODHOME_MAIN">Tanrıevi</entry>
 <entry name="GODHOME_SUB"></entry>
 <entry name="GODHOME_SUPER"></entry>
-<entry name="GODSEEKER_COFFIN_KEY">Basit bir kilitle zincirlenmis bir koza.&lt;br&gt;Ucuz anahtarı kullan?</entry>
+<entry name="GODSEEKER_COFFIN_KEY">Basit bir kilitle zincirlenmis bir koza.&lt;br&gt;Basit Anahtar&#39;ı kullan?</entry>
 <entry name="GODSEEKER_COFFIN_NOKEY">Basit bir kilitle zincirlenmis bir koza.</entry>
 <entry name="GODSEEKER_ENGINE">Cılız varlık, bu anıta neden geldin? Hareketlerinin çıkardıgı sesler buradaki uyumu, kendimizi alıstırdıgımız yüce yankılanmayı bozuyor!&lt;page&gt;Kutsal amacımıza ulasmamıza engel olmak mı istiyorsun? Bu çılgınlıga kıskançlıgın mı neden oluyor?&lt;page&gt;Krallığın Tanrılarından istegimdir ki seni cezalandırsınlar, yok etsinler, ortadan kaldırsınlar!</entry>
 <entry name="GODSEEKER_ENGINE_2">Ah! Tanrılar bizi bu sıkıntılı böcekten kurtarmayacak mı? Bu pis solucanın silahını kaldırdıgını gördükleri halde bizi nasıl sınarlar!&lt;page&gt;Sansın sürekli yaver gidiyor, böcek! Bu anıtın Tanrıları senin varlıgına karsı çıkmıyor. Nedenini anlamaya gücümüz yetmiyor.&lt;page&gt;Sana vermeyi planladıkları ceza tahmin ettigimizden de büyük olmalı. Kendini hazırla. Hazırla!</entry>

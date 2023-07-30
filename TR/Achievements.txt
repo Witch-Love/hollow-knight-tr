@@ -11,7 +11,7 @@
 <entry name="BANISHMENT_TITLE">Sürgün</entry>
 <entry name="BEAST_TEXT">Canavar Herrah&#39;ı yok et</entry>
 <entry name="BEAST_TITLE">Canavar</entry>
-<entry name="BLESSED_TEXT">Tüm Tılsımları elde et ve Salubra&#39;nın kutsamasını al</entry>
+<entry name="BLESSED_TEXT">Tüm Tılsımları elde et ve Salubra&#39;nın kutsamasını elde et</entry>
 <entry name="BLESSED_TITLE">Kutsanmış</entry>
 <entry name="BROKEN_VESSEL_TEXT">Broken Vessel&#39;ı yen</entry>
 <entry name="BROKEN_VESSEL_TITLE">Kurtuluş</entry>

@@ -17,12 +17,12 @@
 <entry name="NAILSMITH_MEET_1">Bilenecek baska bir igne daha mı getirdin? Suraya bırak. Bir ara almaya gelirsin. Tabi ölmezsen.</entry>
 <entry name="NAILSMITH_MEET_2">Ha?&lt;page&gt;Ah, seni baskası sandım.</entry>
 <entry name="NAILSMITH_MEET_3">Igneci mi arıyorsun yoksa? Öyleyse buldun. Konuskan degilimdir. Ancak ignenin onarıma ihtiyacı varsa dogru böcege geldin.&lt;page&gt;Ignen kötüymüs. Benimkilerden degil. Yine de emek ve beceri bir araya gelince kırık bir igne onarılabilir.</entry>
-<entry name="NAILSMITH_NEED_ORE1">Eger bana bir adet Solukcevher getirebilirsen igneni isleyip daha da güçlendirebilirim.</entry>
-<entry name="NAILSMITH_NEED_ORE2">Eger bana iki adet Solukcevher getirebilirsen igneni isleyip daha da güçlendirebilirim.</entry>
-<entry name="NAILSMITH_NEED_ORE3">Eger bana üç adet Solukcevher getirebilirsen igneni isleyip daha da güçlendirebilirim.</entry>
+<entry name="NAILSMITH_NEED_ORE1">Eger bana bir adet Soluk Cevher getirebilirsen igneni isleyip daha da güçlendirebilirim.</entry>
+<entry name="NAILSMITH_NEED_ORE2">Eger bana iki adet Soluk Cevher getirebilirsen igneni isleyip daha da güçlendirebilirim.</entry>
+<entry name="NAILSMITH_NEED_ORE3">Eger bana üç adet Soluk Cevher getirebilirsen igneni isleyip daha da güçlendirebilirim.</entry>
 <entry name="NAILSMITH_NOT_ENOUGH_GEO">Yeterince Geo&#39;n mu yok? O zaman parayı denklestirdiginde tekrar gel.</entry>
 <entry name="NAILSMITH_OFFER">Igneni onarabilir. Hatta çok daha ölümcül kılabilirim.</entry>
-<entry name="NAILSMITH_OFFER_ORE">Gördügüm kadarıyla elinde Solukcevher var. Nadir bulunan kaliteli bir metaldir. Cevheri uzat. Bir de isçiligim için birazcık Geo dökülürsen igneni eksisinden saglam hale getirebilirim.</entry>
+<entry name="NAILSMITH_OFFER_ORE">Gördügüm kadarıyla elinde Soluk Cevher var. Nadir bulunan kaliteli bir metaldir. Cevheri uzat. Bir de isçiligim için birazcık Geo dökülürsen igneni eksisinden saglam hale getirebilirim.</entry>
 <entry name="NAILSMITH_REGREET">Ha? Gitmemissin. Baska bir sey mi istiyorsun?</entry>
 <entry name="NAILSMITH_SIGN">Yeni</entry>
 <entry name="PAINTED">Korkarım konusacak zamanım yok. Kıpırdarsam Sheo&#39;nun çalısması mahvolur. Onu üzgün görmek istemem.&lt;page&gt;Heybetliymis gibi duruyor ama aslında o çok narin.</entry>
