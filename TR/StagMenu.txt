@@ -1,5 +1,5 @@
 <entries>
-<entry name="BONE_FOREST">Kemik Orman</entry>
+<entry name="BONE_FOREST">Bone Forest</entry>
 <entry name="CITY_OF_TEARS_1">Sehir Deposu</entry>
 <entry name="CROSSROADS">Unutulmus Kavsak</entry>
 <entry name="DEEPNEST">Uzak Köy</entry>
@@ -8,7 +8,7 @@
 <entry name="GREENPATH">Yesil Yol</entry>
 <entry name="HIDDEN_STATION">Gizli Durak</entry>
 <entry name="KINGS_STATION">Kral Duragı</entry>
-<entry name="PALACE_GROUNDS">Saray Bölgesi</entry>
+<entry name="PALACE_GROUNDS">Saray Toprakları</entry>
 <entry name="RESTING_GROUNDS">Gömütlük Bölge</entry>
 <entry name="ROYAL_GARDENS">Kraliçe&#39;nin Bahçeleri</entry>
 <entry name="STAG_NEST">Geyik Yuvası</entry>

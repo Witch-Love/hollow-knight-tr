@@ -1,8 +1,7 @@
 <entries>
-<entry name=" ">Kapı kilitli.&lt;br&gt;Tuhaf anahtarı kullan?</entry>
-<entry name="ABYSS_DOOR_NOBRAND">Bu yazı silinmistir</entry>
+<entry name="ABYSS_DOOR_NOBRAND">This text has been removed</entry>
 <entry name="ACCEPT">KABUL ET</entry>
-<entry name="ASCEND">ÇIK</entry>
+<entry name="ASCEND">YÜKSEL</entry>
 <entry name="BANKER_ACCOUNT">Hesap açmak için ödeme yap?</entry>
 <entry name="BATH_HOUSE_KEY">Sıradan kilide sahip bir kapı.&lt;br&gt;Ucuz Anahtar&#39;ı kullan?</entry>
 <entry name="BATH_HOUSE_NOKEY">Sıradan kilidi olan bir kapı.</entry>
@@ -19,14 +18,14 @@
 <entry name="CHARM_TUTE_TITLE">Tılsım alındı</entry>
 <entry name="CITY_GATE_KEY">Büyük bir sövalye heykeli. Gögsünde bir çukur var.&lt;br&gt;Kent Arması&#39;nı yerlestir?</entry>
 <entry name="CITY_GATE_NOKEY">Büyük bir sövalye heykeli. Gögsünde bir çukur var.</entry>
-<entry name="COLLECTOR_MAP">Toplayıcı&#39;nın Haritası</entry>
+<entry name="COLLECTOR_MAP">Koleksiyoncu&#39;nun Haritası</entry>
 <entry name="DESCEND">İN</entry>
-<entry name="ELDERBUG_FLOWER">Narin Çiçek&#39;i Ataböcek&#39;e ver?</entry>
+<entry name="ELDERBUG_FLOWER">Narin Çiçek&#39;i Yaslı Böcek&#39;e ver?</entry>
 <entry name="ENTER">GİR</entry>
 <entry name="EXIT">ÇIK</entry>
-<entry name="FOUNTAIN_PLAQUE_DESC">Çok yükseklerdeki, Kara Mahzen&#39;de.&lt;br&gt;Onun fedakarlıgı sayesinde, yasayacak Hallownest sonsuza dek.</entry>
-<entry name="FOUNTAIN_PLAQUE_MAIN">Oyuk Şövalye</entry>
-<entry name="FOUNTAIN_PLAQUE_TOP">anısına:</entry>
+<entry name="FOUNTAIN_PLAQUE_DESC">Çok yükseklerdeki, Kara Mahzen&#39;de.&lt;br&gt;Onun fedakarlıgı sayesinde, var olacak Hallownest sonsuza dek.</entry>
+<entry name="FOUNTAIN_PLAQUE_MAIN">Hollow Knight</entry>
+<entry name="FOUNTAIN_PLAQUE_TOP">Anısına:</entry>
 <entry name="GEO_RELIEVE">Tüm Geo&#39;yu havuza bırak?</entry>
 <entry name="GET_ACIDARMOUR_1">Asit geri püskürtülecek.</entry>
 <entry name="GET_ACIDARMOUR_2">Hasar almadan asidik su birikintilerinde hareket edebilirsin.</entry>
@@ -57,7 +56,7 @@
 <entry name="GET_HUNTERMARK_2">Isaret, Avcı&#39;nın Günlügü&#39;nde saklanacak.</entry>
 <entry name="GET_ITEM_INTRO1">Alındı:</entry>
 <entry name="GET_ITEM_INTRO2">Tüketildi:</entry>
-<entry name="GET_ITEM_INTRO3">Ustalasıldı</entry>
+<entry name="GET_ITEM_INTRO3">Ustalasıldı:</entry>
 <entry name="GET_ITEM_INTRO4">Isaretlendi:</entry>
 <entry name="GET_ITEM_INTRO5">Toplandı:</entry>
 <entry name="GET_ITEM_INTRO6">Tüketildi:</entry>
@@ -106,11 +105,11 @@
 <entry name="NAILSMITH_UPGRADE_4">Igne&#39;ni gelistirmek için üç Solukcevher ve Geo ver?</entry>
 <entry name="NAME_BLESSING">Salubra&#39;nın Inayeti</entry>
 <entry name="NO">Hayır</entry>
-<entry name="NOT_ENOUGH_GEO">Yeterli GEO bulunmuyor.</entry>
+<entry name="NOT_ENOUGH_GEO">Yeterli Geo yok.</entry>
 <entry name="NO_MAP">Bölgenin haritasına sahip degilsin.</entry>
 <entry name="PROMPT_ATTACK">Saldır</entry>
-<entry name="PROMPT_DASH">Atıl</entry>
-<entry name="PROMPT_DREAMNAIL">Igne Düsü</entry>
+<entry name="PROMPT_DASH">Dash</entry>
+<entry name="PROMPT_DREAMNAIL">Rüya Çivisi</entry>
 <entry name="PROMPT_FIREBALL">Hınçlı Can</entry>
 <entry name="PROMPT_FOCUS">Odaklan</entry>
 <entry name="PROMPT_FOCUS_EXPLAINER1A">Düsmanlara saldırarak RUH biriktir.</entry>
@@ -121,7 +120,7 @@
 <entry name="PROMPT_LOOK_DOWN">Asagı Bak</entry>
 <entry name="PROMPT_MAP_BLACKEGG">Kara Yumurta Tapınagı haritaya eklendi</entry>
 <entry name="PROMPT_QUICKMAP">Harita&#39;ya bak</entry>
-<entry name="PROMPT_SUPERDASH">Süper Atılım</entry>
+<entry name="PROMPT_SUPERDASH">Süper Dash</entry>
 <entry name="REST">DİNLEN</entry>
 <entry name="RUINS_SHAMAN_1">Bir aygıta basılı bir figür.&lt;br&gt;Yakından incele?</entry>
 <entry name="SHOP">DÜKKAN</entry>
@@ -144,7 +143,7 @@
 <entry name="TRIAL_UNLOCK_GOLD">Ahmaklar Dövüsü&#39;nü açmak için öde?</entry>
 <entry name="TRIAL_UNLOCK_SILVER">Fatihler Dövüsü&#39;nü açmak için öde?</entry>
 <entry name="TUK_RANCIDEGG">Yiyecek satın al?</entry>
-<entry name="WATCH">IZLE</entry>
+<entry name="WATCH">İZLE</entry>
 <entry name="WATERWAY_DOOR_KEY">Üzerinde sıradan anahtar deligi bulunan bir mekanizma.&lt;br&gt;Ucuz Anahtar&#39;ı kullan?</entry>
 <entry name="WATERWAY_DOOR_NOKEY">Üzerinde sıradan anahtar deligi bulunan bir mekanizma.</entry>
 <entry name="XUN_OFFER">Hediye&#39;yi kabul et?</entry>
