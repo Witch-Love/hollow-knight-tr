@@ -39,7 +39,7 @@
 <entry name="GET_DOUBLEJUMP_1">ve havadayken kanatlarını çırp.</entry>
 <entry name="GET_DOUBLEJUMP_2">Düsmanların üzerinden süzülmek ve yeni yollar kesfetmek için ruhani kanatlarını kullan.</entry>
 <entry name="GET_DREAMGATE_1">Düskapısı olusturmak için Rüya Çivisi&#39;ni kullanırken ASAGI düsmesine basılı tut.</entry>
-<entry name="GET_DREAMGATE_2">Düskapısı&#39;na seyahat için Rüya Çivisi&#39;ni kullanırken YUKARI düsmesine basılı tut.</entry>
+<entry name="GET_DREAMGATE_2">Düskapısı&#39;na seyahat etmek için Rüya Çivisi&#39;ni kullanırken YUKARI düsmesine basılı tut.</entry>
 <entry name="GET_DREAMNAILUPGRADE_1">ve ignenle kes.</entry>
 <entry name="GET_DREAMNAILUPGRADE_2">Rüya Çivisi gelistirildi. Artık en korunaklı zihinlere bile girilebilir.</entry>
 <entry name="GET_DREAMNAIL_1">ve ignenle kes.</entry>
@@ -57,10 +57,10 @@
 <entry name="GET_ITEM_INTRO1">Alındı:</entry>
 <entry name="GET_ITEM_INTRO2">Tüketildi:</entry>
 <entry name="GET_ITEM_INTRO3">Ustalasıldı:</entry>
-<entry name="GET_ITEM_INTRO4">Isaretlendi:</entry>
+<entry name="GET_ITEM_INTRO4">Damgalandı:</entry>
 <entry name="GET_ITEM_INTRO5">Toplandı:</entry>
 <entry name="GET_ITEM_INTRO6">Tüketildi:</entry>
-<entry name="GET_ITEM_INTRO7">Emildi:</entry>
+<entry name="GET_ITEM_INTRO7">Özümsendi:</entry>
 <entry name="GET_ITEM_INTRO8">Alındı:</entry>
 <entry name="GET_JOURNAL_1">ile Menü&#39;yü aç, ardından &#39;Günlük&#39; kısmına git.</entry>
 <entry name="GET_JOURNAL_2">Günlüge yeni kayıtlar eklemek ve Avcı&#39;nın notlarını çözümlemek için düsmanlarını alt et.</entry>

@@ -27,7 +27,7 @@
 <entry name="LOVE_TOWER">Sevgi&lt;br&gt;Kulesi</entry>
 <entry name="LURIENS_TOWER">Gözcü&#39;nün Kulesi</entry>
 <entry name="MAGE_TOWER">Ruh Mabedi</entry>
-<entry name="MANTIS_VILLAGE">Matis Köyü</entry>
+<entry name="MANTIS_VILLAGE">Mantis Köyü</entry>
 <entry name="MINES">Kristal&lt;br&gt;Tepe</entry>
 <entry name="MONOMON_ARCHIVE">Ögretmen&#39;in Arsivi</entry>
 <entry name="NOEYES_TEMPLE">Tas Mabet</entry>
@@ -47,7 +47,7 @@
 <entry name="TOWN">Tozagız</entry>
 <entry name="TRAM_LOWER">Alt Tramvay</entry>
 <entry name="TRAM_UPPER">Üst Tramvay</entry>
-<entry name="WASTES">Mantarlık Issız</entry>
+<entry name="WASTES">Issız Mantarlık</entry>
 <entry name="WATERWAYS">Kraliyet Kanalları</entry>
 <entry name="WHITE_PALACE">Beyaz Saray</entry>
 <entry name="WYRMSKIN">Dökülmüs&lt;br&gt;Kabuk</entry>

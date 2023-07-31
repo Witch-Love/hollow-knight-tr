@@ -122,12 +122,12 @@
 <entry name="FUNGUS_CORE_MAIN">Çekirdek</entry>
 <entry name="FUNGUS_CORE_SUB"></entry>
 <entry name="FUNGUS_CORE_SUPER">Mantar</entry>
-<entry name="FUNGUS_MAIN">Issız</entry>
+<entry name="FUNGUS_MAIN">Mantarlık</entry>
 <entry name="FUNGUS_SHAMAN_MAIN">Mantar Şaman</entry>
 <entry name="FUNGUS_SHAMAN_SUB"></entry>
 <entry name="FUNGUS_SHAMAN_SUPER"></entry>
 <entry name="FUNGUS_SUB"></entry>
-<entry name="FUNGUS_SUPER">Mantarlık</entry>
+<entry name="FUNGUS_SUPER">Issız</entry>
 <entry name="GH_100NAIL_C_MAIN">Savaşçı</entry>
 <entry name="GH_100NAIL_C_SUB">by John Nugent</entry>
 <entry name="GH_100NAIL_C_SUPER">Yüz Çivili</entry>
@@ -596,7 +596,7 @@
 <entry name="VENGEFLY_MAIN">Kral</entry>
 <entry name="VENGEFLY_SUB"></entry>
 <entry name="VENGEFLY_SUPER">Kinsineği</entry>
-<entry name="WATERWAYS_MAIN">Kanalı</entry>
+<entry name="WATERWAYS_MAIN">Kanalları</entry>
 <entry name="WATERWAYS_SUB"></entry>
 <entry name="WATERWAYS_SUPER">Kraliyet</entry>
 <entry name="WEAVERS_DEN_MAIN">İni</entry>

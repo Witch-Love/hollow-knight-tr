@@ -140,8 +140,8 @@
 <entry name="TRAM_WORKER_03">...Kralım. Özür dilerim...</entry>
 <entry name="TUK_CORPSE_DREAM">...Bulmama... Yardım et...</entry>
 <entry name="TUT_TAB_01">Yüksek varlıklar, bu sözler yalnızca sizin için.&lt;br&gt;&lt;br&gt;Büyük gücünüz sizi bizden farklı kılıyor. Ruhunuza odaklanın ve digerlerinin ancak hayalini kurabilecegi becerileri elde edin.</entry>
-<entry name="TUT_TAB_02">Yüksek varlıklar, bu sözler yalnızca sizin için.&lt;br&gt;&lt;br&gt;Bu noktanın ötesinde Kral ve Yaratıcı&#39;nın topraklarına gireceksiniz.&lt;br&gt;Sırını geçin ve yasalarımıza uyun.&lt;br&gt;&lt;page&gt;Son ve tek uygarlıga, ebedi Krallıga tanıklık edin.&lt;br&gt;&lt;br&gt;Hallownest</entry>
-<entry name="TUT_TAB_03">Yüksek varlıklar, bu sözler yalnızca sizin için.&lt;br&gt;&lt;br&gt;Topraklarımızda gerçek formunuzu saklamayın. Herkes görkeminizi görsün, çünkü sadece bu krallık sizin gibileri üretebilir.</entry>
+<entry name="TUT_TAB_02">Yüksek varlıklar, bu sözler yalnızca sizin için.&lt;br&gt;&lt;br&gt;Bu noktanın ötesinde Kral ve Yaratıcı&#39;nın topraklarına gireceksiniz.&lt;br&gt;Sınırı geçin ve yasalarımıza uyun.&lt;br&gt;&lt;page&gt;Son ve tek uygarlıga, ebedi Krallıga tanıklık edin.&lt;br&gt;&lt;br&gt;Hallownest</entry>
+<entry name="TUT_TAB_03">Yüksek varlıklar, bu sözler yalnızca sizin için.&lt;br&gt;&lt;br&gt;Topraklarımızda gerçek formunuzu saklamayın. Herkes görkeminizi görsün, çünkü yalnızca bu krallık sizin gibileri üretebilir.</entry>
 <entry name="WATCHER_SPIRE_CORPSE_01">...Efendim... Çok yoruldum...</entry>
 <entry name="WATCHER_SPIRE_CORPSE_02">...Daha fazla... Izleyemiyorum...</entry>
 <entry name="WHITE_CORPSE_01">...Kayıp hükümdarımız, size simdi ihtiyacımız var...</entry>

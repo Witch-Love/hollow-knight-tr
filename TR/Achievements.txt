@@ -55,7 +55,7 @@
 <entry name="GREY_PRINCE_TITLE">Karanlık Aşk</entry>
 <entry name="GRIMM_TEXT">Topluluk Lideri Grimm&#39;i yen</entry>
 <entry name="GRIMM_TITLE">Üstün Performans</entry>
-<entry name="GRUBFRIEND_TEXT">Hapsedilmiş larvaların yarısını kurtar</entry>
+<entry name="GRUBFRIEND_TEXT">Tutsak larvaların yarısını kurtar</entry>
 <entry name="GRUBFRIEND_TITLE">Larva Dostu</entry>
 <entry name="HIDDEN_ACHIEVEMENT">Bu başarı gizlidir</entry>
 <entry name="HIDDEN_ACHIEVEMENT_TITLE">Gizli</entry>
@@ -73,7 +73,7 @@
 <entry name="MAP_TITLE">Kartograf</entry>
 <entry name="MASKED_TEXT">Tüm Maske Parçalarını elde et</entry>
 <entry name="MASKED_TITLE">Maskeli</entry>
-<entry name="METAMORFOSİS_METNİ">Hapsedilmiş tüm larvaları kurtar</entry>
+<entry name="METAMORFOSİS_METNİ">Tutsak olan tüm larvaları kurtar</entry>
 <entry name="METAMORPHOSIS_TITLE">Metamorfoz</entry>
 <entry name="MOURNER_TEXT">Gri Matemçi&#39;ye huzuru getir</entry>
 <entry name="MOURNER_TITLE">Teselli</entry>

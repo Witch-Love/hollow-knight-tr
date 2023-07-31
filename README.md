@@ -27,7 +27,7 @@ Fan yapımı olan [PaleCourt](https://github.com/PaleCourt/PaleCourt) DLC'sine e
 * [Map Zones](../../tree/master/TR/Map%20Zones.txt) ✅
 * [Minor NPC](../../tree/master/TR/Minor%20NPC.txt) ❌
 * [Nailmasters](../../tree/master/TR/Nailmasters.txt) ❌
-* [Nailsmith](../../tree/master/TR/Nailsmith.txt) ❌
+* [Nailsmith](../../tree/master/TR/Nailsmith.txt) ✅
 * [Prices](../../tree/master/TR/Prices.txt) ✅
 * [Prompts](../../tree/master/TR/Prompts.txt) ✅
 * [Quirrel](../../tree/master/TR/Quirrel.txt) ❌
@@ -37,5 +37,5 @@ Fan yapımı olan [PaleCourt](https://github.com/PaleCourt/PaleCourt) DLC'sine e
 * [Stag](../../tree/master/TR/Stag.txt) ❌
 * [StagMenu](../../tree/master/TR/StagMenu.txt) ✅
 * [Titles](../../tree/master/TR/Titles.txt) ✅
-* [UI](../../tree/master/TR/UI.txt) ❌
+* [UI](../../tree/master/TR/UI.txt) ✅
 * [Zote](../../tree/master/TR/Zote.txt) ❌
