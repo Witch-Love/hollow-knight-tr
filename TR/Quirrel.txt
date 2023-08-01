@@ -1,13 +1,13 @@
 <entries>
 <entry name="DREAM_ARCHIVE_ENTRANCE">...Nesin sen, beni buralara getiren? </entry>
 <entry name="DREAM_ARCHIVE_INTERIOR">Ufacık bir yaratık krallıgın kaderini omuzlarında tasıyor. Düsünebiliyor musun?</entry>
-<entry name="DREAM_CITY">Hallownest’in yüregi… Çürürken bile muhtesem.</entry>
-<entry name="DREAM_EGGTEMPLE">Bu his de ne böyle? Çok tanıdık. Ileri çıktı, sonraysa çekildi.&lt;page&gt;Kapıdaki su sekiller… Direkt olarak baktıgımda aklım bulanıyor.</entry>
+<entry name="DREAM_CITY">Hallownest’in yüregi... Çürürken bile muhtesem.</entry>
+<entry name="DREAM_EGGTEMPLE">Bu his de ne böyle? Çok tanıdık. Ileri çıktı, sonraysa çekildi.&lt;page&gt;Kapıdaki su sekiller... Direkt olarak baktıgımda aklım bulanıyor.</entry>
 <entry name="DREAM_LAKE">O kadar yasadım fakat azıcıgını hatırlıyorum... Belki de bunun için minnettar olmalıyımdır. Tüm o facia silindi gitti. Tek gördügüm, güzellikler...</entry>
 <entry name="DREAM_MANTIS_VILLAGE">...Bana Igneci’den bahseden kimdi? Hatırlayamıyorum. Ancak neredeyse ignecinin yüzünü düsleyebiliyorum... </entry>
 <entry name="DREAM_MINES">...Rüzgarlar yalnız aglıyor. Basındaki kayalık çok daha rahat durumda.</entry>
 <entry name="DREAM_QUEENSTATION">O kocaman geyikböcekleri bile Hallownest Kralına diz çökmüs. Nasıl bir baglılık asılamıssa artık.</entry>
-<entry name="DREAM_SLUGSHRINE">Su göl… saygıdeger bir varlık bir zamanlar derinliklerinde uyuyormus...&lt;page&gt;Mıs mı dedim? Böyle düsünmemi saglayan neydi ki?</entry>
+<entry name="DREAM_SLUGSHRINE">Su göl... saygıdeger bir varlık bir zamanlar derinliklerinde uyuyormus...&lt;page&gt;Mıs mı dedim? Böyle düsünmemi saglayan neydi ki?</entry>
 <entry name="DREAM_SPA">O da yuvanın merkezindeki yerleskeyi arıyor olmalı. O da benim gibi gizem çözme amacıyla burada.</entry>
 <entry name="QUIRREL_EPILOGUE_A">Yeniden karsılastık kısa arkadasım. Sonunda huzur içindeyim.&lt;page&gt;Bu dünyayı iki kez gördüm. Verdigim hizmet beni ilk seferinden yoksun bırakmıs olsa da bu güzelliklere tekrardan sahit olabildigim için mütesekkirim.&lt;page&gt;Hallownest devasa ve muhtesem. Içinde pek çok güzellik barındırıyor. Gel gör ki, senden daha ilgincini görmedim.&lt;page&gt;Heh. O kadar yagcılık yapıyorum ama karsılıgında yalın, sessiz bakıslarla karsılasıyorum. Bunu seviyorum.&lt;page&gt;Bunu çok ama çok seviyorum.</entry>
 <entry name="QUIRREL_EPILOGUE_B">...Inanılmaz...</entry>
@@ -21,7 +21,7 @@
 <entry name="QUIRREL_MANTIS_REPEAT">Yolculugum beni kente götürüyor. Eger Igneci’yi arayacak olursan, yollarımız yakında kesisebilir.</entry>
 <entry name="QUIRREL_MEET_TEMPLE">Esenlikler! Bu unutulmus yollarda baska bir yolcu ile karsılasmak beni çok memnun etti.&lt;page&gt;Kısasın ama durusundan güçlü oldugun belli oluyor.</entry>
 <entry name="QUIRREL_MEET_TEMPLE_B">Adım Quirrel. Daha önce kesfedilmemis yerlere saplantılıyım.&lt;page&gt;Bu kadim krallık pek çok büyüleyici gizemi barındırıyor. En ilginçlerinden biri de tam karsımızda duruyor.</entry>
-<entry name="QUIRREL_MEET_TEMPLE_C">Kadim krallıgın yıkıntıları arasında yatan büyük, tastan bir yumurta. Yumurta… sıcak mı? Essiz bir koku yaydıgı kesin.&lt;page&gt;Açılıyor mu? Üzerinde garip isaretler var…&lt;page&gt;Gizemlere bayılırım... Kim bilir altımızda ne olaganüstü seyler yatıyordur...</entry>
+<entry name="QUIRREL_MEET_TEMPLE_C">Kadim krallıgın yıkıntıları arasında yatan büyük, tastan bir yumurta. Yumurta... sıcak mı? Essiz bir koku yaydıgı kesin.&lt;page&gt;Açılıyor mu? Üzerinde garip isaretler var...&lt;page&gt;Gizemlere bayılırım... Kim bilir altımızda ne olaganüstü seyler yatıyordur...</entry>
 <entry name="QUIRREL_MINES_1">Heh, harika bir manzara, degil mi?&lt;page&gt;Parıltılı magaralardan sag salim çıkmıs olmana sasırmadım.&lt;page&gt;Sendeki gücün bir kaynagı var. Ufacık olmasan korkunç bir sey oldugunu sanırdım.</entry>
 <entry name="QUIRREL_MINES_2">Asagıdaki madencilerin hala daha bitkmek bilmez görevlerini yere getirdigini görmek sana da üzüntü verdi mi?&lt;page&gt;Üstesinden gelseler bile güçlü amaçları kabuklarına kazınmıs bir kere.&lt;page&gt;Kristallerin bir çesit enerji barındırdıgı söyleniyor. Yurttasların iliskilendirdikleri ruh kadar güçlü degilmis. Aynı zamanda daha az ölümcülmüs.&lt;page&gt;...Eskinin gerçeklerini bilmek harika. Tüm bu bilginin kaynagı ne acaba?</entry>
 <entry name="QUIRREL_MINES_3">Bu izleme noktasından su minnacık yerleskenin ısıklarını görebiliyorum.&lt;page&gt;Yerleske sakinlerinin bulundukları dünyanın ne kadar büyük oldugunu bildiklerinden bile süpheliyim.</entry>
@@ -43,8 +43,8 @@
 <entry name="QUIRREL_TEACHER_3">Hanımın yasamı son buldu. Onunla birlikte mühürde kırıldı.&lt;page&gt;Cüret ettigin sey çok agırdı. Ben becerilerini birinci elden görmüstüm. O da bunu basarabilecegine inanıyordu.&lt;page&gt;Sanırım yola dönme zamanın geldi. Izin verirsen birazcık dinlenecegim. Is bitti. Yasımı hissetmeye basladım.</entry>
 <entry name="QUIRREL_TEACHER_HESITATE">Neden tereddüt ediyorsun? Merhamet güzel bir sey. Ikinizinde bunu kabul etmesi gerek. Cesur ol, arkadasım.</entry>
 <entry name="QUIRREL_TEMPLE_1">Epeydir buraya yakınlık duyuyorum. Harika ve korkunç seylerle dolu pek çok öykü dinledim. Daha fazla karsı koyamadım. Kendim görmek istedim.&lt;page&gt;Gelmek için ne de güzel bir zaman seçmisim! Ölü dünyamız yasam buldu.&lt;page&gt;Yaratıklar gergin. Toprak gurulduyor. Hava yogun. Tüm bunların sebebi ne acaba?</entry>
-<entry name="QUIRREL_TEMPLE_2">Kullanılmıyor</entry>
-<entry name="QUIRREL_TEMPLE_3">Kullanılmıyor</entry>
+<entry name="QUIRREL_TEMPLE_2">Unused</entry>
+<entry name="QUIRREL_TEMPLE_3">Unused</entry>
 <entry name="QUIRREL_TEMPLE_4">Bu harabenin içinde yolculuk etmek için eski bir igne yeterli olmayacaktır. Yine de sıkıntı degil! Çevrene bakman yeterli.&lt;page&gt;Bizden önce buraya pek çok kisi gelmis ve korkunç sonlarıyla tanısmıs. Sen ve benden daha donanımlıymıslar.&lt;page&gt;Eminim yolcunun biri donanımlarını kullansa ses etmezlerdi. Gerçekten çok nazikler. Ölüler böyle seyleri önemsememeli.</entry>
 <entry name="QUIRREL_TEMPLE_5">Yukarıdaki köye ugramıs mıydın? Ne kadar kasvetli, küçük bir yer. Tam altı ise ne kadar zengin.&lt;page&gt;Sanırım bu yüzden herkes buraya geliyor. Tüm bu olasılıklar kim karsı koyabilir ki?</entry>
 <entry name="QUIRREL_TEMPLE_6">Gerçekten muhtesem...</entry>

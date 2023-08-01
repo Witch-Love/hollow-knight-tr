@@ -17,7 +17,7 @@
 <entry name="FOG_CANYON">Sis Vadisi</entry>
 <entry name="GLADE">Ruhlar Çıkmazı</entry>
 <entry name="GODSEEKER_WASTE">Çöp Çukuru</entry>
-<entry name="GODS_GLORY">Tanrıevi</entry>
+<entry name="GODS_GLORY">Tanrıyuva</entry>
 <entry name="GREEN_PATH">Yesil Yol</entry>
 <entry name="HIVE">Kovan</entry>
 <entry name="ISMAS_GROVE">Isma&#39;nın Korusu</entry>
@@ -34,7 +34,7 @@
 <entry name="NONE"></entry>
 <entry name="OUTSKIRTS">Krallıgın Ucu</entry>
 <entry name="OVERGROWN_MOUND">Asırı Büyümüs Höyük</entry>
-<entry name="PALACE_GROUNDS">Saray Toprakları</entry>
+<entry name="PALACE_GROUNDS">Saray Arazisi</entry>
 <entry name="PEAK">Hallownest&#39;in Zirvesi</entry>
 <entry name="QUEENS_STATION">Kraliçe Duragı</entry>
 <entry name="RESTING_GROUNDS">Gömütlük Bölge</entry>

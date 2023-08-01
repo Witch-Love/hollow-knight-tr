@@ -113,7 +113,7 @@
 <entry name="LITTLE_FOOL_CHALLENGE">Imzanı bıraktın. Büyük kapımız açıldı. Gir bakalım! Arenaya adım at ve rakiplerini keserek zaferini kazan.</entry>
 <entry name="LITTLE_FOOL_CHAMP">Gerçek bir ahmak savasmayı kesmez. Kazanılacak zafer kalmamıs olsa bile. Tahtanın oraya geç ve imzanı bırak! Bize gerçekten ne kadar ahmak oldugunu göster!</entry>
 <entry name="LITTLE_FOOL_COWARD">Imzanı bıraktın ve kaçtın! Ne kadar da korkaksın! Belki de sende içeri girecek yürek yoktur...&lt;page&gt;Gerçek savasçılar durmaksızın savastan savasa atlarlar. Rakiplerini yenerek güç kazanırlar, rakiplerinden kaçarak degil.</entry>
-<entry name="LITTLE_FOOL_DIED">Ne? Yemin ederim ki az önce dövüse katıldıgını gördüm… Hatta çokta güzel bir sekilde öldün ama su anda… emin olamıyorum.&lt;page&gt;Herhalde hayal gördüm. Dövüsçülerin ölümlerini kafamda canlandırmaya çalısıyorum. Zihne antrenman yaptırmıs oluyorsun, özellikle hareket edemiyorken…</entry>
+<entry name="LITTLE_FOOL_DIED">Ne? Yemin ederim ki az önce dövüse katıldıgını gördüm... Hatta çokta güzel bir sekilde öldün ama su anda... emin olamıyorum.&lt;page&gt;Herhalde hayal gördüm. Dövüsçülerin ölümlerini kafamda canlandırmaya çalısıyorum. Zihne antrenman yaptırmıs oluyorsun, özellikle hareket edemiyorken...</entry>
 <entry name="LITTLE_FOOL_DREAM">Efendim, bana bir sans daha verin. Ne kadar güçlü oldugumu size kanıtlayayım!</entry>
 <entry name="LITTLE_FOOL_GREET">Tekrardan hosgeldin, savasçı!</entry>
 <entry name="LITTLE_FOOL_LOCKED">O kadar çabuk degil! Yeterli deneyimi kazanmamıs olanlar o dövüse katılamaz. Önce diger dövüsleri dene.</entry>
@@ -148,7 +148,7 @@
 <entry name="MINER_INFECTED_REPEAT">...Göm... bedenimi... ört... kabugumu,&lt;br&gt;Anlamı. Karanlıgın... TEHLIKELI... Yine. Burada...&lt;br&gt;ISIGA.... Dek...</entry>
 <entry name="MINER_MEET_1">Ühühü, soluk ve önemsizdi, göm anamı,&lt;br&gt;Gözlerini kapat sıkıca, göm babamı!&lt;br&gt;Göm kardeslerimi, ikiser ikiser,&lt;br&gt;bitince isin, eh beni de gömüver!</entry>
 <entry name="MINER_MEET_1_B">Hehehe, ilk kez mi duyuyorsun? En sevdiklerimdendir! Istersen baska bir sey de söyleyebiliriz. Sen basla, ben devam edeyim. Eminim sesin çok güzeldir! Hehehe!&lt;page&gt;Pekala, buraya neden geldin? Zengin olmak için geldiysen, eh, etrafına bir bak derim! Madenler servet saçıyor! Herkese yetecek kadar var. Bir kazma kap ve kazmaya basla! Hehe!</entry>
-<entry name="MINER_MEET_REPEAT">Ühühü, göm sövalyeyi al kırık ignesini,&lt;br&gt;Göm… r-rahibi... taçla ilgili bir seydi...?&lt;br&gt;Hehehe, devamını hatırlamıyorum. Belki mırıldanabilirim.</entry>
+<entry name="MINER_MEET_REPEAT">Ühühü, göm sövalyeyi al kırık ignesini,&lt;br&gt;Göm... r-rahibi... taçla ilgili bir seydi...?&lt;br&gt;Hehehe, devamını hatırlamıyorum. Belki mırıldanabilirim.</entry>
 <entry name="MOSS_CULTIST_01">Ahhh, parlak varlık. Hepimizi kutsuyorsun. Isınların bize dokunuyor. Isın bizi dolduruyor.&lt;page&gt;Hallownest, parıldayan görüntün altında birlesiyor ve yeniden doguyor. Ahhh... </entry>
 <entry name="MOSS_CULTIST_02">Isık hayattır, saftır, harikadır, yayılır. Isıgı bogmak dogayı bastırmaktır.Doga bastırılırsa bozulur ve hastalıklar yayılır. Isıgı benimseyin! Birligi saglayın! Ahhh.... </entry>
 <entry name="MOSS_CULTIST_DREAM">...Köreltiyor... Yüceltiyor... Asla bos kalmayacak...</entry>

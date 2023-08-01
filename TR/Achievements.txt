@@ -13,7 +13,7 @@
 <entry name="BEAST_TITLE">Canavar</entry>
 <entry name="BLESSED_TEXT">Tüm Tılsımları elde et ve Salubra&#39;nın kutsamasını elde et</entry>
 <entry name="BLESSED_TITLE">Kutsanmış</entry>
-<entry name="BROKEN_VESSEL_TEXT">Broken Vessel&#39;ı yen</entry>
+<entry name="BROKEN_VESSEL_TEXT">Kopuk Vessel&#39;ı yen</entry>
 <entry name="BROKEN_VESSEL_TITLE">Kurtuluş</entry>
 <entry name="CHARMED_TEXT">İlk Tılsımını elde et</entry>
 <entry name="CHARMED_TITLE">Tılsımlanmış</entry>
