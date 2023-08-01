@@ -291,7 +291,7 @@
 <entry name="NAME_NIGHTMARE_GRIMM">Kabus Kralı</entry>
 <entry name="NAME_OBLOBBLE">Kütlecik</entry>
 <entry name="NAME_ORANGE_BALLOON">Hastalıklı Baloncuk</entry>
-<entry name="NAME_PAINTMASTER">Çizim Ustası Sheo</entry>
+<entry name="NAME_PAINTMASTER">Boya Ustası Sheo</entry>
 <entry name="NAME_PALACE_FLY">Kanatbiçim</entry>
 <entry name="NAME_PALE_LURKER">Soluk Pusucu</entry>
 <entry name="NAME_PARASITE_BLOB">Nurtanecigi</entry>
@@ -400,7 +400,7 @@
 <entry name="NOTE_GHOST_NOEYES">Içindekiler...&lt;br&gt;Geliyorlar...&lt;br&gt;Çıkar onları!&lt;br&gt;- Gözsüz</entry>
 <entry name="NOTE_GHOST_XERO">Trajedi ve zaferle tanımlanan bir hayat. Üzüntü ve pismanlıktan ötürü gerçeklesen bir ölüm. Günah ve anılarla yüklenmis bir ruh. Zaferle lanetlenecegime dünyayı dolasırım.&lt;br&gt;- Xero</entry>
 <entry name="NOTE_GIANT_HOPPER">Boyutuna göre degerli bir düsman. Ya mesafeni koru, ya da atlayıslarından kaçınacak sekilde dans et ve bacaklarına saldır.</entry>
-<entry name="NOTE_GODSEEKER_MASK">&quot;Göklerin ve Yagısın Tanrıları! Neden hizmetkarlarınızı terk ediyorsunuz? Zihinlerimiz acı çeksin, biz de üzüntüden aglayalım diye yalnız mı bırakılacagız? Hangi Tanrı bizi bu üzücü sessizlikten çıkaracak?&quot;&lt;br&gt;- Tanrıarayıcı Agıtı</entry>
+<entry name="NOTE_GODSEEKER_MASK">&quot;Göklerin ve Yagısın Tanrıları! Neden hizmetkarlarınızı terk ediyorsunuz? Zihinlerimiz acı çeksin, biz de üzüntüden aglayalım diye yalnız mı bırakılacagız? Hangi Tanrı bizi bu üzücü sessizlikten çıkaracak?&quot;&lt;br&gt;- Godseeker Agıtı</entry>
 <entry name="NOTE_GORGEOUS_HUSK">Pek çok sey güzeldir. Isıgın su üzerindeki yansıması, taze av eti, yavru bir böcegin aglayısı... Bu metal ve tas arzusunu bir türlü anlayamıyorum.</entry>
 <entry name="NOTE_GRASS_HOPPER">Enerjileri sonsuz gibi! Acaba yemek yemek, uyumak ya da sevismek için ara veriyorlar mıdır?</entry>
 <entry name="NOTE_GREAT_SHIELD_ZOMBIE">Bunlar çok nadir görülen ve gerçekten tehdit olusturabilen Hallownest böcekleridir. Dikkatli ol. Yıkıcı saldırılarıyla isini çabucak bitirebilirler.</entry>

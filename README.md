@@ -9,7 +9,7 @@ Fan yapımı olan [PaleCourt](https://github.com/PaleCourt/PaleCourt) DLC'sine e
 * [Charm Slug](../../tree/master/TR/Charm%20Slug.txt) ❌
 * [Cornifer](../../tree/master/TR/Cornifer.txt) ❌
 * [CP2](../../tree/master/TR/CP2.txt) ❌
-* [CP3](../../tree/master/TR/CP3.txt) ❌
+* [CP3](../../tree/master/TR/CP3.txt) ✅
 * [Credits List](../../tree/master/TR/Credits%20List.txt) ✅
 * [Dream Witch](../../tree/master/TR/Dream%20Witch.txt) ❌
 * [Dreamers](../../tree/master/TR/Dreamers.txt) ✅
