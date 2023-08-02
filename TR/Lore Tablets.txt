@@ -128,7 +128,7 @@
 <entry name="SARCOPHAGUS_01">...Bırakın dinleneyim...</entry>
 <entry name="SCREAM_ALTAR">...Seslerimiz... yeniden... yükselecek...</entry>
 <entry name="SENSE_TAB_01">Vessel. Baglı olsan da dünyanın halinden haberdar olmalısın.&lt;br&gt;&lt;br&gt;Hallownest yeniden bir bütün olacak.</entry>
-<entry name="SHADE_BEAST_01">...Hiçlik... Güç... Birlik olmadan...</entry>
+<entry name="SHADE_BEAST_01">...Hiçligin... Gücü... Birlik olmadan...</entry>
 <entry name="SHADE_BEAST_02">...Gölgelerin Lordu...</entry>
 <entry name="SPIDER_COCOON_01">...Dost degiller...</entry>
 <entry name="SPIDER_COCOON_02">...Yalan söylediler...</entry>

@@ -75,7 +75,7 @@
 <entry name="DEEPNEST_SUB"></entry>
 <entry name="DEEPNEST_SUPER"></entry>
 <entry name="DIRTMOUTH_MAIN">Tozağız</entry>
-<entry name="DIRTMOUTH_SUB">Solan Yerleşke</entry>
+<entry name="DIRTMOUTH_SUB">Solan Kasaba</entry>
 <entry name="DIRTMOUTH_SUPER"></entry>
 <entry name="DIVINE_MAIN">Kutsal</entry>
 <entry name="DIVINE_SUB"></entry>
@@ -576,8 +576,8 @@
 <entry name="STORMLAND_SUB">Diyarı</entry>
 <entry name="STORMLAND_SUPER"></entry>
 <entry name="TEMP_NM_MAIN">Oro &amp; Mato</entry>
-<entry name="TEMP_NM_SUB"></entry>
-<entry name="TEMP_NM_SUPER">Kardeşler</entry>
+<entry name="TEMP_NM_SUB">Kardeşler</entry>
+<entry name="TEMP_NM_SUPER"></entry>
 <entry name="TISO_C_MAIN">Tiso</entry>
 <entry name="TISO_C_SUB">by Tiso Spencer</entry>
 <entry name="TISO_C_SUPER"></entry>

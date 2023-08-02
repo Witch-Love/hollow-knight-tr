@@ -99,7 +99,7 @@
 <entry name="PROTECTED_TITLE">Korunan</entry>
 <entry name="QUIRREL_EPILOGUE_TEXT">Quirrel ile son kez vakit geçir</entry>
 <entry name="QUIRREL_EPILOGUE_TITLE">Tanık</entry>
-<entry name="SOULFUL_TEXT">3 Vessel Parçacığı elde et</entry>
+<entry name="SOULFUL_TEXT">3 Hazne Parçacığı elde et</entry>
 <entry name="SOULFUL_TITLE">Duygulu</entry>
 <entry name="SOUL_MASTER_DEFEAT_TEXT">Ruh Efendisi&#39;ni yen</entry>
 <entry name="SOUL_MASTER_DEFEAT_TITLE">Zihin Aydınlanması</entry>
@@ -129,7 +129,7 @@
 <entry name="WHITE_DEFENDER2_TITLE">Dostluk</entry>
 <entry name="WHITE_DEFENDER_TEXT">Beyaz Muhafız&#39;ı yen</entry>
 <entry name="WHITE_DEFENDER_TITLE">Hatıra</entry>
-<entry name="WORLDSOUL_TEXT">Tüm Vessel Parçacıklarını elde et</entry>
+<entry name="WORLDSOUL_TEXT">Tüm Hazne Parçacıklarını elde et</entry>
 <entry name="WORLDSOUL_TITLE">Dünyanın Ruhu</entry>
 <entry name="ZOTE_TEXT">Ahmaklar Kolezyumu&#39;nda Zote&#39;u yen</entry>
 <entry name="ZOTE_TITLE">Rekabet</entry>

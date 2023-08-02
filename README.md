@@ -7,7 +7,7 @@ Fan yapımı olan [PaleCourt](https://github.com/PaleCourt/PaleCourt) DLC'sine e
 * [Backer Messages](../../tree/master/TR/Backer%20Messages.txt) ❌
 * [Banker](../../tree/master/TR/Banker.txt) ✅
 * [Charm Slug](../../tree/master/TR/Charm%20Slug.txt) ❌
-* [Cornifer](../../tree/master/TR/Cornifer.txt) ❌
+* [Cornifer](../../tree/master/TR/Cornifer.txt) ✅
 * [CP2](../../tree/master/TR/CP2.txt) ❌
 * [CP3](../../tree/master/TR/CP3.txt) ✅
 * [Credits List](../../tree/master/TR/Credits%20List.txt) ✅
@@ -34,7 +34,7 @@ Fan yapımı olan [PaleCourt](https://github.com/PaleCourt/PaleCourt) DLC'sine e
 * [Relic Dealer](../../tree/master/TR/Relic%20Dealer.txt) ❌
 * [Shaman](../../tree/master/TR/Shaman.txt) ❌
 * [Sly](../../tree/master/TR/Sly.txt) ❌
-* [Stag](../../tree/master/TR/Stag.txt) ❌
+* [Stag](../../tree/master/TR/Stag.txt) ✅
 * [StagMenu](../../tree/master/TR/StagMenu.txt) ✅
 * [Titles](../../tree/master/TR/Titles.txt) ✅
 * [UI](../../tree/master/TR/UI.txt) ✅

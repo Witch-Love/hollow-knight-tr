@@ -175,7 +175,7 @@
 <entry name="GODSEEKER_ENGINE_DREAM">Ey Hallownest&#39;in Tanrıları, Bize gücünüzü gösterin! Kendimizi size adayacak ve daha da yükselecegiz!</entry>
 <entry name="GODSEEKER_ENGINE_DREAM_GGMODE">Her seyimizi size bırakıyoruz. Kabugumuzu. Zihnimizi. Bizler sizin huzurunuzda köleden baska bir sey degiliz, ey Tanrıların görkemli Tanrısı!</entry>
 <entry name="GODSEEKER_ENGINE_GGMODE">Tanrıların Tanrısı! Ne kadar açık. Ne kadar da net. Bu küçük kabuk senin ezici gücünü, her seyi tüketen ihtisamını zorlukla gizliyor!&lt;page&gt;Cezalandır bizi, ey Yok Edici! Ez bizi! Acınası varlıgımıza çivi ve kırbaç yagmurları yagdır. Böyle bir ilahi cezayı memnuniyetle kabul ediyoruz!</entry>
-<entry name="GODSEEKER_ENGINE_PRIME">Ey sefil olan, saygını göster. Korkunu göster! Yüce ve korkunç bir Tanrı&#39;ya huzuruna ilerliyorsun.&lt;page&gt;Dünyevi bedeni baglanmıs ve kirletilmis olsa da, bu pantheon&#39;un hükümdarı olan saf formunun ihtisamı varlıgını sürdürüyor. Onun sonsuz gücü Bizi daha da yüce olana, Tanrıların Tanrısına yaklastıracak!&lt;page&gt;Sefil olan, kendini bu Tanrı&#39;ya denk mi sanıyorsun? Kendini onun suretinde mi hayal ediyorsun? Benzer bir sekle bürünüyorsun ve içindeki o derilerdeki yankı çok tanıdık geliyor...&lt;page&gt;Ahh! Bunlar nasıl düsünceler? Zihnimize küfür tohumları saçıyorsun, alçak! Defol! Hiçligin Tanrısı&#39;nın seni sonsuza dek susturması için dua ediyoruz!</entry>
+<entry name="GODSEEKER_ENGINE_PRIME">Ey sefil olan, saygını göster. Korkunu göster! Yüce ve korkunç bir Tanrı&#39;ya huzuruna ilerliyorsun.&lt;page&gt;Dünyevi bedeni baglanmıs ve kirletilmis olsa da, bu pantheon&#39;un hükümdarı olan saf formunun ihtisamı varlıgını sürdürüyor. Onun tükenmeyen gücü Bizi daha da yüce olana, Tanrıların Tanrısına yakınlastıracak!&lt;page&gt;Sefil olan, kendini bu Tanrı&#39;ya denk mi sanıyorsun? Kendini onun suretinde mi hayal ediyorsun? Benzer bir sekle bürünüyorsun ve içindeki o derilerdeki yankı çok tanıdık geliyor...&lt;page&gt;Ahh! Bunlar nasıl düsünceler? Zihnimize küfür tohumları saçıyorsun, alçak! Defol! Hiçligin Tanrısı&#39;nın seni sonsuza dek susturması için dua ediyoruz!</entry>
 <entry name="GODSEEKER_ENGINE_PRIME_DREAM">Ey baglı olan, sessizligin bizi neredeyse sagır ediyor. Aptalca korktuk senden, yine de sadece senin takdirinle bulacagız aradıgımızı. Içinde uyumakta olan Tanrı&#39;yı... </entry>
 <entry name="GODSEEKER_ENGINE_PRIME_REPEAT">Sen bir Tanrı degilsin! Taklitçi, defol! Sessiz ol!</entry>
 <entry name="GODSEEKER_ENGINE_PRIME_REVISIT">Çivini bu saf vessel ile çarpıstırmak için geri döndün. Ne amaç ugruna, sadece merak edebiliyoruz.&lt;page&gt;Dövüsmek sizi birbirinize mi yakınlastırıyor? Sen de mi Tanrılarla yakınlasmak istiyorsun? Yoksa içinde bir yerlerde baska bir arzun mu var?</entry>
@@ -353,8 +353,8 @@
 <entry name="STORMLAND_SUB">Diyarı</entry>
 <entry name="STORMLAND_SUPER"></entry>
 <entry name="TEMP_NM_MAIN">Oro &amp; Mato</entry>
-<entry name="TEMP_NM_SUB"></entry>
-<entry name="TEMP_NM_SUPER">Kardeşler</entry>
+<entry name="TEMP_NM_SUB">Kardeşler</entry>
+<entry name="TEMP_NM_SUPER"></entry>
 <entry name="TROPHIES_BASE_SET_TEXT">Hollow Knight&#39;ın Kupaları</entry>
 <entry name="TROPHIES_BASE_SET_TITLE">Hollow Knight Kupaları</entry>
 <entry name="UI_BEGIN">MEYDAN OKU</entry>
