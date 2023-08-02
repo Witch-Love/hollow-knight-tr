@@ -32,8 +32,8 @@ Fan yapımı olan [PaleCourt](https://github.com/PaleCourt/PaleCourt) DLC'sine e
 * [Prompts](../../tree/master/TR/Prompts.txt) ✅
 * [Quirrel](../../tree/master/TR/Quirrel.txt) ❌
 * [Relic Dealer](../../tree/master/TR/Relic%20Dealer.txt) ❌
-* [Shaman](../../tree/master/TR/Shaman.txt) ❌
-* [Sly](../../tree/master/TR/Sly.txt) ❌
+* [Shaman](../../tree/master/TR/Shaman.txt) ✅
+* [Sly](../../tree/master/TR/Sly.txt) ✅
 * [Stag](../../tree/master/TR/Stag.txt) ✅
 * [StagMenu](../../tree/master/TR/StagMenu.txt) ✅
 * [Titles](../../tree/master/TR/Titles.txt) ✅
