@@ -13,7 +13,7 @@ Fan yapımı olan [PaleCourt](https://github.com/PaleCourt/PaleCourt) DLC'sine e
 * [Credits List](../../tree/master/TR/Credits%20List.txt) ✅
 * [Dream Witch](../../tree/master/TR/Dream%20Witch.txt) ❌
 * [Dreamers](../../tree/master/TR/Dreamers.txt) ✅
-* [Elderbug](../../tree/master/TR/Elderbug.txt) ❌
+* [Elderbug](../../tree/master/TR/Elderbug.txt) ✅
 * [Enemy Dreams](../../tree/master/TR/Enemy%20Dreams.txt) ✅
 * [General](../../tree/master/TR/General.txt) ✅
 * [Ghosts](../../tree/master/TR/Ghosts.txt) ❌
