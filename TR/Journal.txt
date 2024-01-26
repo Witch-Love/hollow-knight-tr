@@ -293,7 +293,7 @@
 <entry name="NAME_ORANGE_BALLOON">Enfekte Baloncuk</entry>
 <entry name="NAME_PAINTMASTER">Boya Ustası Sheo</entry>
 <entry name="NAME_PALACE_FLY">Wingmould</entry>
-<entry name="NAME_PALE_LURKER">Pale Lurker</entry>
+<entry name="NAME_PALE_LURKER">Soluk Lurker</entry>
 <entry name="NAME_PARASITE_BLOB">Enfekte Tohum</entry>
 <entry name="NAME_PIGEON">Maskesinegi</entry>
 <entry name="NAME_PLANT_SHOOTER">Gulka</entry>

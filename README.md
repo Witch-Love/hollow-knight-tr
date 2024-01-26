@@ -30,7 +30,7 @@ Fan yapımı olan [PaleCourt](https://github.com/PaleCourt/PaleCourt) DLC'sine e
 * [Nailsmith](../../tree/master/TR/Nailsmith.txt) ✅
 * [Prices](../../tree/master/TR/Prices.txt) ✅
 * [Prompts](../../tree/master/TR/Prompts.txt) ✅
-* [Quirrel](../../tree/master/TR/Quirrel.txt) ❌
+* [Quirrel](../../tree/master/TR/Quirrel.txt) ✅
 * [Relic Dealer](../../tree/master/TR/Relic%20Dealer.txt) ❌
 * [Shaman](../../tree/master/TR/Shaman.txt) ✅
 * [Sly](../../tree/master/TR/Sly.txt) ✅

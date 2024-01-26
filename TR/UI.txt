@@ -360,7 +360,7 @@
 <entry name="SHOP_DESC_NOTCH_3_NE">Bu, tılsımları benim kadar çok sevenlere özel bir ürün.&lt;br&gt;&lt;br&gt;18 tılsıma sahip oldugunda, sana memnuniyetle satabilirim.&lt;br&gt;&lt;br&gt;Yalnızca </entry>
 <entry name="SHOP_DESC_NOTCH_4">Çok fazla tılsım takabilmek istiyorsun, degil mi? Tabii ki istiyorsun!&lt;br&gt;&lt;br&gt;Bu tılsım çentigini satın al ve daha fazla tılsımı aynı anda takabilme imkanına sahip ol. </entry>
 <entry name="SHOP_DESC_NOTCH_4_NE">Bu, tılsımları benim kadar çok sevenlere özel bir ürün.&lt;br&gt;&lt;br&gt;25 tılsıma sahip oldugunda, sana memnuniyetle satabilirim.&lt;br&gt;&lt;br&gt;Yalnızca </entry>
-<entry name="SHOP_DESC_QUICKFOCUS">Ortasındaki kristal kısmı çok güzel değil mi? Hatta olaganüstü! Kristallerin &quot;odaklanma&quot; konusunda yardımcı oldugunu duymustum, bu yüzden eger ilgini çeken bir seyse bu güzelligi evine götürmelisin!</entry>
+<entry name="SHOP_DESC_QUICKFOCUS">Ortasındaki kristal kısmı çok güzel degil mi? Hatta olaganüstü! Kristallerin &quot;odaklanma&quot; konusunda yardımcı oldugunu duymustum, bu yüzden eger ilgini çeken bir seyse bu güzelligi evine götürmelisin!</entry>
 <entry name="SHOP_DESC_QUILL">Kesfettigin yeni bölgelerle haritanı güncellemek istiyorsan buna ihtiyacın olacak.&lt;br&gt;&lt;br&gt;Haritalama konusunda ciddi olan herkesin vazgeçilmezidir!</entry>
 <entry name="SHOP_DESC_SIMPLEKEY">Basitçe, basit bir anahtar. Çesitli kilitleri açabilir. Bu yüzden ait olmadıgın yerlerde dolasmayı seviyorsan kullanıslıdır. </entry>
 <entry name="SHOP_DESC_SLYEGG">Bunu tezgahın altında buldum. Ben harabelerde mahsur kalmısken bir canlı bunu buraya bırakmıs olmalı.&lt;br&gt;&lt;br&gt;Sanırım satın alabilirsin? Eksi ve keskin kokusunu özlemem.</entry>
